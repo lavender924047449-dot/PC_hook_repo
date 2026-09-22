@@ -1,0 +1,7 @@
+{
+  "scan": {
+    "skipped": 1,
+    "base": "0x5e0000"
+  },
+  "ctor_xrefs": []
+}

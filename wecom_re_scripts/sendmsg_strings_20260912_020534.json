@@ -1,0 +1,3608 @@
+[
+  {
+    "offset": "0xabbb697",
+    "va": "0xb52b697",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 filled conv_msgs count: "
+  },
+  {
+    "offset": "0xabbb738",
+    "va": "0xb52b738",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 execte, conversationId = "
+  },
+  {
+    "offset": "0xabbb8c5",
+    "va": "0xb52b8c5",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::DoExecute] retry init security sdk"
+  },
+  {
+    "offset": "0xabbb901",
+    "va": "0xb52b901",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::DoExecute] retry init e2e security manager"
+  },
+  {
+    "offset": "0xabbb945",
+    "va": "0xb52b945",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::InitSecurityManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb985",
+    "va": "0xb52b985",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::InitE2EManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb9bc",
+    "va": "0xb52b9bc",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2, need upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbbe50",
+    "va": "0xb52be50",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 UploadSingleResourceFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc12c",
+    "va": "0xb52c12c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 SaveSpeed "
+  },
+  {
+    "offset": "0xabbc170",
+    "va": "0xb52c170",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2, upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbc1f4",
+    "va": "0xb52c1f4",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2:IsAppDetailUrl:"
+  },
+  {
+    "offset": "0xabbc21d",
+    "va": "0xb52c21d",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] OnGetOriginUrl. "
+  },
+  {
+    "offset": "0xabbc610",
+    "va": "0xb52c610",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 SendMessage tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc6a0",
+    "va": "0xb52c6a0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::SendMessagerequest_package->out_contact_type: "
+  },
+  {
+    "offset": "0xabbc7f0",
+    "va": "0xb52c7f0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2 UpdateP2pMsgFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc9a8",
+    "va": "0xb52c9a8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2::CheckCrmCustomerConversationStatus is_current_conv_end:"
+  },
+  {
+    "offset": "0xabbca88",
+    "va": "0xb52ca88",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2:CrawlUrl fail for appdetail"
+  },
+  {
+    "offset": "0xabbcb30",
+    "va": "0xb52cb30",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2:CrawlUrl: title:"
+  },
+  {
+    "offset": "0xabbce19",
+    "va": "0xb52ce19",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] HandleClawScreenUploads: start async screen image upload + OCR. "
+  },
+  {
+    "offset": "0xabbce95",
+    "va": "0xb52ce95",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] Claw screen upload + OCR failed. "
+  },
+  {
+    "offset": "0xabbced9",
+    "va": "0xb52ced9",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] Claw screen upload + OCR complete. "
+  },
+  {
+    "offset": "0xabbcf19",
+    "va": "0xb52cf19",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] re-parse ForwardMessages failed after screen upload. "
+  },
+  {
+    "offset": "0xabbcf69",
+    "va": "0xb52cf69",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] PicContext upload failed. "
+  },
+  {
+    "offset": "0xabbcfa1",
+    "va": "0xb52cfa1",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] re-parse ForwardMessages failed after pic context upload. "
+  },
+  {
+    "offset": "0xabbcff9",
+    "va": "0xb52cff9",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2] All claw async uploads complete, proceeding to SendMessage. "
+  },
+  {
+    "offset": "0xb4a7b58",
+    "va": "0xbe17b58",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask"
+  },
+  {
+    "offset": "0xcd85bf0",
+    "va": "0xd6f5bf0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@"
+  },
+  {
+    "offset": "0xcd85c30",
+    "va": "0xd6f5c30",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd85cb0",
+    "va": "0xd6f5cb0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd85d43",
+    "va": "0xd6f5d43",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$alloc"
+  },
+  {
+    "offset": "0xcd85ea2",
+    "va": "0xd6f5ea2",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@34@@Z@"
+  },
+  {
+    "offset": "0xcd85f53",
+    "va": "0xd6f5f53",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@"
+  },
+  {
+    "offset": "0xcd85fb2",
+    "va": "0xd6f5fb2",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86012",
+    "va": "0xd6f6012",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86072",
+    "va": "0xd6f6072",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd860d8",
+    "va": "0xd6f60d8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd8612c",
+    "va": "0xd6f612c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V78@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@8@@Z@"
+  },
+  {
+    "offset": "0xcd86215",
+    "va": "0xd6f6215",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd86288",
+    "va": "0xd6f6288",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@"
+  },
+  {
+    "offset": "0xcd86370",
+    "va": "0xd6f6370",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@6@@Z@"
+  },
+  {
+    "offset": "0xcd86451",
+    "va": "0xd6f6451",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd864a8",
+    "va": "0xd6f64a8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86567",
+    "va": "0xd6f6567",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd865d9",
+    "va": "0xd6f65d9",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd86638",
+    "va": "0xd6f6638",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@"
+  },
+  {
+    "offset": "0xcd866d6",
+    "va": "0xd6f66d6",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86730",
+    "va": "0xd6f6730",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd867bd",
+    "va": "0xd6f67bd",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86818",
+    "va": "0xd6f6818",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86898",
+    "va": "0xd6f6898",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86918",
+    "va": "0xd6f6918",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86998",
+    "va": "0xd6f6998",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86a28",
+    "va": "0xd6f6a28",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@"
+  },
+  {
+    "offset": "0xcd86af5",
+    "va": "0xd6f6af5",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@"
+  },
+  {
+    "offset": "0xcd86ba8",
+    "va": "0xd6f6ba8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86c50",
+    "va": "0xd6f6c50",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86cc0",
+    "va": "0xd6f6cc0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d2b",
+    "va": "0xd6f6d2b",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d99",
+    "va": "0xd6f6d99",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86e02",
+    "va": "0xd6f6e02",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd86f02",
+    "va": "0xd6f6f02",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87002",
+    "va": "0xd6f7002",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87102",
+    "va": "0xd6f7102",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87201",
+    "va": "0xd6f7201",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd872d8",
+    "va": "0xd6f72d8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd873f1",
+    "va": "0xd6f73f1",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87489",
+    "va": "0xd6f7489",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87521",
+    "va": "0xd6f7521",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd875b7",
+    "va": "0xd6f75b7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87652",
+    "va": "0xd6f7652",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd876ea",
+    "va": "0xd6f76ea",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87780",
+    "va": "0xd6f7780",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87810",
+    "va": "0xd6f7810",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87928",
+    "va": "0xd6f7928",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87a08",
+    "va": "0xd6f7a08",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87afd",
+    "va": "0xd6f7afd",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd87b67",
+    "va": "0xd6f7b67",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd87bc0",
+    "va": "0xd6f7bc0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZPAV345@@std@@"
+  },
+  {
+    "offset": "0xcd87c20",
+    "va": "0xd6f7c20",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87cc0",
+    "va": "0xd6f7cc0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d27",
+    "va": "0xd6f7d27",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d90",
+    "va": "0xd6f7d90",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@"
+  },
+  {
+    "offset": "0xcd87e62",
+    "va": "0xd6f7e62",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87f89",
+    "va": "0xd6f7f89",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd88090",
+    "va": "0xd6f8090",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd88108",
+    "va": "0xd6f8108",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZQAV345@@std@@"
+  },
+  {
+    "offset": "0xcd88368",
+    "va": "0xd6f8368",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV12@$$QAV0?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd883f4",
+    "va": "0xd6f83f4",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd88486",
+    "va": "0xd6f8486",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV12@$$QAV0?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$"
+  },
+  {
+    "offset": "0xcd88550",
+    "va": "0xd6f8550",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd8860d",
+    "va": "0xd6f860d",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xcd886d0",
+    "va": "0xd6f86d0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd887ac",
+    "va": "0xd6f87ac",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xcd8886f",
+    "va": "0xd6f886f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd88947",
+    "va": "0xd6f8947",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd889a9",
+    "va": "0xd6f89a9",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88a1d",
+    "va": "0xd6f8a1d",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_3>@?1??OnGetOriginU"
+  },
+  {
+    "offset": "0xcd88b20",
+    "va": "0xd6f8b20",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88c2d",
+    "va": "0xd6f8c2d",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?4??OnGetOriginU"
+  },
+  {
+    "offset": "0xcd88d30",
+    "va": "0xd6f8d30",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88e3b",
+    "va": "0xd6f8e3b",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88ea3",
+    "va": "0xd6f8ea3",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f21",
+    "va": "0xd6f8f21",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f85",
+    "va": "0xd6f8f85",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88fff",
+    "va": "0xd6f8fff",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV12@$$QAV0?1???R0?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd89095",
+    "va": "0xd6f9095",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd89107",
+    "va": "0xd6f9107",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xd8809cb",
+    "va": "0xe1f09cb",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@34@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@st"
+  },
+  {
+    "offset": "0xde2571f",
+    "va": "0xe79571f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZQAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2578f",
+    "va": "0xe79578f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25848",
+    "va": "0xe795848",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25991",
+    "va": "0xe795991",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25abf",
+    "va": "0xe795abf",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25bcf",
+    "va": "0xe795bcf",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25c36",
+    "va": "0xe795c36",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25cef",
+    "va": "0xe795cef",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25ddf",
+    "va": "0xe795ddf",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZPAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25e6e",
+    "va": "0xe795e6e",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde25f14",
+    "va": "0xe795f14",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25f97",
+    "va": "0xe795f97",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2609f",
+    "va": "0xe79609f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde261c7",
+    "va": "0xe7961c7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VS"
+  },
+  {
+    "offset": "0xde26337",
+    "va": "0xe796337",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26429",
+    "va": "0xe796429",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde264e1",
+    "va": "0xe7964e1",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde265d6",
+    "va": "0xe7965d6",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde266c8",
+    "va": "0xe7966c8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde26780",
+    "va": "0xe796780",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26878",
+    "va": "0xe796878",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26ab7",
+    "va": "0xe796ab7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@XABV?$shared_ptr@VService"
+  },
+  {
+    "offset": "0xde26c30",
+    "va": "0xe796c30",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde26dc1",
+    "va": "0xe796dc1",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde26f51",
+    "va": "0xe796f51",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde270e1",
+    "va": "0xe7970e1",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde27271",
+    "va": "0xe797271",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde27388",
+    "va": "0xe797388",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde2741f",
+    "va": "0xe79741f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2748a",
+    "va": "0xe79748a",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2753f",
+    "va": "0xe79753f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServi"
+  },
+  {
+    "offset": "0xde275e7",
+    "va": "0xe7975e7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2769f",
+    "va": "0xe79769f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@"
+  },
+  {
+    "offset": "0xde2776c",
+    "va": "0xe79776c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVNavigateShortUrlRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde2788f",
+    "va": "0xe79788f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde2798f",
+    "va": "0xe79798f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27a87",
+    "va": "0xe797a87",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde27b87",
+    "va": "0xe797b87",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27c8f",
+    "va": "0xe797c8f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protoc"
+  },
+  {
+    "offset": "0xde27d1c",
+    "va": "0xe797d1c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde27dfd",
+    "va": "0xe797dfd",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde27eb7",
+    "va": "0xe797eb7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde27f90",
+    "va": "0xe797f90",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28047",
+    "va": "0xe798047",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xde28106",
+    "va": "0xe798106",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde281f0",
+    "va": "0xe7981f0",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde282af",
+    "va": "0xe7982af",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@7@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV97@@std@@"
+  },
+  {
+    "offset": "0xde28417",
+    "va": "0xe798417",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28524",
+    "va": "0xe798524",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde285c3",
+    "va": "0xe7985c3",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V89@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@9@@Z@XABV?$shared_ptr@VServiceResult@logic@wework@@@9@@std@@"
+  },
+  {
+    "offset": "0xde286ff",
+    "va": "0xe7986ff",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28781",
+    "va": "0xe798781",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28841",
+    "va": "0xe798841",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28901",
+    "va": "0xe798901",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde289b2",
+    "va": "0xe7989b2",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28a79",
+    "va": "0xe798a79",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@45@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28b5a",
+    "va": "0xe798b5a",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$alloc"
+  },
+  {
+    "offset": "0xde28cd7",
+    "va": "0xe798cd7",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28d6f",
+    "va": "0xe798d6f",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28e2e",
+    "va": "0xe798e2e",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@V?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@HAAVMessageLite@protobuf@google@@ABV?$basic_string@DU?$char_traits@D@std@@"
+  },
+  {
+    "offset": "0xde28fae",
+    "va": "0xe798fae",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV23@$$QAV1?1???R1?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@st"
+  },
+  {
+    "offset": "0xde29044",
+    "va": "0xe799044",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@std@@"
+  },
+  {
+    "offset": "0xde29118",
+    "va": "0xe799118",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2917c",
+    "va": "0xe79917c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29212",
+    "va": "0xe799212",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2927a",
+    "va": "0xe79927a",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29314",
+    "va": "0xe799314",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?4??OnGetOriginU"
+  },
+  {
+    "offset": "0xde29417",
+    "va": "0xe799417",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29544",
+    "va": "0xe799544",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_3>@?1??OnGetOriginU"
+  },
+  {
+    "offset": "0xde29647",
+    "va": "0xe799647",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29776",
+    "va": "0xe799776",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde297d8",
+    "va": "0xe7997d8",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2987b",
+    "va": "0xe79987b",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xde2993e",
+    "va": "0xe79993e",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29a3c",
+    "va": "0xe799a3c",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xde29aff",
+    "va": "0xe799aff",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29bf5",
+    "va": "0xe799bf5",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV23@$$QAV1?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$"
+  },
+  {
+    "offset": "0xde29cbf",
+    "va": "0xe799cbf",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@3@XZ@@Z@XABVHookCallbackResult@67@@std@@"
+  },
+  {
+    "offset": "0xde29daf",
+    "va": "0xe799daf",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV23@$$QAV1?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xde29e3b",
+    "va": "0xe799e3b",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xedfa1df",
+    "va": "0xf76a1df",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@logic@wework@@@std@@"
+  },
+  {
+    "offset": "0xedfa442",
+    "va": "0xf76a442",
+    "keyword": "PostSendMessageTask",
+    "full": "PostSendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@45@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@st"
+  },
+  {
+    "offset": "0xabbb697",
+    "va": "0xb52b697",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 filled conv_msgs count: "
+  },
+  {
+    "offset": "0xabbb738",
+    "va": "0xb52b738",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 execte, conversationId = "
+  },
+  {
+    "offset": "0xabbb8c5",
+    "va": "0xb52b8c5",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::DoExecute] retry init security sdk"
+  },
+  {
+    "offset": "0xabbb901",
+    "va": "0xb52b901",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::DoExecute] retry init e2e security manager"
+  },
+  {
+    "offset": "0xabbb945",
+    "va": "0xb52b945",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::InitSecurityManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb985",
+    "va": "0xb52b985",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::InitE2EManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb9bc",
+    "va": "0xb52b9bc",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2, need upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbbe50",
+    "va": "0xb52be50",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 UploadSingleResourceFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc12c",
+    "va": "0xb52c12c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 SaveSpeed "
+  },
+  {
+    "offset": "0xabbc170",
+    "va": "0xb52c170",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2, upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbc1f4",
+    "va": "0xb52c1f4",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2:IsAppDetailUrl:"
+  },
+  {
+    "offset": "0xabbc21d",
+    "va": "0xb52c21d",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] OnGetOriginUrl. "
+  },
+  {
+    "offset": "0xabbc610",
+    "va": "0xb52c610",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 SendMessage tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc6a0",
+    "va": "0xb52c6a0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::SendMessagerequest_package->out_contact_type: "
+  },
+  {
+    "offset": "0xabbc7f0",
+    "va": "0xb52c7f0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2 UpdateP2pMsgFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc9a8",
+    "va": "0xb52c9a8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2::CheckCrmCustomerConversationStatus is_current_conv_end:"
+  },
+  {
+    "offset": "0xabbca88",
+    "va": "0xb52ca88",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2:CrawlUrl fail for appdetail"
+  },
+  {
+    "offset": "0xabbcb30",
+    "va": "0xb52cb30",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2:CrawlUrl: title:"
+  },
+  {
+    "offset": "0xabbce19",
+    "va": "0xb52ce19",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] HandleClawScreenUploads: start async screen image upload + OCR. "
+  },
+  {
+    "offset": "0xabbce95",
+    "va": "0xb52ce95",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] Claw screen upload + OCR failed. "
+  },
+  {
+    "offset": "0xabbced9",
+    "va": "0xb52ced9",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] Claw screen upload + OCR complete. "
+  },
+  {
+    "offset": "0xabbcf19",
+    "va": "0xb52cf19",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] re-parse ForwardMessages failed after screen upload. "
+  },
+  {
+    "offset": "0xabbcf69",
+    "va": "0xb52cf69",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] PicContext upload failed. "
+  },
+  {
+    "offset": "0xabbcfa1",
+    "va": "0xb52cfa1",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] re-parse ForwardMessages failed after pic context upload. "
+  },
+  {
+    "offset": "0xabbcff9",
+    "va": "0xb52cff9",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2] All claw async uploads complete, proceeding to SendMessage. "
+  },
+  {
+    "offset": "0xcd85bf0",
+    "va": "0xd6f5bf0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@"
+  },
+  {
+    "offset": "0xcd85c30",
+    "va": "0xd6f5c30",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd85cb0",
+    "va": "0xd6f5cb0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd85d43",
+    "va": "0xd6f5d43",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$alloc"
+  },
+  {
+    "offset": "0xcd85ea2",
+    "va": "0xd6f5ea2",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@34@@Z@"
+  },
+  {
+    "offset": "0xcd85f53",
+    "va": "0xd6f5f53",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@"
+  },
+  {
+    "offset": "0xcd85fb2",
+    "va": "0xd6f5fb2",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86012",
+    "va": "0xd6f6012",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86072",
+    "va": "0xd6f6072",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd860d8",
+    "va": "0xd6f60d8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd8612c",
+    "va": "0xd6f612c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V78@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@8@@Z@"
+  },
+  {
+    "offset": "0xcd86215",
+    "va": "0xd6f6215",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd86288",
+    "va": "0xd6f6288",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@"
+  },
+  {
+    "offset": "0xcd86370",
+    "va": "0xd6f6370",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@6@@Z@"
+  },
+  {
+    "offset": "0xcd86451",
+    "va": "0xd6f6451",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd864a8",
+    "va": "0xd6f64a8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86567",
+    "va": "0xd6f6567",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd865d9",
+    "va": "0xd6f65d9",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd86638",
+    "va": "0xd6f6638",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@"
+  },
+  {
+    "offset": "0xcd866d6",
+    "va": "0xd6f66d6",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86730",
+    "va": "0xd6f6730",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd867bd",
+    "va": "0xd6f67bd",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86818",
+    "va": "0xd6f6818",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86898",
+    "va": "0xd6f6898",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86918",
+    "va": "0xd6f6918",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86998",
+    "va": "0xd6f6998",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86a28",
+    "va": "0xd6f6a28",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@"
+  },
+  {
+    "offset": "0xcd86af5",
+    "va": "0xd6f6af5",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@"
+  },
+  {
+    "offset": "0xcd86ba8",
+    "va": "0xd6f6ba8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86c50",
+    "va": "0xd6f6c50",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86cc0",
+    "va": "0xd6f6cc0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d2b",
+    "va": "0xd6f6d2b",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d99",
+    "va": "0xd6f6d99",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86e02",
+    "va": "0xd6f6e02",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd86f02",
+    "va": "0xd6f6f02",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87002",
+    "va": "0xd6f7002",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87102",
+    "va": "0xd6f7102",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87201",
+    "va": "0xd6f7201",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd872d8",
+    "va": "0xd6f72d8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd873f1",
+    "va": "0xd6f73f1",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87489",
+    "va": "0xd6f7489",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87521",
+    "va": "0xd6f7521",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd875b7",
+    "va": "0xd6f75b7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87652",
+    "va": "0xd6f7652",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd876ea",
+    "va": "0xd6f76ea",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87780",
+    "va": "0xd6f7780",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87810",
+    "va": "0xd6f7810",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87928",
+    "va": "0xd6f7928",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87a08",
+    "va": "0xd6f7a08",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87afd",
+    "va": "0xd6f7afd",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd87b67",
+    "va": "0xd6f7b67",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd87bc0",
+    "va": "0xd6f7bc0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZPAV345@@std@@"
+  },
+  {
+    "offset": "0xcd87c20",
+    "va": "0xd6f7c20",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87cc0",
+    "va": "0xd6f7cc0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d27",
+    "va": "0xd6f7d27",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d90",
+    "va": "0xd6f7d90",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@"
+  },
+  {
+    "offset": "0xcd87e62",
+    "va": "0xd6f7e62",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87f89",
+    "va": "0xd6f7f89",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd88090",
+    "va": "0xd6f8090",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd88108",
+    "va": "0xd6f8108",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZQAV345@@std@@"
+  },
+  {
+    "offset": "0xcd88368",
+    "va": "0xd6f8368",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV12@$$QAV0?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd883f4",
+    "va": "0xd6f83f4",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd88486",
+    "va": "0xd6f8486",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV12@$$QAV0?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$"
+  },
+  {
+    "offset": "0xcd88550",
+    "va": "0xd6f8550",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd8860d",
+    "va": "0xd6f860d",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xcd886d0",
+    "va": "0xd6f86d0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd887ac",
+    "va": "0xd6f87ac",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xcd8886f",
+    "va": "0xd6f886f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd88947",
+    "va": "0xd6f8947",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd889a9",
+    "va": "0xd6f89a9",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88a1d",
+    "va": "0xd6f8a1d",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_3>@?1??OnGetOriginU"
+  },
+  {
+    "offset": "0xcd88b20",
+    "va": "0xd6f8b20",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88c2d",
+    "va": "0xd6f8c2d",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?4??OnGetOriginU"
+  },
+  {
+    "offset": "0xcd88d30",
+    "va": "0xd6f8d30",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88e3b",
+    "va": "0xd6f8e3b",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88ea3",
+    "va": "0xd6f8ea3",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f21",
+    "va": "0xd6f8f21",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f85",
+    "va": "0xd6f8f85",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88fff",
+    "va": "0xd6f8fff",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV12@$$QAV0?1???R0?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd89095",
+    "va": "0xd6f9095",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd89107",
+    "va": "0xd6f9107",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xd8809cb",
+    "va": "0xe1f09cb",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@34@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@st"
+  },
+  {
+    "offset": "0xde2571f",
+    "va": "0xe79571f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZQAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2578f",
+    "va": "0xe79578f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25848",
+    "va": "0xe795848",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25991",
+    "va": "0xe795991",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25abf",
+    "va": "0xe795abf",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25bcf",
+    "va": "0xe795bcf",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25c36",
+    "va": "0xe795c36",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25cef",
+    "va": "0xe795cef",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25ddf",
+    "va": "0xe795ddf",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXXZPAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25e6e",
+    "va": "0xe795e6e",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde25f14",
+    "va": "0xe795f14",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25f97",
+    "va": "0xe795f97",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2609f",
+    "va": "0xe79609f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde261c7",
+    "va": "0xe7961c7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VS"
+  },
+  {
+    "offset": "0xde26337",
+    "va": "0xe796337",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26429",
+    "va": "0xe796429",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde264e1",
+    "va": "0xe7964e1",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde265d6",
+    "va": "0xe7965d6",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde266c8",
+    "va": "0xe7966c8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde26780",
+    "va": "0xe796780",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26878",
+    "va": "0xe796878",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26ab7",
+    "va": "0xe796ab7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@XABV?$shared_ptr@VService"
+  },
+  {
+    "offset": "0xde26c30",
+    "va": "0xe796c30",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde26dc1",
+    "va": "0xe796dc1",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde26f51",
+    "va": "0xe796f51",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde270e1",
+    "va": "0xe7970e1",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shar"
+  },
+  {
+    "offset": "0xde27271",
+    "va": "0xe797271",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde27388",
+    "va": "0xe797388",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde2741f",
+    "va": "0xe79741f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2748a",
+    "va": "0xe79748a",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2753f",
+    "va": "0xe79753f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServi"
+  },
+  {
+    "offset": "0xde275e7",
+    "va": "0xe7975e7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2769f",
+    "va": "0xe79769f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@"
+  },
+  {
+    "offset": "0xde2776c",
+    "va": "0xe79776c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVNavigateShortUrlRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde2788f",
+    "va": "0xe79788f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde2798f",
+    "va": "0xe79798f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27a87",
+    "va": "0xe797a87",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde27b87",
+    "va": "0xe797b87",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27c8f",
+    "va": "0xe797c8f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protoc"
+  },
+  {
+    "offset": "0xde27d1c",
+    "va": "0xe797d1c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde27dfd",
+    "va": "0xe797dfd",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde27eb7",
+    "va": "0xe797eb7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde27f90",
+    "va": "0xe797f90",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28047",
+    "va": "0xe798047",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xde28106",
+    "va": "0xe798106",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde281f0",
+    "va": "0xe7981f0",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde282af",
+    "va": "0xe7982af",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@7@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV97@@std@@"
+  },
+  {
+    "offset": "0xde28417",
+    "va": "0xe798417",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28524",
+    "va": "0xe798524",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde285c3",
+    "va": "0xe7985c3",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V89@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@9@@Z@XABV?$shared_ptr@VServiceResult@logic@wework@@@9@@std@@"
+  },
+  {
+    "offset": "0xde286ff",
+    "va": "0xe7986ff",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28781",
+    "va": "0xe798781",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28841",
+    "va": "0xe798841",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28901",
+    "va": "0xe798901",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde289b2",
+    "va": "0xe7989b2",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28a79",
+    "va": "0xe798a79",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@45@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28b5a",
+    "va": "0xe798b5a",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$alloc"
+  },
+  {
+    "offset": "0xde28cd7",
+    "va": "0xe798cd7",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28d6f",
+    "va": "0xe798d6f",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28e2e",
+    "va": "0xe798e2e",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@V?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@HAAVMessageLite@protobuf@google@@ABV?$basic_string@DU?$char_traits@D@std@@"
+  },
+  {
+    "offset": "0xde28fae",
+    "va": "0xe798fae",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV23@$$QAV1?1???R1?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@st"
+  },
+  {
+    "offset": "0xde29044",
+    "va": "0xe799044",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@std@@"
+  },
+  {
+    "offset": "0xde29118",
+    "va": "0xe799118",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2917c",
+    "va": "0xe79917c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29212",
+    "va": "0xe799212",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2927a",
+    "va": "0xe79927a",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29314",
+    "va": "0xe799314",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?4??OnGetOriginU"
+  },
+  {
+    "offset": "0xde29417",
+    "va": "0xe799417",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29544",
+    "va": "0xe799544",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_3>@?1??OnGetOriginU"
+  },
+  {
+    "offset": "0xde29647",
+    "va": "0xe799647",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29776",
+    "va": "0xe799776",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde297d8",
+    "va": "0xe7997d8",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2987b",
+    "va": "0xe79987b",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xde2993e",
+    "va": "0xe79993e",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29a3c",
+    "va": "0xe799a3c",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Res"
+  },
+  {
+    "offset": "0xde29aff",
+    "va": "0xe799aff",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29bf5",
+    "va": "0xe799bf5",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV23@$$QAV1?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$"
+  },
+  {
+    "offset": "0xde29cbf",
+    "va": "0xe799cbf",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@3@XZ@@Z@XABVHookCallbackResult@67@@std@@"
+  },
+  {
+    "offset": "0xde29daf",
+    "va": "0xe799daf",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV23@$$QAV1?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xde29e3b",
+    "va": "0xe799e3b",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xedfa1df",
+    "va": "0xf76a1df",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@logic@wework@@@std@@"
+  },
+  {
+    "offset": "0xedfa442",
+    "va": "0xf76a442",
+    "keyword": "PostSendMessageTask2",
+    "full": "PostSendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@45@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@st"
+  },
+  {
+    "offset": "0xabbb69b",
+    "va": "0xb52b69b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 filled conv_msgs count: "
+  },
+  {
+    "offset": "0xabbb73c",
+    "va": "0xb52b73c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 execte, conversationId = "
+  },
+  {
+    "offset": "0xabbb8c9",
+    "va": "0xb52b8c9",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::DoExecute] retry init security sdk"
+  },
+  {
+    "offset": "0xabbb905",
+    "va": "0xb52b905",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::DoExecute] retry init e2e security manager"
+  },
+  {
+    "offset": "0xabbb949",
+    "va": "0xb52b949",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::InitSecurityManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb989",
+    "va": "0xb52b989",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::InitE2EManagerFinished] finished"
+  },
+  {
+    "offset": "0xabbb9c0",
+    "va": "0xb52b9c0",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2, need upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbbe54",
+    "va": "0xb52be54",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 UploadSingleResourceFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc130",
+    "va": "0xb52c130",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 SaveSpeed "
+  },
+  {
+    "offset": "0xabbc174",
+    "va": "0xb52c174",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2, upload resource conversationId = "
+  },
+  {
+    "offset": "0xabbc1f8",
+    "va": "0xb52c1f8",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2:IsAppDetailUrl:"
+  },
+  {
+    "offset": "0xabbc221",
+    "va": "0xb52c221",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] OnGetOriginUrl. "
+  },
+  {
+    "offset": "0xabbc614",
+    "va": "0xb52c614",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 SendMessage tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc6a4",
+    "va": "0xb52c6a4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::SendMessagerequest_package->out_contact_type: "
+  },
+  {
+    "offset": "0xabbc7f4",
+    "va": "0xb52c7f4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2 UpdateP2pMsgFinished tmp_task_key is "
+  },
+  {
+    "offset": "0xabbc9ac",
+    "va": "0xb52c9ac",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::CheckCrmCustomerConversationStatus is_current_conv_end:"
+  },
+  {
+    "offset": "0xabbca8c",
+    "va": "0xb52ca8c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2:CrawlUrl fail for appdetail"
+  },
+  {
+    "offset": "0xabbcb34",
+    "va": "0xb52cb34",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2:CrawlUrl: title:"
+  },
+  {
+    "offset": "0xabbce1d",
+    "va": "0xb52ce1d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] HandleClawScreenUploads: start async screen image upload + OCR. "
+  },
+  {
+    "offset": "0xabbce99",
+    "va": "0xb52ce99",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] Claw screen upload + OCR failed. "
+  },
+  {
+    "offset": "0xabbcedd",
+    "va": "0xb52cedd",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] Claw screen upload + OCR complete. "
+  },
+  {
+    "offset": "0xabbcf1d",
+    "va": "0xb52cf1d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] re-parse ForwardMessages failed after screen upload. "
+  },
+  {
+    "offset": "0xabbcf6d",
+    "va": "0xb52cf6d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] PicContext upload failed. "
+  },
+  {
+    "offset": "0xabbcfa5",
+    "va": "0xb52cfa5",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] re-parse ForwardMessages failed after pic context upload. "
+  },
+  {
+    "offset": "0xabbcffd",
+    "va": "0xb52cffd",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] All claw async uploads complete, proceeding to SendMessage. "
+  },
+  {
+    "offset": "0xabbdbe8",
+    "va": "0xb52dbe8",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] Conversation not found. "
+  },
+  {
+    "offset": "0xabbdc4b",
+    "va": "0xb52dc4b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2::CheckIfCanSendSecurityResource Preview image doesn't exist. "
+  },
+  {
+    "offset": "0xabbdd10",
+    "va": "0xb52dd10",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2] auto change receipt mode, "
+  },
+  {
+    "offset": "0xb4a7b5c",
+    "va": "0xbe17b5c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask"
+  },
+  {
+    "offset": "0xcd83f43",
+    "va": "0xd6f3f43",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@"
+  },
+  {
+    "offset": "0xcd83f9b",
+    "va": "0xd6f3f9b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVExpandGroupSendMsgRsp@CRTX@@@ZV?$shared_ptr@VExpandGroupSendMessageTask@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@"
+  },
+  {
+    "offset": "0xcd84035",
+    "va": "0xd6f4035",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@"
+  },
+  {
+    "offset": "0xcd85bf4",
+    "va": "0xd6f5bf4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@"
+  },
+  {
+    "offset": "0xcd85c34",
+    "va": "0xd6f5c34",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd85cb4",
+    "va": "0xd6f5cb4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd85d47",
+    "va": "0xd6f5d47",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+  },
+  {
+    "offset": "0xcd85ea6",
+    "va": "0xd6f5ea6",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@34@@Z@"
+  },
+  {
+    "offset": "0xcd85f57",
+    "va": "0xd6f5f57",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@"
+  },
+  {
+    "offset": "0xcd85fb6",
+    "va": "0xd6f5fb6",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86016",
+    "va": "0xd6f6016",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd86076",
+    "va": "0xd6f6076",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@"
+  },
+  {
+    "offset": "0xcd860dc",
+    "va": "0xd6f60dc",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86130",
+    "va": "0xd6f6130",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V78@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@8@@Z@"
+  },
+  {
+    "offset": "0xcd86219",
+    "va": "0xd6f6219",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd8628c",
+    "va": "0xd6f628c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@"
+  },
+  {
+    "offset": "0xcd86374",
+    "va": "0xd6f6374",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@6@@Z@"
+  },
+  {
+    "offset": "0xcd86455",
+    "va": "0xd6f6455",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd864ac",
+    "va": "0xd6f64ac",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd8656b",
+    "va": "0xd6f656b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd865dd",
+    "va": "0xd6f65dd",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd8663c",
+    "va": "0xd6f663c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@"
+  },
+  {
+    "offset": "0xcd866da",
+    "va": "0xd6f66da",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86734",
+    "va": "0xd6f6734",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd867c1",
+    "va": "0xd6f67c1",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd8681c",
+    "va": "0xd6f681c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd8689c",
+    "va": "0xd6f689c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd8691c",
+    "va": "0xd6f691c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd8699c",
+    "va": "0xd6f699c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@"
+  },
+  {
+    "offset": "0xcd86a2c",
+    "va": "0xd6f6a2c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@AB"
+  },
+  {
+    "offset": "0xcd86af9",
+    "va": "0xd6f6af9",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@"
+  },
+  {
+    "offset": "0xcd86bac",
+    "va": "0xd6f6bac",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86c54",
+    "va": "0xd6f6c54",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86cc4",
+    "va": "0xd6f6cc4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d2f",
+    "va": "0xd6f6d2f",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd86d9d",
+    "va": "0xd6f6d9d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd86e06",
+    "va": "0xd6f6e06",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd86f06",
+    "va": "0xd6f6f06",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87006",
+    "va": "0xd6f7006",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87106",
+    "va": "0xd6f7106",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd87205",
+    "va": "0xd6f7205",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@6@ABV?$shared_ptr@VClock@utility@wework@@@6@_N@Z@"
+  },
+  {
+    "offset": "0xcd872dc",
+    "va": "0xd6f72dc",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@"
+  },
+  {
+    "offset": "0xcd873f5",
+    "va": "0xd6f73f5",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd8748d",
+    "va": "0xd6f748d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87525",
+    "va": "0xd6f7525",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd875bb",
+    "va": "0xd6f75bb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87656",
+    "va": "0xd6f7656",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd876ee",
+    "va": "0xd6f76ee",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87784",
+    "va": "0xd6f7784",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87814",
+    "va": "0xd6f7814",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd8792c",
+    "va": "0xd6f792c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87a0c",
+    "va": "0xd6f7a0c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87b01",
+    "va": "0xd6f7b01",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xcd87b6b",
+    "va": "0xd6f7b6b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd87bc4",
+    "va": "0xd6f7bc4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXXZPAV345@@std@@"
+  },
+  {
+    "offset": "0xcd87c24",
+    "va": "0xd6f7c24",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87cc4",
+    "va": "0xd6f7cc4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d2b",
+    "va": "0xd6f7d2b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@"
+  },
+  {
+    "offset": "0xcd87d94",
+    "va": "0xd6f7d94",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@"
+  },
+  {
+    "offset": "0xcd87e66",
+    "va": "0xd6f7e66",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@"
+  },
+  {
+    "offset": "0xcd87f8d",
+    "va": "0xd6f7f8d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd88094",
+    "va": "0xd6f8094",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@"
+  },
+  {
+    "offset": "0xcd8810c",
+    "va": "0xd6f810c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXXZQAV345@@std@@"
+  },
+  {
+    "offset": "0xcd8836c",
+    "va": "0xd6f836c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV12@$$QAV0?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd883f8",
+    "va": "0xd6f83f8",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd8848a",
+    "va": "0xd6f848a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV12@$$QAV0?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shar"
+  },
+  {
+    "offset": "0xcd88554",
+    "va": "0xd6f8554",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@2@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd88611",
+    "va": "0xd6f8611",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Respons"
+  },
+  {
+    "offset": "0xcd886d4",
+    "va": "0xd6f86d4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd887b0",
+    "va": "0xd6f87b0",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV0?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Respons"
+  },
+  {
+    "offset": "0xcd88873",
+    "va": "0xd6f8873",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@"
+  },
+  {
+    "offset": "0xcd8894b",
+    "va": "0xd6f894b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd889ad",
+    "va": "0xd6f89ad",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88a21",
+    "va": "0xd6f8a21",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_3>@?1??OnGetOriginUrl@P"
+  },
+  {
+    "offset": "0xcd88b24",
+    "va": "0xd6f8b24",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88c31",
+    "va": "0xd6f8c31",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?4??OnGetOriginUrl@P"
+  },
+  {
+    "offset": "0xcd88d34",
+    "va": "0xd6f8d34",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@7@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@"
+  },
+  {
+    "offset": "0xcd88e3f",
+    "va": "0xd6f8e3f",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88ea7",
+    "va": "0xd6f8ea7",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f25",
+    "va": "0xd6f8f25",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV12@$$QAV0?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd88f89",
+    "va": "0xd6f8f89",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@"
+  },
+  {
+    "offset": "0xcd89003",
+    "va": "0xd6f9003",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV12@$$QAV0?1???R0?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd89099",
+    "va": "0xd6f9099",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@"
+  },
+  {
+    "offset": "0xcd8910b",
+    "va": "0xd6f910b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@"
+  },
+  {
+    "offset": "0xcd8940d",
+    "va": "0xd6f940d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd89495",
+    "va": "0xd6f9495",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd8951d",
+    "va": "0xd6f951d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd895a4",
+    "va": "0xd6f95a4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd8962c",
+    "va": "0xd6f962c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd896b4",
+    "va": "0xd6f96b4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@"
+  },
+  {
+    "offset": "0xcd8974d",
+    "va": "0xd6f974d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@5@@Z@"
+  },
+  {
+    "offset": "0xcd89805",
+    "va": "0xd6f9805",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@5@@Z@"
+  },
+  {
+    "offset": "0xcd898b3",
+    "va": "0xd6f98b3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@4@@Z@"
+  },
+  {
+    "offset": "0xcd899bd",
+    "va": "0xd6f99bd",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@"
+  },
+  {
+    "offset": "0xd8809cf",
+    "va": "0xe1f09cf",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@34@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V"
+  },
+  {
+    "offset": "0xd880a50",
+    "va": "0xe1f0a50",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@34@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z@6@ABV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@6@@Z@"
+  },
+  {
+    "offset": "0xde2137a",
+    "va": "0xe79137a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVExpandGroupSendMsgRsp@CRTX@@@ZV?$shared_ptr@VExpandGroupSendMessageTask@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@XABV?$Response@VCGIResponsePackag"
+  },
+  {
+    "offset": "0xde21414",
+    "va": "0xe791414",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVExpandGroupSendMsgRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde2171a",
+    "va": "0xe79171a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask@logic@wework@@@std@@"
+  },
+  {
+    "offset": "0xde25723",
+    "va": "0xe795723",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXXZQAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25793",
+    "va": "0xe795793",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??DoExecute@123@MAEXXZ@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2584c",
+    "va": "0xe79584c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25995",
+    "va": "0xe795995",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$function@$$A6AXABV?$shared_ptr@VServiceEnvironment@logic@wework@@@std@@ABV?$vector@_JV?$allocator@_J@std@@@2@ABV?$shared_ptr@VMessage@model@wework@@@2@@Z@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25ac3",
+    "va": "0xe795ac3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@ABV?$function@$$A6AXXZ@2@@ZPAV345@ABU?$_Ph@$00@2@ABV72@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25bd3",
+    "va": "0xe795bd3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25c3a",
+    "va": "0xe795c3a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25cf3",
+    "va": "0xe795cf3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde25de3",
+    "va": "0xe795de3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXXZPAV345@@std@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25e72",
+    "va": "0xe795e72",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde25f18",
+    "va": "0xe795f18",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde25f9b",
+    "va": "0xe795f9b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde260a3",
+    "va": "0xe7960a3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde261cb",
+    "va": "0xe7961cb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@VResourceUploadItem@logic@wework@@@2@ABV?$shared_ptr@VEmotionMessageContent@model@wework@@@2@ABV?$shared_ptr@VServiceResult@logic@wework@@@2@@ZPAV345@ABV62@AAV72@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServi"
+  },
+  {
+    "offset": "0xde2633b",
+    "va": "0xe79633b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde2642d",
+    "va": "0xe79642d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde264e5",
+    "va": "0xe7964e5",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde265da",
+    "va": "0xe7965da",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde266cc",
+    "va": "0xe7966cc",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde26784",
+    "va": "0xe796784",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde2687c",
+    "va": "0xe79687c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_JABV?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV87@@std@@"
+  },
+  {
+    "offset": "0xde26abb",
+    "va": "0xe796abb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??CreateUploadResourceCallback@123@AAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@_N@Z@@base@@XABV?$shared_ptr@VServiceResu"
+  },
+  {
+    "offset": "0xde26c34",
+    "va": "0xe796c34",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shared_p"
+  },
+  {
+    "offset": "0xde26dc5",
+    "va": "0xe796dc5",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shared_p"
+  },
+  {
+    "offset": "0xde26f55",
+    "va": "0xe796f55",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shared_p"
+  },
+  {
+    "offset": "0xde270e5",
+    "va": "0xe7970e5",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV?$shared_p"
+  },
+  {
+    "offset": "0xde27275",
+    "va": "0xe797275",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@ABV?$shared_ptr@VResourceUploadItem@logic@wework@@@7@ABV?$shared_ptr@VClock@utility@wework@@@7@_N@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2738c",
+    "va": "0xe79738c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde27423",
+    "va": "0xe797423",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde2748e",
+    "va": "0xe79748e",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde27543",
+    "va": "0xe797543",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@ABV?$shared_ptr@$$CBVServiceResult@logic@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceRe"
+  },
+  {
+    "offset": "0xde275eb",
+    "va": "0xe7975eb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@VServiceResult@logic@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde276a3",
+    "va": "0xe7976a3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@AB"
+  },
+  {
+    "offset": "0xde27770",
+    "va": "0xe797770",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@std@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVNavigateShortUrlRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27893",
+    "va": "0xe797893",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?BK@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde27993",
+    "va": "0xe797993",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_2>@?BM@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27a8b",
+    "va": "0xe797a8b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_3>@?CC@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQyCloudDiskTransferRsp@QyDisk@@@std@@"
+  },
+  {
+    "offset": "0xde27b8b",
+    "va": "0xe797b8b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_4>@?CE@??FetchTencentDocShareInfo@123@AAE_NXZ@@base@@XABV?$Response@VCGIResponsePackage@protocol@wework@@@network@wework@@ABVQQDocOperateRsp@CRTX@@@std@@"
+  },
+  {
+    "offset": "0xde27c93",
+    "va": "0xe797c93",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@w"
+  },
+  {
+    "offset": "0xde27d20",
+    "va": "0xe797d20",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde27e01",
+    "va": "0xe797e01",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde27ebb",
+    "va": "0xe797ebb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ@XABVFileResourceEnumerateInfo@base@@@std@@"
+  },
+  {
+    "offset": "0xde27f94",
+    "va": "0xe797f94",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde2804b",
+    "va": "0xe79804b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AEXAAV?$shared_ptr@VClock@utility@wework@@@2@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@ZV?$shared_ptr@VPostSendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV"
+  },
+  {
+    "offset": "0xde2810a",
+    "va": "0xe79810a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@2@AAV62@ABU?$_Ph@$00@2@@std@@XABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@2@@std@@"
+  },
+  {
+    "offset": "0xde281f4",
+    "va": "0xe7981f4",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde282b3",
+    "va": "0xe7982b3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXAAV?$shared_ptr@VClock@utility@wework@@@std@@ABV?$shared_ptr@V?$Response@VP2PMsgUpdateResponsePackage@protocol@wework@@@network@wework@@@7@@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@7@AAV97@@std@@"
+  },
+  {
+    "offset": "0xde2841b",
+    "va": "0xe79841b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_2>@?1??SendMessageFinished@123@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@base@@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28528",
+    "va": "0xe798528",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@VMessage@model@wework@@@std@@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde285c7",
+    "va": "0xe7985c7",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V89@V?$shared_ptr@VNavigateShortUrlRsp@CRTX@@@9@@Z@XABV?$shared_ptr@VServiceResult@logic@wework@@@9@@std@@"
+  },
+  {
+    "offset": "0xde28703",
+    "va": "0xe798703",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28785",
+    "va": "0xe798785",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28845",
+    "va": "0xe798845",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28905",
+    "va": "0xe798905",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEX_N@Z@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde289b6",
+    "va": "0xe7989b6",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@V?$shared_ptr@VP2pTransferStatisticItem@model@wework@@@std@@AAV67@@std@@"
+  },
+  {
+    "offset": "0xde28a7d",
+    "va": "0xe798a7d",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@QBE@ABVHookCallbackResult@45@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde28b5e",
+    "va": "0xe798b5e",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$map@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_JU?$less@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@V?$allocator@U?$pair@$$CBV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+  },
+  {
+    "offset": "0xde28cdb",
+    "va": "0xe798cdb",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??HandleClawScreenUploads@123@AAEXXZ@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28d73",
+    "va": "0xe798d73",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@V<lambda_1>@?1??OnClawScreenUploadsFinished@123@AAEX_N@Z@@base@@X_N@std@@"
+  },
+  {
+    "offset": "0xde28e32",
+    "va": "0xe798e32",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@V?$vector@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@V?$allocator@V?$shared_ptr@VResourceUploadItem@logic@wework@@@std@@@2@@std@@HAAVMessageLite@protobuf@google@@ABV?$basic_string@DU?$char_traits@D@std@@V?$a"
+  },
+  {
+    "offset": "0xde28fb2",
+    "va": "0xe798fb2",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@AAE?AV23@$$QAV1?1???R1?1??DoExecute@PostSendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@std@@"
+  },
+  {
+    "offset": "0xde29048",
+    "va": "0xe799048",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@MAEXXZ@QBE@XZ@@Z@XABV?$shared_ptr@VServiceError@logic@wework@@@std@@@std@@"
+  },
+  {
+    "offset": "0xde2911c",
+    "va": "0xe79911c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?4??PublishLongArticle@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29180",
+    "va": "0xe799180",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29216",
+    "va": "0xe799216",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?M@??SendMessage@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2927e",
+    "va": "0xe79927e",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29318",
+    "va": "0xe799318",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_2>@?4??OnGetOriginUrl@P"
+  },
+  {
+    "offset": "0xde2941b",
+    "va": "0xe79941b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29548",
+    "va": "0xe799548",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@?$Promise@$$V@ant@@AAE?AV23@$$QAV<lambda_3>@?1??OnGetOriginUrl@P"
+  },
+  {
+    "offset": "0xde2964b",
+    "va": "0xe79964b",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@8@ABVNavigateShortUrlRsp@CRTX@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2977a",
+    "va": "0xe79977a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@?$Promise@$$V@ant@@AAE?AV23@$$QAV1?1??SendMessageStep0@PostSendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde297dc",
+    "va": "0xe7997dc",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXXZ@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde2987f",
+    "va": "0xe79987f",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Respons"
+  },
+  {
+    "offset": "0xde29942",
+    "va": "0xe799942",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@QBE@XZ@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29a40",
+    "va": "0xe799a40",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@X@base@@YA?AV?$Promise@$$V@ant@@$$QAV1?EH@??SendMessageFinished@PostSendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Respons"
+  },
+  {
+    "offset": "0xde29b03",
+    "va": "0xe799b03",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAEXABV?$shared_ptr@V?$Response@VChatResponsePackage@protocol@wework@@@network@wework@@@std@@@Z@@Z@X$$V@std@@"
+  },
+  {
+    "offset": "0xde29bf9",
+    "va": "0xe799bf9",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@ant@@XZ@@?$Promise@VHookCallbackResult@logic@wework@@@ant@@AAE?AV23@$$QAV1?1??InvokeBeforeSendMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shar"
+  },
+  {
+    "offset": "0xde29cc3",
+    "va": "0xe799cc3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@V?$shared_ptr@VServiceError@logic@wework@@@std@@@3@XZ@@Z@XABVHookCallbackResult@67@@std@@"
+  },
+  {
+    "offset": "0xde29db3",
+    "va": "0xe799db3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@ant@@XZ@@?$Promise@VMessage@model@wework@@@ant@@AAE?AV23@$$QAV1?4??E2EEncryptMessage@PostSendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xde29e3f",
+    "va": "0xe799e3f",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE?AV?$Promise@$$V@3@XZ@@Z@XABVMessage@model@7@@std@@"
+  },
+  {
+    "offset": "0xde2a44a",
+    "va": "0xe79a44a",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@5@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2a564",
+    "va": "0xe79a564",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@6@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2a67c",
+    "va": "0xe79a67c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@QBE_NW4FileCacheType@model@6@@Z@XABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@"
+  },
+  {
+    "offset": "0xde2a7c3",
+    "va": "0xe79a7c3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2a8ab",
+    "va": "0xe79a8ab",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2a993",
+    "va": "0xe79a993",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@XABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV9std@@@std@@"
+  },
+  {
+    "offset": "0xde2aa84",
+    "va": "0xe79aa84",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2ab6c",
+    "va": "0xe79ab6c",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$V@std@@"
+  },
+  {
+    "offset": "0xde2ac54",
+    "va": "0xe79ac54",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_N_NHAAVMessageLite@protobuf@google@@@Z@XABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV9std@@@std@@"
+  },
+  {
+    "offset": "0xde2ad34",
+    "va": "0xe79ad34",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@AAE_NXZ@_NABV?$vector@V?$shared_ptr@VMessage@model@wework@@@std@@V?$allocator@V?$shared_ptr@VMessage@model@wework@@@std@@@2@@std@@AAV?$map@_J_JU?$less@_J@std@@V?$allocator@U?$pair@$$CB_J_J@std@@@2@@7@@std@@"
+  },
+  {
+    "offset": "0xedfa093",
+    "va": "0xf76a093",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@"
+  },
+  {
+    "offset": "0xedfa1e3",
+    "va": "0xf76a1e3",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@logic@wework@@@std@@"
+  },
+  {
+    "offset": "0xedfa446",
+    "va": "0xf76a446",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@SendMessageManager@logic@wework@@AAE_J_N0ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@JABVPreSendMessageTask2@45@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V"
+  },
+  {
+    "offset": "0xedfa4c7",
+    "va": "0xf76a4c7",
+    "keyword": "SendMessageTask",
+    "full": "SendMessageTask2@45@ABV?$function@$$A6A?AV?$shared_ptr@VProgressCallback@base@@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z@7@ABV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@7@@Z@XABV?$shared_ptr@VServiceR"
+  }
+]

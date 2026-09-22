@@ -1,0 +1,79 @@
+{
+  "ok": true,
+  "steps": [
+    "FileService=0x2b75f000",
+    "InitFromDefault",
+    "set path @+0x10",
+    "set filename @+0x04",
+    "file_type=5 @+0x1c",
+    "conv @+0x18",
+    "md5 @+0x08",
+    "dry-run skip NativeFunction"
+  ],
+  "file_service_hits": [
+    "0x2b75f000"
+  ],
+  "this_va": "0x2b75f000",
+  "inner_va": "0x2b5983c0",
+  "inner_gate_48": 632597964,
+  "default_param": {
+    "va": "0xb9559f0",
+    "rva": "0xb7959f0",
+    "source": "init_push"
+  },
+  "param_after_init": {
+    "label": "after_init",
+    "va": "0x298384b0",
+    "dwords": [
+      "0x32d72300",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x11",
+      "0x1f",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0"
+    ],
+    "strings": [
+      {
+        "off": "0x0",
+        "s": "pb.FtnUploadParam"
+      }
+    ]
+  },
+  "param_final": {
+    "label": "final",
+    "va": "0x298384b0",
+    "dwords": [
+      "0x32d72300",
+      "0x35ccc670",
+      "0x29836928",
+      "0x0",
+      "0x31f1a6d0",
+      "0x1c",
+      "0x20",
+      "0x20",
+      "0x5453",
+      "0x0",
+      "0xa"
+    ],
+    "strings": [
+      {
+        "off": "0x4",
+        "s": "h??'h??'03_1????????????????"
+      },
+      {
+        "off": "0x8",
+        "s": "?\\?)???????5????h??'????H??'p??1"
+      }
+    ]
+  },
+  "fn_va": "0x2659bb0",
+  "param_va": "0x298384b0",
+  "cb_done": "0x29835ee0",
+  "cb_prog": "0x35ccc698",
+  "dry_run": true
+}

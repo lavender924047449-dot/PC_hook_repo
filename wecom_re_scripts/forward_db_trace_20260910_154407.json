@@ -1,0 +1,26 @@
+[
+  {
+    "type": "start",
+    "pid": 27304
+  },
+  {
+    "type": "db_handles",
+    "handles": {
+      "1388": "\\Sessions\\1\\BaseNamedObjects\\C:*ProgramData*Microsoft*Windows*Caches*{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000072.db",
+      "1956": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+      "2248": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\governV2.db",
+      "2260": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\Solitaire\\Solitaire.db-shm",
+      "2264": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\governV2.db-wal",
+      "2280": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\publishsys.db",
+      "2324": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\voice_room5.db-wal",
+      "2336": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\Profiles\\09D0BEC55881CAE502003149E2F9E575\\voice_room5.db-shm",
+      "2596": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db-wal",
+      "3152": "\\Device\\HarddiskVolume3\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db"
+    },
+    "count": 10
+  },
+  {
+    "type": "hook_ready",
+    "handle_count": 10
+  }
+]

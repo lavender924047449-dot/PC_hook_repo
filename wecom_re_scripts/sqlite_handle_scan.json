@@ -1,0 +1,43 @@
+{
+  "pid": 20632,
+  "results": [
+    {
+      "sql_text_found_at": "0x266d75f0",
+      "static_candidates": [
+        {
+          "addr": "0x660e0ba0",
+          "valid": false,
+          "hd": ""
+        },
+        {
+          "addr": "0x660e0a28",
+          "valid": false,
+          "hd": ""
+        },
+        {
+          "addr": "0x660e0408",
+          "valid": false,
+          "hd": ""
+        },
+        {
+          "addr": "0x660e0460",
+          "valid": false,
+          "hd": ""
+        }
+      ],
+      "dynamic_handles": [
+        {
+          "addr": "0x660e0460",
+          "valid": false,
+          "hd": ""
+        },
+        {
+          "addr": "0x660e0ba0",
+          "valid": false,
+          "hd": ""
+        }
+      ],
+      "logger_hits": 1
+    }
+  ]
+}

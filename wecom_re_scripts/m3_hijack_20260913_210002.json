@@ -1,0 +1,50 @@
+{
+  "args": {
+    "pid": 21768,
+    "wait": 60,
+    "subtype": 34,
+    "to_conv": "",
+    "dry_run": true
+  },
+  "events": [
+    {
+      "t": "hit",
+      "task": "0x260ecfd0",
+      "pkg": "32da0650",
+      "conv": "FILEASSIST",
+      "clientMsgId": "CIGAEBCgvJrVBhjzrZynk4CAAyAQ",
+      "subtype_before_byte": 8,
+      "subtype_before_dword": 8
+    },
+    {
+      "t": "hit",
+      "task": "0x35291f20",
+      "pkg": "2bb278d0",
+      "conv": "FILEASSIST",
+      "clientMsgId": "CIGAEBCqvJrVBhjzrZynk4CAAyAR",
+      "subtype_before_byte": 8,
+      "subtype_before_dword": 8
+    }
+  ],
+  "result": {
+    "n": 2,
+    "patches": [
+      {
+        "task": "0x260ecfd0",
+        "pkg": "32da0650",
+        "conv": "FILEASSIST",
+        "clientMsgId": "CIGAEBCgvJrVBhjzrZynk4CAAyAQ",
+        "subtype_before_byte": 8,
+        "subtype_before_dword": 8
+      },
+      {
+        "task": "0x35291f20",
+        "pkg": "2bb278d0",
+        "conv": "FILEASSIST",
+        "clientMsgId": "CIGAEBCqvJrVBhjzrZynk4CAAyAR",
+        "subtype_before_byte": 8,
+        "subtype_before_dword": 8
+      }
+    ]
+  }
+}

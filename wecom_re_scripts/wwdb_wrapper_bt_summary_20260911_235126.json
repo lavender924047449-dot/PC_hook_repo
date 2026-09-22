@@ -1,0 +1,68 @@
+{
+  "pid": 9000,
+  "ts": "20260911_235126",
+  "wrapper": "0xb59427",
+  "hits_total": 2,
+  "candidates_top20": [
+    {
+      "func": "0x8c7fd52",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0xb593e9",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x8c5dfe2",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x8c5de52",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x8c5ad52",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x8c5a312",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x8c8e942",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x96eaa32",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x97849b2",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x97821a2",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x2f29a92",
+      "vote": 2,
+      "class_hint": null
+    },
+    {
+      "func": "0x61ac572",
+      "vote": 2,
+      "class_hint": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source": "fwd_ab_v2_20260911_202725.json",
+  "handlers": [
+    "0x2b915714",
+    "0x2625281c",
+    "0x35764da4"
+  ],
+  "meta_disjoint_by_offset": {}
+}

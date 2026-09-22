@@ -1,0 +1,10 @@
+{
+  "msg_type": "file",
+  "pid": 21768,
+  "vtable_offset": "0xabbb210",
+  "duration_sec": 30.266000000000076,
+  "scans": 100,
+  "task_dump_bytes": 256,
+  "package_dump_bytes": 512,
+  "tasks": []
+}

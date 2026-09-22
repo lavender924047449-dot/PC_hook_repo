@@ -1,0 +1,75 @@
+{
+  "pid": 16604,
+  "seconds": 60,
+  "interesting_modules": [
+    {
+      "name": "WXWork.exe",
+      "base": "0x5e0000",
+      "size": 270573568
+    },
+    {
+      "name": "libcurl.ssl1.1.dll",
+      "base": "0x626c0000",
+      "size": 544768
+    },
+    {
+      "name": "libcrypto-1_1.dll",
+      "base": "0x62310000",
+      "size": 2568192
+    },
+    {
+      "name": "libssl-1_1.dll",
+      "base": "0x61650000",
+      "size": 552960
+    },
+    {
+      "name": "WININET.dll",
+      "base": "0x74aa0000",
+      "size": 4542464
+    },
+    {
+      "name": "WXWorkResources.dll",
+      "base": "0x1a2b0000",
+      "size": 160100352
+    },
+    {
+      "name": "WXWorkStrings.dll",
+      "base": "0x23b60000",
+      "size": 16306176
+    },
+    {
+      "name": "WINHTTP.dll",
+      "base": "0x71060000",
+      "size": 827392
+    },
+    {
+      "name": "netprofm.dll",
+      "base": "0x708d0000",
+      "size": 204800
+    },
+    {
+      "name": "netutils.dll",
+      "base": "0x74a60000",
+      "size": 45056
+    },
+    {
+      "name": "ncryptsslp.dll",
+      "base": "0x62c50000",
+      "size": 126976
+    },
+    {
+      "name": "cryptnet.dll",
+      "base": "0x6ace0000",
+      "size": 155648
+    },
+    {
+      "name": "NetworkExplorer.dll",
+      "base": "0x47790000",
+      "size": 77824
+    }
+  ],
+  "hooked": [],
+  "hook_errors": [],
+  "totals_final": {},
+  "events": []
+}

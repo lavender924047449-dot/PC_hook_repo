@@ -1,0 +1,682 @@
+{
+  "hits": {
+    "CdnUploadParam": [
+      {
+        "off": "0xb794c07",
+        "ctx": "oadParam.pb.FtnConcurrentDownloadTask....pb.FtnConcurrentDownloadCache...pb.FtnUploadParam...pb.CdnUploadParam...pb.urlDownloadHeader....pb.urlDownloadHeaderList........C:\\devops\\data\\p-e6d4d6"
+      },
+      {
+        "off": "0xcc478e7",
+        "ctx": "ator@D@2@@std@@II@Z$00$00@6@@Z@...........?AV<lambda_1>@?BC@??CdnUploadFile@FileService@@UAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xcc47e57",
+        "ctx": "eakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xcc47faf",
+        "ctx": "eakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xd96eb80",
+        "ctx": "5@@Z@............?AVurlDownloadHeaderList@pb@@...........?AVurlDownloadHeader@pb@@...........?AVCdnUploadParam@pb@@..........?AVFtnUploadParam@pb@@..........?AVFtnConcurrentDownloadCache@pb@@."
+      },
+      {
+        "off": "0xda9fe8e",
+        "ctx": "d@@................?AV?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xdc7c36e",
+        "ctx": "eakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xdc7c4b6",
+        "ctx": "eakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xdc7cb46",
+        "ctx": "std@@..............?AV?$_Func_impl_no_alloc@V<lambda_1>@?BC@??CdnUploadFile@FileService@@UAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xef44b67",
+        "ctx": "d@@...........?AV?$_Ref_count_obj2@VFtnUploadParam@pb@@@std@@.............?AV?$_Ref_count_obj2@VCdnUploadParam@pb@@@std@@.............?AVIlinkMtMember@ilinkmeeting@@.............?AV?$ObserverW"
+      },
+      {
+        "off": "0xf0bcb45",
+        "ctx": "$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      },
+      {
+        "off": "0xf0bcc10",
+        "ctx": "VCdnUploadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@XABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      }
+    ],
+    "CdnUploadFile": [
+      {
+        "off": "0xab9d01f",
+        "ctx": "eselect: ...., ip: .., svrRetryNum: ., networkRetryNum: .ConvC2CFiId2WeworkFiId. filekey: ...BigCdnUploadFileTask bussiness id: .OnConvC2CFiId2WeworkFiId. failed, curl_error: ..OnConvC2CFiId2W"
+      },
+      {
+        "off": "0xb48bd18",
+        "ctx": "s\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\logic\\internal\\file\\cdn_upload_file_task.cpp..CdnUploadFileTask: begin uploading file.....CdnUploadFileTask: upload fail, ret : ..CdnUploadFil"
+      },
+      {
+        "off": "0xb48bd44",
+        "ctx": "c\\win\\logic\\internal\\file\\cdn_upload_file_task.cpp..CdnUploadFileTask: begin uploading file.....CdnUploadFileTask: upload fail, ret : ..CdnUploadFileTask: open fail....CdnUploadFileTask bussin"
+      },
+      {
+        "off": "0xb48bd6c",
+        "ctx": "e_task.cpp..CdnUploadFileTask: begin uploading file.....CdnUploadFileTask: upload fail, ret : ..CdnUploadFileTask: open fail....CdnUploadFileTask bussiness id: ....CdnUploadFileTask: upload fa"
+      },
+      {
+        "off": "0xb48bd8c",
+        "ctx": "egin uploading file.....CdnUploadFileTask: upload fail, ret : ..CdnUploadFileTask: open fail....CdnUploadFileTask bussiness id: ....CdnUploadFileTask: upload fail, error code:.Upload failed. n"
+      },
+      {
+        "off": "0xb48bdb0",
+        "ctx": "eTask: upload fail, ret : ..CdnUploadFileTask: open fail....CdnUploadFileTask bussiness id: ....CdnUploadFileTask: upload fail, error code:.Upload failed. need retry: .pc_cdn_upload_no_fileid_"
+      },
+      {
+        "off": "0xb48be98",
+        "ctx": "upload_ip_mismatch_hostname.pc_cdn_upload_ip_mismatch_optimize..On timer. start upload....D.@.7.CdnUploadFileTask: finish uploading file is_success: .....D.@.7..!e..N..`.7.0.7.@.z.P.D.`.7.`.7."
+      },
+      {
+        "off": "0xb8346cc",
+        "ctx": "eFileId./WeWorkService.WeWorkRpcService/CdnDownloadFileToPath.../WeWorkService.WeWorkRpcService/CdnUploadFileOnPath./WeWorkService.WeWorkRpcService/FtnDownloadFileToPathPlain../WeWorkService.W"
+      },
+      {
+        "off": "0xcc478c5",
+        "ctx": "ng@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@6@@Z@...........?AV<lambda_1>@?BC@??CdnUploadFile@FileService@@UAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?"
+      },
+      {
+        "off": "0xccd12c3",
+        "ctx": "_numeric_cast@numeric@boost@@.............?AVpositive_overflow@numeric@boost@@............?AVBigCdnUploadFileTask@logic@wework@@..............?AV?$_Binder@U_Unforced@std@@P8BigCdnUploadFileTas"
+      },
+      {
+        "off": "0xccd1313",
+        "ctx": "..........?AVBigCdnUploadFileTask@logic@wework@@..............?AV?$_Binder@U_Unforced@std@@P8BigCdnUploadFileTask@logic@wework@@AEXABV?$Response@VCGIResponsePackage@protocol@wework@@@network@5"
+      },
+      {
+        "off": "0xccd13ad",
+        "ctx": "nsePackage@protocol@wework@@@network@5@ABVConvC2CFiId2WeworkFiIdRsp@bigcdn@@@ZV?$shared_ptr@VBigCdnUploadFileTask@logic@wework@@@2@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@.............?AV?$_Binder"
+      }
+    ],
+    "CdnDownloadParam": [
+      {
+        "off": "0xb794b9f",
+        "ctx": "..7...]e.pb.BusinessContext..pb.File.pb.FtnDownloadParam.pb.FtnDownloadParamFileIdForImage...pb.CdnDownloadParam.pb.FtnConcurrentDownloadTask....pb.FtnConcurrentDownloadCache...pb.FtnUploadPar"
+      },
+      {
+        "off": "0xcc477b8",
+        "ctx": "del@wework@@@std@@@2@@std@@..............?AV<lambda_1>@?O@??CdnDownloadFile@FileService@@UAEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AXW4LogicErrorCode@@ABV?$basic_string@DU?$char_traits@D@s"
+      },
+      {
+        "off": "0xd96ec18",
+        "ctx": ".....?AVFtnConcurrentDownloadCache@pb@@..........?AVFtnConcurrentDownloadTask@pb@@...........?AVCdnDownloadParam@pb@@............?AVFtnDownloadParamFileIdForImage@pb@@..........?AVFtnDownloadP"
+      },
+      {
+        "off": "0xda9fd66",
+        "ctx": "std@@..............?AV?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+      },
+      {
+        "off": "0xdc7cc87",
+        "ctx": "V@std@@...........?AV?$_Func_impl_no_alloc@V<lambda_1>@?O@??CdnDownloadFile@FileService@@UAEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AXW4LogicErrorCode@@ABV?$basic_string@DU?$char_traits@D@s"
+      },
+      {
+        "off": "0xef44aef",
+        "ctx": "@.............?AV?$_Ref_count_obj2@VFtnDownloadParam@pb@@@std@@...........?AV?$_Ref_count_obj2@VCdnDownloadParam@pb@@@std@@...........?AV?$_Ref_count_obj2@VFtnUploadParam@pb@@@std@@..........."
+      },
+      {
+        "off": "0xf0bcd25",
+        "ctx": "$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+      },
+      {
+        "off": "0xf0bcdf4",
+        "ctx": "dnDownloadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@XABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+      },
+      {
+        "off": "0xf0bf178",
+        "ctx": "@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@std@@............?AV?$RpcMethodHandler@VCdnDownloadParam@pb@@VCdnDownloadResult@WeWorkService@@@LanguageCall@@...........?AV?$_Func_base"
+      },
+      {
+        "off": "0xf0bf1dd",
+        "ctx": "wnloadParam@pb@@VCdnDownloadResult@WeWorkService@@@LanguageCall@@...........?AV?$_Func_base@XABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator"
+      }
+    ],
+    "upload_cdn_file_task2.cpp": [],
+    "FileService::CdnUploadFile": [],
+    "file_path": [
+      {
+        "off": "0xaac946a",
+        "ctx": "..docList.roomsig.error_code..error_message...room_id.confirm_button_text.ext.from_scene..local_file_path.docurl..robot_name..event_type..data_id.time_cost...extra_info..fw_id...duration_sec.."
+      },
+      {
+        "off": "0xab3349a",
+        "ctx": "sert] ShowOpenFileDlg fail. error_code:... image_only:........ kg.[OnSelectFileOrPictureFinish] file_paths_size:.., image_only:...smartassistant_add_to_input_image...smartassistant_add_to_inpu"
+      },
+      {
+        "off": "0xab4ab57",
+        "ctx": ", resolve anyway.ParseMailDocContext: ipc screenshot missing and no qt_window, skip screenshot, file_path=.......ParseMailDocContext: ipc screenshot file not found, fallback to generic capture"
+      },
+      {
+        "off": "0xab4abc6",
+        "ctx": "..ParseMailDocContext: ipc screenshot file not found, fallback to generic capture, qt_window=., file_path=....ipc failed, status is:..page_type...get page context rsp, error_code: .., page_typ"
+      },
+      {
+        "off": "0xab4ae08",
+        "ctx": "text, draft page_type: .get page context, unknown page_type: ...need_screen_shot....screen_shot_file_path...DetectMailAndDocScene enter, window_kind=..., foreground_window=....weclaw_screensho"
+      },
+      {
+        "off": "0xab4ae95",
+        "ctx": "ow_kind=..., foreground_window=....weclaw_screenshot_..DetectMailAndDocScene: alloc screen_shot_file_path failed: .DetectMailAndDocScene: screen_shot disabled, qt_window=.wwapp_getDocCurrentPa"
+      },
+      {
+        "off": "0xab5509f",
+        "ctx": "m:...i.n.s.t.a.l.l...[InstallUpgradeService] fail: create process fail...upgrade_path:...config_file_path:...install_path:...install_wxwork_exe_path:....[InstallUpgradeService] fail: install s"
+      },
+      {
+        "off": "0xab70f83",
+        "ctx": "_HasSkip] file not exist, path: .....[CheckNeedUpdate_HasRootDir_HasSkip] check version failed, file_path:... version1:.. version2:..[CheckNeedUpdate_HasRootDir_HasSkip] check size failed, fil"
+      },
+      {
+        "off": "0xab70fe0",
+        "ctx": "d, file_path:... version1:.. version2:..[CheckNeedUpdate_HasRootDir_HasSkip] check size failed, file_path:.. size1:. size2:.....[CheckNeedUpdate_HasRootDir_HasSkip] check md5 failed, file_path"
+      },
+      {
+        "off": "0xab71037",
+        "ctx": " failed, file_path:.. size1:. size2:.....[CheckNeedUpdate_HasRootDir_HasSkip] check md5 failed, file_path:... md51:.. md52:..[CheckNeedUpdate] file not exist, path:.[CheckNeedUpdate] check ver"
+      },
+      {
+        "off": "0xab710a4",
+        "ctx": " md51:.. md52:..[CheckNeedUpdate] file not exist, path:.[CheckNeedUpdate] check version failed, file_path:.. skip:..[CheckNeedUpdate] check size failed, file_path:.[CheckNeedUpdate] check md5 "
+      },
+      {
+        "off": "0xab710dd",
+        "ctx": "CheckNeedUpdate] check version failed, file_path:.. skip:..[CheckNeedUpdate] check size failed, file_path:.[CheckNeedUpdate] check md5 failed, file_path:..[OpenProcess] error_code:...[Terminat"
+      }
+    ],
+    "file_type": [
+      {
+        "off": "0xab3382e",
+        "ctx": "..[InsertWeDiskSelectResult] selected_file_list_size:.[InsertWedriveFileSelected] file_name:.., file_type:....[InsertWedriveFileSelected] create FileCardOle fail....... .....[InsertOleToRichEd"
+      },
+      {
+        "off": "0xabe004f",
+        "ctx": "_tab\\search_tab_file_task2.cpp...[SearchTabFile] total time: ....[SearchTabFile] keyword: ...}, file_type: ..[SearchTabFile] find messgaes time: ...., message ids size: ....[SearchTabFile] get"
+      },
+      {
+        "off": "0xac01f9a",
+        "ctx": " search end...ParseFromString ClawSearchFileReq failed....[WeClaw]ExecuteSearchChatFile req..., file_type=...., page_start_msg_id=...., disable_next_page=...., total_count_limit=....weclaw_rec"
+      },
+      {
+        "off": "0xaf3dbad",
+        "ctx": "lForwardFileToWechatCommandHandler Execute.[IPC] MailForwardFileToWechatCommandHandler Execute. file_type is ..hide_toast..[IPC] MailForwardFileToWechatCommandHandler Execute req: ...req.file_"
+      },
+      {
+        "off": "0xaf3dc28",
+        "ctx": "[IPC] MailForwardFileToWechatCommandHandler Execute req: ...req.file_id: ...req.file_name: .req.file_type:..req.handle..req.file_size...req.hide_toast: ....[IPC] MailForwardFileToWechatCommand"
+      },
+      {
+        "off": "0xafc1971",
+        "ctx": "ink_page_filter_sender.mini_program_page_filter_sender.......}.....`.}.8...0.}.im_chatsearch_pc_file_type..file_page_filter_file_type......p.}.......}.....P.}.X...0.}.......}.......}.0.....}.x"
+      },
+      {
+        "off": "0xafc198d",
+        "ctx": "program_page_filter_sender.......}.....`.}.8...0.}.im_chatsearch_pc_file_type..file_page_filter_file_type......p.}.......}.....P.}.X...0.}.......}.......}.0.....}.x.....}.....p.}.......}.P...."
+      },
+      {
+        "off": "0xb13e372",
+        "ctx": "con path. empty wedoc url, id: .......[GetWeDocFileItemType] wedoc file ends final unknown, src_file_type: ...[GetWeDocFileItemTypeInFlutter] wedoc file ends final unknown, src_file_type: ..[G"
+      },
+      {
+        "off": "0xb13e3c3",
+        "ctx": "l unknown, src_file_type: ...[GetWeDocFileItemTypeInFlutter] wedoc file ends final unknown, src_file_type: ..[GetQyDisFileItemType] ends txt.[GetQyDisFileItemType] ends pdf.[GetQyDisFileItemTy"
+      },
+      {
+        "off": "0xb13e4ef",
+        "ctx": " csv.[GetQyDisFileItemType] ends entry unknown...[GetQyDisFileItemType] ends final unknown, src_file_type: ......@.|.@.|...|...|.p.M..]e.@.....|..!e.`.|...|...|..]e.....p.|..!e...|...|...|..]e"
+      },
+      {
+        "off": "0xb14fe91",
+        "ctx": "in/worknote_desktop....https://doc.weixin.qq.com/mall..mainframe/wedoc_frame/wedoc_tab_head/img/file_type_icon/new_file_type_icon/ttemplates16.svg.!icon/glyph/write/write_16_light....m.a.i.n.f"
+      },
+      {
+        "off": "0xb14fea4",
+        "ctx": "....https://doc.weixin.qq.com/mall..mainframe/wedoc_frame/wedoc_tab_head/img/file_type_icon/new_file_type_icon/ttemplates16.svg.!icon/glyph/write/write_16_light....m.a.i.n.f.r.a.m.e./.t.e.n.c."
+      }
+    ],
+    "aes_key": [
+      {
+        "off": "0xaac8b54",
+        "ctx": "....thumb_size..thumb_width.thumb_height....thumb_url...file_url....content_type....local_path..aes_key.use_scene...support_types...preview_img_local_path..img_width...img_height..preview_img_"
+      },
+      {
+        "off": "0xab0c4bf",
+        "ctx": "try_grants=[. write=. read=..    key=....  container_server_ports=[.. bytes].  container_server_aes_key=[....  active_data_dir=..  workspace_root=...  bugly_pipe=...[WeClawProcessManager][Iron"
+      },
+      {
+        "off": "0xab9f865",
+        "ctx": "SingleDownloadFileReq. retry left: ....[DownloadFtnFileTask3] AsyncSingleDownloadFileReq md5:.. aes_key_:..[DownloadFtnFileTask3] receive data, length:....DownloadFtnFileTask3::WriteDataCallba"
+      },
+      {
+        "off": "0xab9fbb6",
+        "ctx": "ileUrlFinishedSplice. cdn_dns_rule: {ver:.AsyncMultiDownloadFileReq. range back to [..], md5:., aes_key:..AsyncMultiDownloadFileReq. task_.... request id: ...AsyncMultiDownloadFileReq. real_kC"
+      },
+      {
+        "off": "0xb3efa3b",
+        "ctx": "e_user_id....vote_last_time..emotion_group_info..local_group_id..group_icon_file_id..group_icon_aes_key..group_icon_url..cdn_resource....emotion_info....emo_url.cover_aes_key...collection_p2p_"
+      },
+      {
+        "off": "0xb3efa82",
+        "ctx": "icon_file_id..group_icon_aes_key..group_icon_url..cdn_resource....emotion_info....emo_url.cover_aes_key...collection_p2p_msg..msg_server_id...msg_file_id.msg_content.msg_upload_progress.text_e"
+      },
+      {
+        "off": "0xb56b7e2",
+        "ctx": " send HelloAck (lasterror=....[IPC][wrapper] >>SEND>> HelloAck accepted=true wrapper_pid={} ipc_aes_key_len={}....[wrapper] handshake complete....[wrapper] failed to enable IPC encryption...St"
+      },
+      {
+        "off": "0xb80a990",
+        "ctx": ", listen error..TcpChannelUseEncrypt=YES, aes key generated.start failed. broken....tcp_channel_aes_key initialized.TcpChannelUseEncrypt=NO, skip aes key generation....MCP listening on port:.."
+      },
+      {
+        "off": "0xb80ad68",
+        "ctx": "enerated (.. RAND_bytes ret=.... bytes).PortConfig: AllReady, llm_port=.PortConfig: tcp_channel_aes_key generated (. mcp_port=.. weclaw_port=...aibot_respond_msg..., trace_id=.msg.aibot_send_m"
+      }
+    ],
+    "fileid": [
+      {
+        "off": "0xaac8ad2",
+        "ctx": "..room_industry_type..img_url.app_name....home_url....icon_url....page_path...user_name...thumb_fileid....thumb_md5...thumb_aeskey....thumb_size..thumb_width.thumb_height....thumb_url...file_u"
+      },
+      {
+        "off": "0xaac8c49",
+        "ctx": "nfo....video_id....video_duration..preview_img_url.thumbnail_file_id...appname.pagepath....thumbfileid.thumbmd5....thumbaeskey.thumbsize...thumbwidth..thumbheight.thumburl....link_url....link_"
+      },
+      {
+        "off": "0xab260b3",
+        "ctx": "origin for preview failed: .......6a.H...@5a.MixedMsgPictureItem::OnDblClick, security image, wwfileid: ......4a.c.h.a.t./.e.x.p.i.r.e._.i.c.o.n...p.n.g.....c.h.a.t./.n.o._.p.e.r.m.i.s.s.o.n._"
+      },
+      {
+        "off": "0xab43714",
+        "ctx": "ed, store_id=...$8..`.q.....[ClawThinkingAttachmentCardView::OpenAttachmentFileWithSecurity] ww_fileid=.l8.......o....q..!e..8...Dr..Dr..Sr.@[r.p.M..]e..9...Dr..Dr.`vY.P[r.p.M..]e.P9...Dr..Dr."
+      },
+      {
+        "off": "0xab9ce92",
+        "ctx": "loadFileFinish. start, filekey: ..UploadFileFinish. ing...UploadFileFinish. succ, filekey: ..., fileid: ..uploadfinish....OnUploadFileFinish. use_ip: ....UploadFileFinish. net failed, curl_err"
+      },
+      {
+        "off": "0xab9cf7a",
+        "ctx": "parse failed..UploadFileFinish. svr failed, error: ...UploadFileFinish. succeeded, filekey:..., fileid:..., use http version:. bussiness_id: .RetryUpload. key: .., reselect: ...., ip: .., svrR"
+      },
+      {
+        "off": "0xab9d401",
+        "ctx": "tility.cpp.ToBussinessPayLoad: .... sub_bussiness_id: .ToBussinessPayLoad.. bussiness name: ... fileid: ... payload: ..T.e.m.p.........C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win"
+      },
+      {
+        "off": "0xab9e7ae",
+        "ctx": "SecurityFilePermission] error: ....U......[FetchSecurityFilePermission] security secret file no fileid....receive_chat_video..check_dangerous_dir_pc......[DownloadFileTask2::CheckFileNameValid"
+      },
+      {
+        "off": "0xaba14af",
+        "ctx": "Infos] wwFileIds: ....v......[FetchPermissionDetailInfo]..v..p...[FetchPermissionDetailInfo] ww_fileid: ., DetailInfo: ...w..0...Xw......`........w.......o.......!e.$x.......o..p....!e.px....."
+      },
+      {
+        "off": "0xaba225e",
+        "ctx": " Failed. .FileType: ..FilePath: ..VideoThumbPath: ....File Exceed Size:...OnCdnUploadFinish. no fileid failed, use bigcdn upload..[UploadFileTask2] Copy new file id: ....[UploadFileTask2] Copy"
+      },
+      {
+        "off": "0xabbb7d8",
+        "ctx": ":...[doc]Generate document url by sharecode. ...Id: ....ShareCode: ., doc_platform_type:....wikifileid..do start send message to peer conversationId = .PostSendMessageTask2 SendMessage tmp_tas"
+      },
+      {
+        "off": "0xabebda5",
+        "ctx": "247ae7a8e77f\\src\\win\\logic\\internal\\voip\\wxconf_docshare_task.cpp..[iLink] DocShareTask begin..,fileid=....,filePath=..[iLink] DocShareTask arg err....[iLink] DocShareTask SvrFile err....[iLin"
+      }
+    ],
+    "file_id": [
+      {
+        "off": "0xaac8bce",
+        "ctx": "t_types...preview_img_local_path..img_width...img_height..preview_img_blob....fullpath....thumb_file_id...is_hd...forward_info....video_id....video_duration..preview_img_url.thumbnail_file_id."
+      },
+      {
+        "off": "0xaac8c26",
+        "ctx": "..thumb_file_id...is_hd...forward_info....video_id....video_duration..preview_img_url.thumbnail_file_id...appname.pagepath....thumbfileid.thumbmd5....thumbaeskey.thumbsize...thumbwidth..thumbh"
+      },
+      {
+        "off": "0xab33190",
+        "ctx": "email_id=...fileId..fileSize....extend_param....[ClawEditor] RequestMailFileAndInsertWhenReady: file_id empty, .[ClawEditor] RequestMailFileAndInsertWhenReady: parse fileSize fail '...', .[Cla"
+      },
+      {
+        "off": "0xab33e00",
+        "ctx": "bj_enter_input..[ClawEditor] pic location: build pic message failed.[ClawEditor] mail location: file_id empty, .request ipc and insert on callback..[ClawEditor] mail location: insert file ole "
+      },
+      {
+        "off": "0xab33e7a",
+        "ctx": "c and insert on callback..[ClawEditor] mail location: insert file ole ok, ....content_type=..., file_id=..[ClawEditor] mail location: build/insert file ole fail, ....[ClawEditor] mail location"
+      },
+      {
+        "off": "0xab42fcb",
+        "ctx": "leCard] download failed: ....44.. .q.[ClawThinkingAttachmentCardView::HandleAttachmentFileCard] file_id is empty.....ClawThinkingAttachmentCardView::HandleWholeCard, attachtment_data_ empty..."
+      },
+      {
+        "off": "0xab47585",
+        "ctx": "seMailTitle: parse FileMessage failed..[ScreenMessageFlyout] ParseMailTitle: file_name empty... file_id=...[ScreenMessageFlyout] ParseMailTitle ok, file_name=.[ScreenMessageFlyout] BuildMailMe"
+      },
+      {
+        "off": "0xab48166",
+        "ctx": "enImageInfo.content empty.: parse FileMessage failed, content_size=...: empty ProtocolFileInfo, file_id=.. file_name=. ProtocolFileInfo ok, file_id=..<.v. .n.a.m.e.=.l.i.n.k._.t.e.x.t._.b.e.f."
+      },
+      {
+        "off": "0xab48192",
+        "ctx": "e failed, content_size=...: empty ProtocolFileInfo, file_id=.. file_name=. ProtocolFileInfo ok, file_id=..<.v. .n.a.m.e.=.l.i.n.k._.t.e.x.t._.b.e.f.o.r.e._.i.c.o.n.>.....[ScreenMessageFlyout] "
+      },
+      {
+        "off": "0xab5e1b5",
+        "ctx": "sts exit exp export_set extends external extract false fetch first first_value file float floor file_id file_name filegroup_id filegroup_name filegroupproperty fileproperty for forall foreign "
+      },
+      {
+        "off": "0xab68cac",
+        "ctx": "tag=....[FileService::FtnUploadFile] result fail, tag=..[FileService::FtnUploadFile] result ok, file_id=....[FileService::FtnUploadFile] environment empty..[FileService::FtnUploadFile] tag=..."
+      },
+      {
+        "off": "0xab7f40e",
+        "ctx": "Handler::DoRequest] req json empty....fileIdType..fileName....[WxQyPrintFileHandler::DoRequest] file_id:.. file_id_type:..filetype not support....fileId is empty.[WxQyPrintFileHandler::DoReque"
+      }
+    ],
+    "voice_time": [
+      {
+        "off": "0xb4d4f62",
+        "ctx": "yncTask] groupinfo pvon: .[VoipSyncTask] oldmember user_id:... enter_time:.... insyscall:. open_voice_timestamp:.. is_audit_mem:.. audit_type:.... audit_voip:.... is_audi_beep:..[VoipSyncTask]"
+      },
+      {
+        "off": "0xb8488ef",
+        "ctx": "ateOfflineStreamVoice req Type:.. taskid:....file_id: ... file_size: .... from_source:... total_voice_time: ., hotwords=., taskid:...UpdateVoiceRecordSpeakerInfo....[LYLRECORD] end fill recent"
+      }
+    ],
+    "play_time": [
+      {
+        "off": "0xb1b9e16",
+        "ctx": "one] status_code: ....XFile preview data report, fileid: . filesize: .kb, total_time: ....ms display_time: ...ms load_time: ..ms download_time: ..ms is_download: .... is_preload: ..., xfile_sh"
+      }
+    ],
+    "conversation_id": [
+      {
+        "off": "0xab04ec0",
+        "ctx": "osslog.OssImGroupDoubleCheck.....\\...\\...\\...\\..@...branch_reply_draft..send_time...app_info....conversation_id.....P.M.......M.INSERT OR REPLACE INTO %s (%s, %s, %s, %s) VALUES (?, ?, ?, ?);."
+      },
+      {
+        "off": "0xab052cc",
+        "ctx": "constructor.Invalid parent info. ...MessageId: .ServerId: ..SendTime: ..ParentInfo: ....Invalid conversation_id. ...ConvId: ........replace into %1%(%2%, %3%, %4%, %5%, %6%, %7%, %8%, %9%) val"
+      },
+      {
+        "off": "0xab11a92",
+        "ctx": "ount:., old_tick_ms:.., old_step:.[ClawParser] TypeWriter Fail Event. msg: ..., server_id: ..., conversation_id: ., err_code: ...., err_msg: .[ClawParser] TaskFinish: parser already destroyed "
+      },
+      {
+        "off": "0xab24ea2",
+        "ctx": "me empty local_conv_id, ..conv_type=..BuildScreenDisplayText: ResolveGroupConvDisplayName empty conversation_id, .BuildScreenDisplayText: scene_type=.BuildScreenDisplayText: SCENE_CONV_LIST gr"
+      },
+      {
+        "off": "0xab287df",
+        "ctx": ".p.l.y./.a.s.s.e.t.s./.P.a.n.e.l._.l.i.g.h.t...p.n.g.....[BranchReply] CreateAndShow ok, parent_conversation_id=.IMBranchReplyChildWindow....[BranchReply] ~IMBranchReplyChildWindow../..P.b.[Br"
+      },
+      {
+        "off": "0xab30a2e",
+        "ctx": "eNewConversation] create finish. err_code:....[CreateNewConversation] create finish. claw_id:., conversation_id:..[CreateNewConversation] create begin. title_size:....t.. .e.smartassistant_rec"
+      },
+      {
+        "off": "0xab32ab9",
+        "ctx": "ndBtnClick]....[OnStopBtnClick]....l....jg......kg.[HandleAddChatClick]....[OnSelectChatFinish] conversation_ids_size:.smartassistant_add_to_input_chat....[OnSelectChatFinish] skip conv, build"
+      },
+      {
+        "off": "0xab3d3da",
+        "ctx": "e......9n..!e.P>n..@n.0;n..]e.<...P9n..!e..?n..@n..;n..]e......7n..!e..<n.p@n..9n..]e.last_claw_conversation_id...last_claw_main_time.section_header..list_item...show_more.........n.P.^......."
+      },
+      {
+        "off": "0xab3d62f",
+        "ctx": "nv_count=.... conv_ids=..[ClawSidebarController::HandleConversationsDidUpdate] current_selected_conversation_id_: ...ClawSidebarController::HandleConversationsDidRemove,.... count=. selected_r"
+      },
+      {
+        "off": "0xab3d84c",
+        "ctx": "ng state,... notify=........[ClawSidebarController::HandleMessageNotification] current_selected_conversation_id_: ..ClawSidebarController::HandleMessageNotification: clear final-failed flag, c"
+      },
+      {
+        "off": "0xab42176",
+        "ctx": "ld{phase=.,loading=...,polling_end=...,aborted=... new{phase=., was_loading=.., server_id=...., conversation_id=..[ClawMessageView::OnDataUpdated] same state heartbeat,..[ClawMessageView::OnDa"
+      },
+      {
+        "off": "0xab450c0",
+        "ctx": "ae7a8e77f\\src\\win\\ui\\weclaw\\claw_utility.cpp....[CombineForwardMessageForClawConversation] from_conversation_id:...., messages_size:...., new_messages_size:...., front_context_count:.., back_c"
+      }
+    ],
+    "conv_id": [
+      {
+        "off": "0xab0b275",
+        "ctx": "ordTask no conversation matches contain_vids.......[SearchTab] SearchMessagesWithoutKeywordTask conv_ids empty after contain_vids filter...[SearchTab] SearchMessagesWithoutKeywordTask conv_ids"
+      },
+      {
+        "off": "0xab0b2cd",
+        "ctx": "ordTask conv_ids empty after contain_vids filter...[SearchTab] SearchMessagesWithoutKeywordTask conv_ids empty after only_small_groups filter..[SearchTab] SearchMessagesWithoutKeywordTask got "
+      },
+      {
+        "off": "0xab0d96e",
+        "ctx": "r_id:.[OpenConversationByAgentIdPair] open conv. sub_type:....[HandleIMRef] fetch message fail. conv_id:.., msg_sendtime:.[HandleIMRef] message error. conv_id:....7...sT.conv....fwid....msgid."
+      },
+      {
+        "off": "0xab0d9a5",
+        "ctx": "pe:....[HandleIMRef] fetch message fail. conv_id:.., msg_sendtime:.[HandleIMRef] message error. conv_id:....7...sT.conv....fwid....msgid...msg_sendtime....[HandleIMRef] type:., fwid:., msg_ser"
+      },
+      {
+        "off": "0xab0db22",
+        "ctx": " empty....click_reference_badge_popup.[ShowIMPreviewWindow] message empty or message is revoke. conv_id:..[ShowIMPreviewWindow] conv_id:.., msg_id:...[ShowIMPreviewWindow] is claw conversation"
+      },
+      {
+        "off": "0xab0db42",
+        "ctx": "popup.[ShowIMPreviewWindow] message empty or message is revoke. conv_id:..[ShowIMPreviewWindow] conv_id:.., msg_id:...[ShowIMPreviewWindow] is claw conversation......[HandleDocPreviewRef] eval"
+      },
+      {
+        "off": "0xab17780",
+        "ctx": "4ad81247ae7a8e77f\\src\\win\\ui\\chat_view\\chat_item\\weclaw\\mixed_msg_conv_item.cpp.[MixedConvItem] conv_id: ..., conv_msg name: ..., single conv display: .#.F.F.8.3.B.7.F.7...b.k.c.o.l.o.r.2....."
+      },
+      {
+        "off": "0xab17962",
+        "ctx": "d.e.s.t.=.'.6.,.6.,.6.,.6.'...b.k.i.m.a.g.e....{....Y..|.. .Y.MixedMsgConvItem::OpenConv: empty conv_id...MixedMsgConvItem::OpenConv blocked, no permission, conv_id=.MixedMsgConvItem open conv"
+      },
+      {
+        "off": "0xab1799f",
+        "ctx": ".MixedMsgConvItem::OpenConv: empty conv_id...MixedMsgConvItem::OpenConv blocked, no permission, conv_id=.MixedMsgConvItem open conv: ....MixedMsgConvItem::HasPermissionToOpen: bubble scene mis"
+      },
+      {
+        "off": "0xab24d5f",
+        "ctx": "AGE extension....MixedMsgHelper::ParseConvItem: ParseFromString failed...[MixedConvItem] helper conv_id: ...., jump_id: .personal_card_refresh_userinfo..MixedMsgHelper::ParseUserItem: no BYTE_"
+      },
+      {
+        "off": "0xab24e51",
+        "ctx": ": ParseFromString failed.......BuildScreenDisplayText: ResolveSingleConvDisplayName empty local_conv_id, ..conv_type=..BuildScreenDisplayText: ResolveGroupConvDisplayName empty conversation_id"
+      },
+      {
+        "off": "0xab339f6",
+        "ctx": "tToRichEdit] skip unsupported content_type=...[BuildConvMessageFromConversation] skip non-chat, conv_id:..[ClawEditor] BuildPicContextMessage: unexpected non-image content_type=., drop it...[C"
+      }
+    ],
+    "local_path": [
+      {
+        "off": "0xaac882c",
+        "ctx": "conv_remote_id..last_remote_id..msg_list....isend...doc_type....owner_cef_window....cnt_limit...local_paths.livingId....disable_report..zoom_level..strid...custom_role.spu.itemname....channel1"
+      },
+      {
+        "off": "0xaac8b48",
+        "ctx": "thumb_aeskey....thumb_size..thumb_width.thumb_height....thumb_url...file_url....content_type....local_path..aes_key.use_scene...support_types...preview_img_local_path..img_width...img_height.."
+      },
+      {
+        "off": "0xaac8b84",
+        "ctx": "b_url...file_url....content_type....local_path..aes_key.use_scene...support_types...preview_img_local_path..img_width...img_height..preview_img_blob....fullpath....thumb_file_id...is_hd...forw"
+      },
+      {
+        "off": "0xab32eb1",
+        "ctx": "is not visible.....[HandleSnapshotNotification] save image fail....[HandleSnapshotNotification] local_path:....[ClawEditor] mail file update: bad_any_cast, drop event.........[ClawEditor] mail"
+      },
+      {
+        "off": "0xabb7e75",
+        "ctx": "sk] image_msgs size: ..[ConvertBigMsgToDocInfoTask] UploadNext: ...[ConvertBigMsgToDocInfoTask] local_path empty ..[ConvertBigMsgToDocInfoTask] read img fail: ....[ConvertBigMsgToDocInfoTask] "
+      },
+      {
+        "off": "0xaebc082",
+        "ctx": "......[IPC] MailGetImageFromMobileCommandHandler handleFinishWithRes. res.error_code: ....  res.local_paths.size: ....[IPC] MailGetImageFromMobileCommandHandler Execute req: .... has_cnt_limit"
+      },
+      {
+        "off": "0xaedc0b2",
+        "ctx": "DrawAiBotAvatarCorner] can not load image, path=..AiboitCardOleObjectImpl::DrawToMemBitmap wide_local_path:...[ AiboitCardOleObjectImpl::OpenAiBotProfile] ShowUserWindow.%.s.......%.s....u...."
+      },
+      {
+        "off": "0xafd5ff9",
+        "ctx": "taManager::UploadEmotion, url: ........EmotionDataManager::UploadEmotion, start upload emotion, local_path: ..., upload_path: .EmotionDataManager::UploadEmotion fail, upload_path is empty....."
+      },
+      {
+        "off": "0xafd60f1",
+        "ctx": "emoveQueryLocalPathCallback, context_id: ..EmotionDataManager::OnDownloadImageFinish, url: .... local_path: ... context_id: ...EmotionDataManager::OnDownloadExtendEmotionPackageFinish, group_i"
+      },
+      {
+        "off": "0xafe2040",
+        "ctx": "o._.t.x._.l.o.a.d.i.n.g._.t.i.p._.s.u.c.c.e.s.s._.b.l.a.c.k._.d.o.w.n..../...u..OcrButtonToggle local_path empty....win_ocr_server_recognize_click..im_pic_ocr_click...../..0l..FindTranslatedIm"
+      },
+      {
+        "off": "0xafe5e6c",
+        "ctx": "c\\win\\ui\\InstantMessaging\\image_preview\\WeChatOCR\\OCRManager.cpp....OCRManager::DoOCRServerTask local_path empty....OCRManager::DoOCRServerTask.OCRManager::DoOCRServerTask. Hit cache..win_ocr_"
+      },
+      {
+        "off": "0xafe5f8c",
+        "ctx": " path ..win_ocr_plugin_server_recognize_cost_time...OCRManager::HandleFetchPicOcrResult params->local_path:. DoOCRServerTask FetchPicOcrResult rsp empty....win_ocr_plugin_server_recognize_fini"
+      }
+    ],
+    "CdnFileType": [
+      {
+        "off": "0xb84e8f1",
+        "ctx": "manage.CRTX_WWK.OssLogReq_scan_storage_cost....CRTX_WWK.OssLogReq_conv_search_report...CRTX_WWK.CdnFileTypeOssLogReq...CRTX_WWK.OssLogReq_mallReport...CRTX_WWK.OssLogReq_bizmail_common_statist"
+      },
+      {
+        "off": "0xdabb960",
+        "ctx": "l_common_statistics@CRTX_WWK@@...........?AVOssLogReq_conv_search_report@CRTX_WWK@@..........?AVCdnFileTypeOssLogReq@CRTX_WWK@@..........?AVOssLogReq_storage_recordmanage@CRTX_WWK@@..........."
+      }
+    ],
+    "CDN_FILE_TYPE": [],
+    "kCdnFileType": [],
+    "CdnUploadResult": [
+      {
+        "off": "0xb838ec2",
+        "ctx": "FtnUploadParams...WeWorkService.FtnUploadResult...WeWorkService.FtnDownloadResult.WeWorkService.CdnUploadResult...WeWorkService.CdnDownloadResult.WeWorkService.FetchStaffListResult..WeWorkServ"
+      },
+      {
+        "off": "0xda9fefa",
+        "ctx": "am@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@....."
+      },
+      {
+        "off": "0xdaa20f0",
+        "ctx": "hStaffListResult@WeWorkService@@.............?AVCdnDownloadResult@WeWorkService@@............?AVCdnUploadResult@WeWorkService@@..........?AVFtnDownloadResult@WeWorkService@@............?AVFtnU"
+      },
+      {
+        "off": "0xf0bcbb1",
+        "ctx": "am@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@XABVC"
+      },
+      {
+        "off": "0xf0bcc7c",
+        "ctx": "am@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@std@@.................?AV?$_Func_impl_no_alloc@V?"
+      },
+      {
+        "off": "0xf0bed6c",
+        "ctx": "@WeWorkService@@@Z$00$00@base@@@std@@................?AV?$RpcMethodHandler@VCdnUploadParam@pb@@VCdnUploadResult@WeWorkService@@@LanguageCall@@...............?AV?$RpcMethodHandler@VFtnUploadPar"
+      },
+      {
+        "off": "0xf0bf121",
+        "ctx": "am@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@std@@............?AV?$RpcMethodHandler@VCdnDownlo"
+      }
+    ]
+  },
+  "nearby_tokens": [
+    "_conn",
+    "_conn_ipv4_fail",
+    "_conn_ipv4_succ",
+    "_conn_ipv6_fail",
+    "_conn_ipv6_succ",
+    "abandoned",
+    "ache",
+    "after",
+    "alive",
+    "aram",
+    "ask",
+    "ata",
+    "bandon",
+    "broken",
+    "but",
+    "callback",
+    "called",
+    "calling",
+    "chedule",
+    "connect",
+    "connected",
+    "connection",
+    "cpp",
+    "data",
+    "destructed",
+    "destruction",
+    "devops",
+    "e6d4d606a4b54544ad81247ae7a8e77f",
+    "ead",
+    "eader",
+    "eceive",
+    "econnect",
+    "eep",
+    "empty",
+    "end",
+    "eport",
+    "equest",
+    "erforming",
+    "error",
+    "esponse",
+    "fail",
+    "heartbeat",
+    "ile",
+    "imeout",
+    "isable",
+    "ist",
+    "ith",
+    "ive",
+    "live",
+    "mage",
+    "mobile_framework",
+    "model",
+    "multisocket",
+    "network",
+    "not",
+    "ocket",
+    "oncurrent",
+    "onnect",
+    "onnected",
+    "onnection",
+    "ontext",
+    "ownload",
+    "pec",
+    "pload",
+    "proto",
+    "reachable",
+    "reconnect",
+    "reset",
+    "response",
+    "ret",
+    "send",
+    "seq",
+    "solated",
+    "src",
+    "state",
+    "submod",
+    "tcp_connection",
+    "timeout",
+    "ulti",
+    "url",
+    "usiness",
+    "when",
+    "without",
+    "ww_file",
+    "wxwork_ios",
+    "xec"
+  ]
+}

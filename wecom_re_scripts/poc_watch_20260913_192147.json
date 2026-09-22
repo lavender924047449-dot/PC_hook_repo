@@ -1,0 +1,684 @@
+{
+  "scans": 13,
+  "duration_ms": 8158,
+  "dumps": [],
+  "patches": [
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x25ac8cd0",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x262bd450",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x2bcf8358",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x2bec7650",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x2c1bfee4",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x320e6ca8",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3221aac0",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3229dbc8",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x322db158",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x322db248",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x322db2c0",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x322db860",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x322dbab8",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326f4482",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326f4c7c",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe6fe",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_37_29_004.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe7bd",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe826",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe88f",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkrg",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe8f7",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_49_00_376.silkmg",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe95f",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_12_149.silkig",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fe9c7",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_02_339.silkgg",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fea2f",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_32_877.silkBg",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326fea97",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_20_534.silk@g",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326feaff",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_08_220.silk>g",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326feb67",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silk8g",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326febcf",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silk0g",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135__.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x326feef4",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32701a64",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkr",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32704ed3",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32705161",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x329c67ee",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x329c6a7c",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x329c6d0a",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x329c6f9a",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32edaf22",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32edba94",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x32edbd22",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x35157068",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x35157248",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b243516",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b24357f",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b243651",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b243c0f",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_20_33_54_757.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b243c78",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3b243ce1",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silk",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c34f8da",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c34fb6c",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c3505c2",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c362b94",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c36372b",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c375e17",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c3760a5",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c376333",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c376854",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    },
+    {
+      "type": "path_raw",
+      "dry": true,
+      "data_ptr": "0x3c376ae2",
+      "from": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj",
+      "to": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135_.silk"
+    }
+  ],
+  "path_hits": [
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silk",
+      "size": 98,
+      "data_ptr": "0x25ac8cd0"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silk",
+      "size": 98,
+      "data_ptr": "0x262bd450"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silk",
+      "size": 98,
+      "data_ptr": "0x2bcf8358"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silk",
+      "size": 98,
+      "data_ptr": "0x2bec7650"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silkj",
+      "size": 99,
+      "data_ptr": "0x2c1bfee4"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk",
+      "size": 98,
+      "data_ptr": "0x320e6ca8"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk",
+      "size": 98,
+      "data_ptr": "0x3221aac0"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk",
+      "size": 98,
+      "data_ptr": "0x3229dbc8"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silk",
+      "size": 98,
+      "data_ptr": "0x322db158"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silk",
+      "size": 98,
+      "data_ptr": "0x322db248"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silk",
+      "size": 98,
+      "data_ptr": "0x322db2c0"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk",
+      "size": 98,
+      "data_ptr": "0x322db860"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silk",
+      "size": 98,
+      "data_ptr": "0x322dbab8"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkj",
+      "size": 99,
+      "data_ptr": "0x326f4482"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silkj",
+      "size": 99,
+      "data_ptr": "0x326f4c7c"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_37_29_004.silk",
+      "size": 98,
+      "data_ptr": "0x326fe6fe"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silk",
+      "size": 98,
+      "data_ptr": "0x326fe7bd"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk",
+      "size": 98,
+      "data_ptr": "0x326fe826"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkrg",
+      "size": 100,
+      "data_ptr": "0x326fe88f"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_49_00_376.silkmg",
+      "size": 100,
+      "data_ptr": "0x326fe8f7"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_12_149.silkig",
+      "size": 100,
+      "data_ptr": "0x326fe95f"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_02_339.silkgg",
+      "size": 100,
+      "data_ptr": "0x326fe9c7"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_32_877.silkBg",
+      "size": 100,
+      "data_ptr": "0x326fea2f"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_20_534.silk@g",
+      "size": 100,
+      "data_ptr": "0x326fea97"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_08_220.silk>g",
+      "size": 100,
+      "data_ptr": "0x326feaff"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silk8g",
+      "size": 100,
+      "data_ptr": "0x326feb67"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silk0g",
+      "size": 100,
+      "data_ptr": "0x326febcf"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silk",
+      "size": 98,
+      "data_ptr": "0x326feef4"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_02_57_029.silkr",
+      "size": 99,
+      "data_ptr": "0x32701a64"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silkj",
+      "size": 99,
+      "data_ptr": "0x32704ed3"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silkj",
+      "size": 99,
+      "data_ptr": "0x32705161"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silkj",
+      "size": 99,
+      "data_ptr": "0x329c67ee"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silkj",
+      "size": 99,
+      "data_ptr": "0x329c6a7c"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silkj",
+      "size": 99,
+      "data_ptr": "0x329c6d0a"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silkj",
+      "size": 99,
+      "data_ptr": "0x329c6f9a"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silkj",
+      "size": 99,
+      "data_ptr": "0x32edaf22"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silkj",
+      "size": 99,
+      "data_ptr": "0x32edba94"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silkj",
+      "size": 99,
+      "data_ptr": "0x32edbd22"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk",
+      "size": 98,
+      "data_ptr": "0x35157068"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk",
+      "size": 98,
+      "data_ptr": "0x35157248"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk",
+      "size": 98,
+      "data_ptr": "0x3b243516"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk",
+      "size": 98,
+      "data_ptr": "0x3b24357f"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk",
+      "size": 98,
+      "data_ptr": "0x3b243651"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_20_33_54_757.silk",
+      "size": 98,
+      "data_ptr": "0x3b243c0f"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silk",
+      "size": 98,
+      "data_ptr": "0x3b243c78"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silk",
+      "size": 98,
+      "data_ptr": "0x3b243ce1"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silkj",
+      "size": 99,
+      "data_ptr": "0x3c34f8da"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silkj",
+      "size": 99,
+      "data_ptr": "0x3c34fb6c"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silkj",
+      "size": 99,
+      "data_ptr": "0x3c3505c2"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silkj",
+      "size": 99,
+      "data_ptr": "0x3c362b94"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silkj",
+      "size": 99,
+      "data_ptr": "0x3c36372b"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silkj",
+      "size": 99,
+      "data_ptr": "0x3c375e17"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silkj",
+      "size": 99,
+      "data_ptr": "0x3c3760a5"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silkj",
+      "size": 99,
+      "data_ptr": "0x3c376333"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silkj",
+      "size": 99,
+      "data_ptr": "0x3c376854"
+    },
+    {
+      "str": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj",
+      "size": 99,
+      "data_ptr": "0x3c376ae2"
+    }
+  ],
+  "n_tasks": 0,
+  "n_path_hits": 56,
+  "voice_new_files": []
+}

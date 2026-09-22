@@ -1,0 +1,10 @@
+{
+  "msg_type": "voice",
+  "pid": 21768,
+  "vtable_offset": "0xabbb210",
+  "duration_sec": 60.125,
+  "scans": 399,
+  "task_dump_bytes": 256,
+  "package_dump_bytes": 768,
+  "tasks": []
+}

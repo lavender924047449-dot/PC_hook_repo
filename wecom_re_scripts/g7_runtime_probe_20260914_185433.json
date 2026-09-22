@@ -1,0 +1,112 @@
+{
+  "pid": 16604,
+  "seconds": 120,
+  "hits": {
+    "cfg_send_voice_text": 1
+  },
+  "gate_events": 4,
+  "top_bt": [
+    [
+      "0x76a93c9b",
+      2
+    ],
+    [
+      "wx+0x57b0512",
+      1
+    ],
+    [
+      "0x14b7e130",
+      1
+    ]
+  ],
+  "events": [
+    {
+      "t": "hook",
+      "name": "cfg_send_voice_text",
+      "rva": "0x57c9062",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "asr_key_path",
+      "rva": "0x49280",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "voice2text_auto",
+      "rva": "0xf1f9a0",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "offline_update_cmd",
+      "rva": "0xf224f0",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_a",
+      "rva": "0x81e47f2",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_b",
+      "rva": "0x81e6673",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_c",
+      "rva": "0x83c57e2",
+      "ok": true
+    },
+    {
+      "t": "gate",
+      "ev": "enter",
+      "tid": 16712,
+      "lv": 1
+    },
+    {
+      "t": "gate",
+      "ev": "leave",
+      "tid": 16712,
+      "lv": 0
+    },
+    {
+      "t": "hit",
+      "name": "cfg_send_voice_text",
+      "rva": "0x57c9062",
+      "tid": 16712,
+      "in_presend": false,
+      "ecx": "0x3e23f068",
+      "a0": "0x14b7dfc8",
+      "a1": "0x90a53740",
+      "bt": [
+        "wx+0x57b0512",
+        "0x14b7e130",
+        "0x76a93c9b",
+        "0x76a93c9b",
+        "0x76a93c68",
+        "0x77908244",
+        "wx+0x3c30f3d",
+        "0x778c3ef6"
+      ],
+      "a0hex": "000000000000000000000000ed587c01c4dfb7145c37a590f4e0b714a060180ae4c51e894037a590f4e0b71461c3800a0000000000e1b714e4acd205d4ebb714",
+      "ecxhex": "98ff5d0b000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "t": "gate",
+      "ev": "enter",
+      "tid": 16712,
+      "lv": 1
+    },
+    {
+      "t": "gate",
+      "ev": "leave",
+      "tid": 16712,
+      "lv": 0
+    }
+  ]
+}

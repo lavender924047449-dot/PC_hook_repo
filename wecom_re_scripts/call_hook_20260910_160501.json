@@ -1,0 +1,1136 @@
+[
+  {
+    "t": "verify",
+    "addr": "0x1023810",
+    "bytes": [
+      83,
+      139,
+      220,
+      131,
+      236,
+      8
+    ]
+  },
+  {
+    "t": "hook_ready",
+    "addr": "0x1023810"
+  },
+  {
+    "t": "hit",
+    "n": 1,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x779d10b8",
+      "0x7771b467",
+      "0x764812ec"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 2,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 3,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 4,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 5,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0xa1ac1ca",
+      "0xa1ac365",
+      "0xa1b3b24"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 6,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b654f",
+      "0x1f499dd",
+      "0xa220b14"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 7,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 8,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 9,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0xa9254be",
+      "0xf7d253",
+      "0x6afef12c"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 10,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 11,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0xa9254be",
+      "0xf7d253",
+      "0x6afef12c"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 12,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 13,
+    "sql": "select %s, %s from %s where %s=?;���delete from %s where %s > 0;����replace into %s(%s, %s, %s, %s, %s) values (?, ?, ?, ?, ?);�replace into %s(%s, %s) values (?, ?);��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storage\\business\\corpapp\\application_storage.cpp��LoadB2BAppId to cache�����m\f",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x3163750",
+      "0x779e655f",
+      "0x75b70945",
+      "0x77a28244"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 14,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 15,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 16,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 17,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 18,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x77a28244",
+      "0x9c9f701",
+      "0x77a28244"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 19,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b3b24",
+      "0x779e27c5",
+      "0x77a28244"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 20,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 21,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 22,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x91bc4d4",
+      "0x91bc4f1",
+      "0x779e655f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 23,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0x6afebf55",
+      "0x10318e1",
+      "0x103088f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 24,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 25,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 26,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 27,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 28,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x22f6fcd",
+      "0xa1ac1ca",
+      "0xa1ac365"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 29,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b654f",
+      "0x1f499dd",
+      "0xa220b14"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 30,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 31,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 32,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x779e60be",
+      "0x779e60be"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 33,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 34,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x5f881da7",
+      "0x5f881db7"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 35,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x5f87e0bd",
+      "0x779e60be"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 36,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 37,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 38,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 39,
+    "sql": "select %s, %s from %s���AND %s in (%s)��and (%s >> 48 = 8 or %s >> 48 = 28)�select %s from %s where %s match %s %s %s limit ?���AND %s.%s in (%s)���and (%s.%s >> 48 = 8 or %s.%s >> 48 = 28)���select %s.%s, %s.%s from %s left join %s on %s.%s = %s.%s where %s match %s %s %s order by %s desc limit ?��",
+    "db": "",
+    "tid": 27100,
+    "bt": [
+      "0x9091721",
+      "0x779cedcf",
+      "0x779fc21c",
+      "0x779fc2cb"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 40,
+    "sql": "select %s from %s where %s = 1 order by %s desc�select %s from %s where %s = ? and %s = 0���,|��select %s,%s,%s,%s,%s from %s���replace into %s (%s,%s,%s,%s,%s) values (?,?,?,?,?)�BatchP2PCollectionInfo.Add��delete from %s where %s = ? and %s = ?��BatchP2PCollectionInfo.Delete���BatchP2PCollectionIn",
+    "db": "",
+    "tid": 28828,
+    "bt": [
+      "0x8f5fa32",
+      "0x779fc2cb",
+      "0x779e3ef6",
+      "0x77a13376"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 41,
+    "sql": "select %s,%s,%s,%s,%s from %s���replace into %s (%s,%s,%s,%s,%s) values (?,?,?,?,?)�BatchP2PCollectionInfo.Add��delete from %s where %s = ? and %s = ?��BatchP2PCollectionInfo.Delete���BatchP2PCollectionInfo.Delete.CollectionId��update %s set %s= ? where %s = ? and %s = ?�H��\f0��\u0002�o/\u0002���\b�!�����\f�$�\b",
+    "db": "",
+    "tid": 13796,
+    "bt": [
+      "0x8f5bf21",
+      "0xa0e656f",
+      "0x779e3ef6",
+      "0x779fc38f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 42,
+    "sql": "select %s, %s, %s, %s, %s, %s from %s where %s = ?��GetMessageRevokeRecordsWithIsLookup�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storage\\business\\message\\message_storage.cpp������[cpm] GetConvId2StorageSize get conv message count. total_message_count:���� conversations:� timestamp : ���",
+    "db": "",
+    "tid": 31052,
+    "bt": [
+      "0x90dbb01",
+      "0x779fc21c",
+      "0x779fc2cb",
+      "0x77a13376"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 43,
+    "sql": "select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValueByKey���replace into %s(%s, %s) ",
+    "db": "",
+    "tid": 28828,
+    "bt": [
+      "0x8f5b7f8",
+      "0xa9254e4",
+      "0x91e9490",
+      "0xe26921"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 44,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x779d10b8",
+      "0x7771b467",
+      "0x764812ec"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 45,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 46,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 47,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 48,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0xa1ac1ca",
+      "0xa1ac365",
+      "0xa1b3b24"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 49,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b654f",
+      "0x1f499dd",
+      "0xa220b14"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 50,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 51,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 52,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0xa9254be",
+      "0xf7d253",
+      "0x6afef12c"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 53,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 54,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0xa9254be",
+      "0xf7d253",
+      "0x6afef12c"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 55,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 56,
+    "sql": "select %s, %s from %s where %s=?;���delete from %s where %s > 0;����replace into %s(%s, %s, %s, %s, %s) values (?, ?, ?, ?, ?);�replace into %s(%s, %s) values (?, ?);��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storage\\business\\corpapp\\application_storage.cpp��LoadB2BAppId to cache�����m\f",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x3163750",
+      "0x779e655f",
+      "0x75b70945",
+      "0x77a28244"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 57,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 58,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 59,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 60,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 61,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x77a28244",
+      "0x9c9f701",
+      "0x77a28244"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 62,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b3b24",
+      "0xa1b3b5d",
+      "0xa1b6451"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 63,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 64,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 65,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x91bc4d4",
+      "0x91bc4f1",
+      "0x779e655f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 66,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0x6afebf55",
+      "0x10318e1",
+      "0x103088f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 67,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 68,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0xa9254e4",
+      "0xa1b39a5"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 69,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x31699a5",
+      "0x602f68ce",
+      "0x602f692d",
+      "0x60306bb9"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 70,
+    "sql": "select %s from %s where %s = ?��select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValue",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x9073492",
+      "0x907caf4",
+      "0x9f64034",
+      "0x1f499dd"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 71,
+    "sql": "select count(1) from %s where %s = ? ���pragma table_info(%s)���alter table %s add %s ���\u001a�\f@\u001a\u001f\t@\u001a\u001f\t@\u001b\u001f\t\u0010\u001c\u001f\t���\u0002\u0010]��\u001c\u001b�\f�\u0019\u001f\t�\u0019\u001f\t��\n\t�\u001b\u001f\t���\u0002\u0010]��h\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001a\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001b�\f�\u0019\u001f\t�\u0019\u001f\t�\u001b\u001f\t�\u001b\u001f\t���\u0002\u0010]���\u001c�\f`\u0019\u001f\t`\u0019\u001f\tp\u001a\u001f\t�\u001b\u001f\tp��\u0002\u0010]��L\u001c�\f\u0010\u001a\u001f\t\u0010\u001a\u001f\t \u001b\u001f\t�\u001c\u001f\t���\u0002\u0010]��T�\u0018\fstring_value����select rowid, %1% from %",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91f0c28",
+      "0x22f6fcd",
+      "0xa1ac1ca",
+      "0xa1ac365"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 72,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91b4414",
+      "0xa1b654f",
+      "0x1f499dd",
+      "0xa220b14"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 73,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bcce8",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 74,
+    "sql": "select %s from %s where %s = ?;�delete from %s where %s = ? and %s = ?;���m\fП\u0016\u0003П\u0016\u0003\u0010�\u0016\u0003��\u0016\u0003��\u0014\u0003\u0010]��4�m\f��\u0016\u0003��\u0016\u0003`�\u0016\u0003��\u0016\u0003���\u0002\u0010]����m\f �\u0016\u0003�!����\u0016\u0003��\u0016\u00030%\u000f\u0003\u0010]��L/�\u000b�|E\f$|E\f��D\f\\/�\u000bl/�\u000bout_contacts2���identity_flag���create_ts�����m\f��\u0016\u0003 �m\f��\u0016\u0003out_contact_sync_key_key2���out_contact_use_new_ync_key�C:\\d",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x91bc358",
+      "0x779e3ef6",
+      "0x75b73c68",
+      "0x22f4fc3"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 75,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x779e60be",
+      "0x779e60be"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 76,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 77,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x5f881da7",
+      "0x5f881db7"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 78,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e655f",
+      "0x5f87e0bd",
+      "0x779e60be"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 79,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 80,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 81,
+    "sql": "select %s, %s, %s from %s where %s in (%s)��GetAvatars��replace into %s(%s, %s, %s) values(?, ?, ?)�select %s, %s, %s from %s where %s = ?��GetCollectConversationAvatar����delete from %s��p��\f`<�\b`<�\b�=�\b\u0010>�\bp��\u0002\u0010]�����\f�<�\b�<�\b@=�\b0>�\b���\u0002\u0010]��\b��\f�<�\b�<�\b =�\b >�\b���\u0002\u0010]��T��\f�<�\b�<�\b@=�\b@>�\bp��\u0002\u0010]��",
+    "db": "",
+    "tid": 23772,
+    "bt": [
+      "0x8f333df",
+      "0x779e60be",
+      "0x779e60be",
+      "0x75b70166"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 82,
+    "sql": "select %s, %s from %s���AND %s in (%s)��and (%s >> 48 = 8 or %s >> 48 = 28)�select %s from %s where %s match %s %s %s limit ?���AND %s.%s in (%s)���and (%s.%s >> 48 = 8 or %s.%s >> 48 = 28)���select %s.%s, %s.%s from %s left join %s on %s.%s = %s.%s where %s match %s %s %s order by %s desc limit ?��",
+    "db": "",
+    "tid": 27100,
+    "bt": [
+      "0x9091721",
+      "0x779fc21c",
+      "0x779fc2cb",
+      "0x77a13376"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 83,
+    "sql": "select %s,%s,%s,%s,%s from %s���replace into %s (%s,%s,%s,%s,%s) values (?,?,?,?,?)�BatchP2PCollectionInfo.Add��delete from %s where %s = ? and %s = ?��BatchP2PCollectionInfo.Delete���BatchP2PCollectionInfo.Delete.CollectionId��update %s set %s= ? where %s = ? and %s = ?�H��\f0��\u0002�o/\u0002���\b�!�����\f�$�\b",
+    "db": "",
+    "tid": 13796,
+    "bt": [
+      "0x8f5bf21",
+      "0xa0e656f",
+      "0x779e3ef6",
+      "0x779fc38f"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 84,
+    "sql": "select %s from %s where %s = 1 order by %s desc�select %s from %s where %s = ? and %s = 0���,|��select %s,%s,%s,%s,%s from %s���replace into %s (%s,%s,%s,%s,%s) values (?,?,?,?,?)�BatchP2PCollectionInfo.Add��delete from %s where %s = ? and %s = ?��BatchP2PCollectionInfo.Delete���BatchP2PCollectionIn",
+    "db": "",
+    "tid": 28828,
+    "bt": [
+      "0x8f5fa32",
+      "0x779fc2cb",
+      "0x779e3ef6",
+      "0x77a13376"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 85,
+    "sql": "select %s, %s, %s, %s, %s, %s from %s where %s = ?��GetMessageRevokeRecordsWithIsLookup�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storage\\business\\message\\message_storage.cpp������[cpm] GetConvId2StorageSize get conv message count. total_message_count:���� conversations:� timestamp : ���",
+    "db": "",
+    "tid": 31052,
+    "bt": [
+      "0x90dbb01",
+      "0x779fc21c",
+      "0x779fc2cb",
+      "0x77a13376"
+    ]
+  },
+  {
+    "t": "hit",
+    "n": 86,
+    "sql": "select %s from %s where %s in (%s);�select %s from %s where %s = 1��select %s from %s where %s = 1 and %s = 0���select %s from %s;��select %s, %s from %s where %s in (%s);�select %s, %s, %s from %s where %s in (%s);�P|E\f@�P\fselect count(1) from %s where %s=?;�GetValueByKey���replace into %s(%s, %s) ",
+    "db": "",
+    "tid": 28828,
+    "bt": [
+      "0x8f5b7f8",
+      "0xa9254e4",
+      "0x91e9490",
+      "0xe26921"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "type": "start",
+    "pid": 28432
+  },
+  {
+    "type": "hit_mods",
+    "data": [
+      {
+        "name": "WXWork.exe",
+        "base": "0xdc0000",
+        "size": 270573568,
+        "count": 16,
+        "addrs": [
+          "0xe25f40d",
+          "0xe25f55a",
+          "0xe25f6ae",
+          "0xe25f825",
+          "0xe25f97e",
+          "0xe25faf5",
+          "0xe25fc4e",
+          "0xe25fdbb",
+          "0xf69ec55",
+          "0xf69edc2",
+          "0xf69ef55",
+          "0xf69f0cc",
+          "0xf69f255",
+          "0xf69f3cc",
+          "0xf69f544",
+          "0xf69f691"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "rdata_refs",
+    "data": {}
+  }
+]

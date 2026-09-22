@@ -1,0 +1,58 @@
+{
+  "ForwardMessageReq@CRTX@@": {
+    "count": 33,
+    "fwd_count": null,
+    "addr_samples": [
+      "0xceb0c94",
+      "0xdb5d605",
+      "0xdb5d6d0"
+    ]
+  },
+  "ForwardMessageReq@CRTX": {
+    "count": 33,
+    "fwd_count": null,
+    "addr_samples": [
+      "0xceb0c94",
+      "0xdb5d605",
+      "0xdb5d6d0"
+    ]
+  },
+  "AppendToString": {
+    "count": 0,
+    "fwd_count": null,
+    "addr_samples": []
+  },
+  "SerializeToString": {
+    "count": 7,
+    "fwd_count": null,
+    "addr_samples": [
+      "0xae04ab0",
+      "0xaec1156",
+      "0xaec1181"
+    ]
+  },
+  "SerializeWithCachedSizes": {
+    "count": 0,
+    "fwd_count": null,
+    "addr_samples": []
+  },
+  "InternalSerialize": {
+    "count": 0,
+    "fwd_count": null,
+    "addr_samples": []
+  },
+  "rtti_fwdreq": {
+    "count": 0,
+    "fwd_count": null,
+    "addr_samples": []
+  },
+  "fwd_rtti_classes": {
+    "count": 162311,
+    "fwd_count": 236,
+    "addr_samples": [
+      "0xceb0c60",
+      "0xceb0c88",
+      "0xceb0cb8"
+    ]
+  }
+}

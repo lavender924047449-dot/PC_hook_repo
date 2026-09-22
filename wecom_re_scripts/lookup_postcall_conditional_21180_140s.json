@@ -1,0 +1,19 @@
+{
+  "pid": 21180,
+  "logger_addr": "0xa6316d0",
+  "post_addr": "0xe6114b",
+  "duration_s": 140,
+  "event_count": 1,
+  "events": [
+    {
+      "error": {
+        "type": "error",
+        "description": "Error: unable to intercept function at 0A6316D0; please file a bug",
+        "stack": "Error: unable to intercept function at 0A6316D0; please file a bug\n    at value (/frida/runtime/core.js:374)\n    at <eval> (/script1.js:77)",
+        "fileName": "/frida/runtime/core.js",
+        "lineNumber": 374,
+        "columnNumber": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sql_addr": null,
+  "wwdb_wrapper_addr": null,
+  "wwdb_call_targets": [],
+  "wwdb_upper_callers": [],
+  "candidates": [],
+  "notes": [
+    ".rdata sql literal hits = 0",
+    "SQL anchor not found; SQLite might be re-compiled."
+  ],
+  "pid": 9000,
+  "ts": "20260911_233943"
+}

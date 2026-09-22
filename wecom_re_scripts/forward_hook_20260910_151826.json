@@ -1,0 +1,61 @@
+[
+  {
+    "type": "start",
+    "pid": 30244
+  },
+  {
+    "type": "symbols",
+    "count": 0,
+    "samples": []
+  },
+  {
+    "type": "string_refs",
+    "count": 16,
+    "refs": [
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25f40d"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25f55a"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25f6ae"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25f825"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25f97e"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25faf5"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25fc4e"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xe25fdbb"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xf69ec55"
+      },
+      {
+        "mod": "WXWork.exe",
+        "addr": "0xf69edc2"
+      }
+    ]
+  },
+  {
+    "type": "not_found",
+    "msg": "无法定位函数，将改用 Qt signal 扫描"
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "t": "str",
+    "s": "PreSendNewMessage",
+    "count": 1,
+    "results": [
+      {
+        "s_addr": "0xba87b3c",
+        "s_rva": "0xb4a7b3c",
+        "xref_count": 1,
+        "funcs": [
+          {
+            "xref": "0x9780233",
+            "xref_rva": "0x91a0233",
+            "func": "0x977ffb2",
+            "func_rva": "0x919ffb2",
+            "distance": 641,
+            "boundary": "0xcc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "PreSendMessageTask2",
+    "count": 3,
+    "results": [
+      {
+        "s_addr": "0xb19dbe5",
+        "s_rva": "0xabbdbe5",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19dc48",
+        "s_rva": "0xabbdc48",
+        "xref_count": 1,
+        "funcs": [
+          {
+            "xref": "0x318688b",
+            "xref_rva": "0x2ba688b",
+            "func": "0x3186452",
+            "func_rva": "0x2ba6452",
+            "distance": 1081,
+            "boundary": "0xcc"
+          }
+        ]
+      },
+      {
+        "s_addr": "0xb19dd0d",
+        "s_rva": "0xabbdd0d",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "SerializeToString",
+    "count": 7,
+    "results": [
+      {
+        "s_addr": "0xb114ab0",
+        "s_rva": "0xab34ab0",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb1d1156",
+        "s_rva": "0xabf1156",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb1d1181",
+        "s_rva": "0xabf1181",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb1e21fd",
+        "s_rva": "0xac021fd",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb9871d7",
+        "s_rva": "0xb3a71d7",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "PreSendMessageTask",
+    "count": 3,
+    "results": [
+      {
+        "s_addr": "0xb19dbe5",
+        "s_rva": "0xabbdbe5",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19dc48",
+        "s_rva": "0xabbdc48",
+        "xref_count": 1,
+        "funcs": [
+          {
+            "xref": "0x318688b",
+            "xref_rva": "0x2ba688b",
+            "func": "0x3186452",
+            "func_rva": "0x2ba6452",
+            "distance": 1081,
+            "boundary": "0xcc"
+          }
+        ]
+      },
+      {
+        "s_addr": "0xb19dd0d",
+        "s_rva": "0xabbdd0d",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "SendMessageTask2",
+    "count": 28,
+    "results": [
+      {
+        "s_addr": "0xb19b69b",
+        "s_rva": "0xabbb69b",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19b73c",
+        "s_rva": "0xabbb73c",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19b8c9",
+        "s_rva": "0xabbb8c9",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19b905",
+        "s_rva": "0xabbb905",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb19b949",
+        "s_rva": "0xabbb949",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "SendCGIRequest",
+    "count": 5,
+    "results": [
+      {
+        "s_addr": "0xb1a381a",
+        "s_rva": "0xabc381a",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb1a44c1",
+        "s_rva": "0xabc44c1",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xb1a450b",
+        "s_rva": "0xabc450b",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xbac13c0",
+        "s_rva": "0xb4e13c0",
+        "xref_count": 0,
+        "funcs": []
+      },
+      {
+        "s_addr": "0xbac5cbb",
+        "s_rva": "0xb4e5cbb",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "cgi request:",
+    "count": 1,
+    "results": [
+      {
+        "s_addr": "0xba3e670",
+        "s_rva": "0xb45e670",
+        "xref_count": 2,
+        "funcs": [
+          {
+            "xref": "0x91bd374",
+            "xref_rva": "0x8bdd374",
+            "func": "0x91bd232",
+            "func_rva": "0x8bdd232",
+            "distance": 322,
+            "boundary": "0xcc"
+          },
+          {
+            "xref": "0x91bd509",
+            "xref_rva": "0x8bdd509",
+            "func": "0x91bd232",
+            "func_rva": "0x8bdd232",
+            "distance": 727,
+            "boundary": "0xcc"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": "str",
+    "s": "before compress",
+    "count": 1,
+    "results": [
+      {
+        "s_addr": "0xba3e681",
+        "s_rva": "0xb45e681",
+        "xref_count": 0,
+        "funcs": []
+      }
+    ]
+  }
+]

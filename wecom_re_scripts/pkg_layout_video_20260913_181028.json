@@ -1,0 +1,10 @@
+{
+  "msg_type": "video",
+  "pid": 16392,
+  "vtable_offset": "0xabbb210",
+  "duration_sec": 30.297000000000025,
+  "scans": 98,
+  "task_dump_bytes": 256,
+  "package_dump_bytes": 512,
+  "tasks": []
+}

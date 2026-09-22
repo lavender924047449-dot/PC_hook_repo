@@ -1,0 +1,39 @@
+{
+  "base": "None",
+  "prepare_v2": null,
+  "bind_family": [
+    "0xc50090",
+    "0xc50160",
+    "0xc50210",
+    "0xc502f0",
+    "0xc503c0",
+    "0xc50440",
+    "0xc50480",
+    "0xc50510",
+    "0xc50650",
+    "0xc50720",
+    "0xc50920",
+    "0xcc11d0",
+    "0xcc1720",
+    "0xcc4a60",
+    "0xcc4c60",
+    "0xcc8ef0",
+    "0xccab00",
+    "0xccbcd0",
+    "0xccf400",
+    "0xcddf20",
+    "0xce0fa0",
+    "0xce2c90",
+    "0xcef530",
+    "0xcefff0",
+    "0xcf13f0",
+    "0xcf8c80",
+    "0xcf8fd0",
+    "0xcf90c0"
+  ],
+  "step": null,
+  "notes": [
+    "vdbeUnbind callers → 32 sites, 28 unique funcs",
+    "sqlite3_step marker strings all missed"
+  ]
+}

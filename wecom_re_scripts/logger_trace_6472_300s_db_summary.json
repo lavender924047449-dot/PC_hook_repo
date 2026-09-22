@@ -1,0 +1,720 @@
+{
+  "infile": "d:\\Only internship outputs\\Test-Voice\\runtime\\wecom_re\\logger_trace_6472_300s.json",
+  "db_count": 34,
+  "dbs": [
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index_v1_1.db",
+      "ret_counts": [
+        {
+          "ret": "0x2e86445",
+          "count": 13
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788937812184,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788937824738,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788937837165,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788937839043,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788937844161,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\message.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 1
+        },
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788937812133,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788938054221,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\session.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 1
+        },
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788937812134,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788938054221,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\company.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 1
+        },
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788937832685,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        },
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\message_lookup.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\user.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\file.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\forever_store.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\avatar_store_v3.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\avatar_store_v3.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\index_master.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\userdept_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054222,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\userdept_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\session_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\collection_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\announce_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\user_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\user_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\data_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\data_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\collection_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\session_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054223,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\announce_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\cloud_disk_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\cloud_disk_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\kv.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\kv.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\user_extend.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user_extend.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\sms_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\sms_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\hot_index.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\crm.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\crm.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\tencent_doc_list.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\tencent_doc_list.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\calendar_r7.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\voip_meeting.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\voip_meeting.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\govern.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054224,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\govern.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\cachemapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054225,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\CacheMapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\emotion\\aa8e4a307c6e377f9088303c3761fb7e.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054225,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Emotion\\aa8e4a307c6e377f9088303c3761fb7e.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\avator\\e3863d77d5d231e3098450778326ffbd.db",
+      "ret_counts": [
+        {
+          "ret": "0x8f33f5a",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938054225,
+          "ret": "0x8f33f5a",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Avator\\e3863d77d5d231e3098450778326ffbd.db",
+          "s1": "",
+          "s2": "",
+          "bt": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 6,
+  "src": "EVP_DecryptUpdate",
+  "n": 14975,
+  "hits": [
+    {
+      "name": "silk_tag_02_24",
+      "off": 3728
+    }
+  ],
+  "head_hex": "1aa52e9eaf040683b2d58d28e2068a6aed06dd85bbd3e947a8e1e5323811917f9e2a48c9653afbc50aa44affdfe411536aad77eab356194eba5ef166c3e996daa81f7192c03fd660f7ae90b8059c9765cdd75f987c97bbc4a0cfd50d5935fa61a594fb1751bbed73999a45cab3899ea696e89fded6f0ec13eb4b044e46a12c3e0038bfa906468415de2bb51bc9820f9f2a1b88be81c260a321f1ea711f0295b22092abe82dad9b2d2effccc58f4e7cf4230daf2b28b3c5896d4527a8f64aeb0a44dfa0bde00a96d87219d7c48cd8a6f1e6515e489596f666c8cc88fda8e54ac8ca080ad28cfe64253fe137f0237301be55ed49ac8f0c8af14042d83bfbd6aa7c",
+  "bt": [
+    "0x613c0785",
+    "0x62464dc0",
+    "0x613c0785",
+    "0x613bec9d",
+    "0x778c60be",
+    "0x76a90166",
+    "0x6247786c",
+    "0x613bcbc5",
+    "0x613bb52a",
+    "0x613c5560",
+    "0x613c54f7",
+    "0x613d7f43"
+  ],
+  "bin": "recv_voice_wire_20260914_203047_seq006_EVP_DecryptUpdate.bin"
+}

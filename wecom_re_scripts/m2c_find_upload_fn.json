@@ -1,0 +1,473 @@
+{
+  "ctors": [
+    {
+      "rva": "0xa08b00",
+      "va": "0xbc8b00",
+      "insns": [
+        "push ebp",
+        "mov ebp, esp",
+        "push ecx",
+        "mov ecx, dword ptr [ebp + 8]",
+        "push 0xb9559f0",
+        "call 0x3a94a7",
+        "mov eax, dword ptr [ebp + 8]",
+        "leave ",
+        "ret 4"
+      ],
+      "strings": [],
+      "imms": [
+        "0xb9559f0",
+        "0x3a94a7"
+      ]
+    },
+    {
+      "rva": "0xa08b83",
+      "va": "0xbc8b83",
+      "insns": [
+        "push esi",
+        "mov esi, ecx",
+        "call 0xbc8c56",
+        "test byte ptr [ebp + 8], 1",
+        "je 0xbc8b9b",
+        "push 0x2c",
+        "push esi",
+        "call 0x9d654d9",
+        "pop ecx",
+        "pop ecx",
+        "mov eax, esi",
+        "pop esi",
+        "pop ebp",
+        "ret 4"
+      ],
+      "strings": [
+        "V��W�@�T\u000fW�N\u0010�\u0006X[�\u000b�\u000f4��W�N\u0014�\u00064��W�N\u0018��3���N\u0004�;4��_�\u0006T��\n^���������������̋A\bS3ۨ\u0007t<�\u0001t\u0010�Q\u0010�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0002t\u0010�Q\u0014�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0004t\u0010�Q\u0018�Z\u0010�z\u0014\u000fv\u0002",
+        "��^]�\u0004������j\b��\u0005�\t�\u001d�\u0019\t�ى]��u\b�]�3ҍK\u0004�U��\u0003X[�\u000b�\u0011�E�\u0001�F\b�C\b�F\u0004P�S\f�� ���K\u0010�@�T\u000f�9�F\b\u0001t\u000e9~\u0010t\t�v\u0010W��e���K\u0014�9�F\b���\u0001t\u000e9~\u0014t\t�v\u0014W��e���K\u0018�9�F\b�",
+        "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b"
+      ],
+      "imms": [
+        "0xbc8c56",
+        "0xbc8b9b",
+        "0x9d654d9"
+      ]
+    },
+    {
+      "rva": "0xa08c56",
+      "va": "0xbc8c56",
+      "insns": [
+        "push esi",
+        "mov esi, ecx",
+        "push edi",
+        "mov edi, 0xf54d940",
+        "push edi",
+        "lea ecx, [esi + 0x10]",
+        "mov dword ptr [esi], 0xb955b58",
+        "call 0x6bc07d",
+        "push edi",
+        "lea ecx, [esi + 0x14]",
+        "call 0x6bc07d",
+        "push edi",
+        "lea ecx, [esi + 0x18]",
+        "call 0x6bc07d",
+        "lea ecx, [esi + 4]",
+        "call 0x6bc0c3",
+        "pop edi",
+        "mov dword ptr [esi], 0xac39854",
+        "pop esi",
+        "ret "
+      ],
+      "strings": [
+        "���������X���X�� �<��_A������.<�`�j�А��\u0010���Џ��Ў���B�\t��A� �<�@<�\t\f\u00151\f ��������X���X�� �<��_A������.<�`�j�@�������p��������B�\t��A� �<�@<�\t",
+        "W���\u0007\u0001t\"V�7����~\u0018�u\u0015��t\u0011���5���j\u001cV���j\tYY^�'�_���������������U���E\b\u0001V���\u0006T��\nt\nj\u0004V迓j\tYY��^]�\u0004�������\u0001T��\n������U��V��������E\b\u0001t\nj\u001cV茓j\tYY",
+        "��k��\u001d�\tP>�\t�\u001d�\t �<��_A��\u001d�\t�\u001d�\t�;�\t�\u001d�\t�\u001d�\t�\u001d�\t`B�\t�B�\t�\u001d�\t �<�@<�\t\f�+\fнk��\u001d�\t�\u001d�\t�\u001d�\t�r�\t\u0010O:�p��\u000b�Ct\u0001�_t\u0001P�t\u0001p�t\u0001 �<��_A��Ut\u0001�.<�@lt\u0001�St\u0001"
+      ],
+      "imms": [
+        "0xf54d940",
+        "0xb955b58",
+        "0x6bc07d",
+        "0x6bc07d",
+        "0x6bc07d",
+        "0x6bc0c3",
+        "0xac39854"
+      ]
+    }
+  ],
+  "task_xrefs": [
+    {
+      "site": "0x91390f5",
+      "site_rva": "0x8f790f5",
+      "fn": "0x91390c2",
+      "fn_rva": "0x8f790c2"
+    },
+    {
+      "site": "0x913937f",
+      "site_rva": "0x8f7937f",
+      "fn": "0x9139372",
+      "fn_rva": "0x8f79372"
+    }
+  ],
+  "param_xrefs": [
+    {
+      "site": "0xbc8b35",
+      "site_rva": "0xa08b35",
+      "fn": "0xbc8b00",
+      "fn_rva": "0xa08b00"
+    },
+    {
+      "site": "0xbc8bc8",
+      "site_rva": "0xa08bc8",
+      "fn": "0xbc8b83",
+      "fn_rva": "0xa08b83"
+    },
+    {
+      "site": "0xbc8c65",
+      "site_rva": "0xa08c65",
+      "fn": "0xbc8c56",
+      "fn_rva": "0xa08c56"
+    }
+  ],
+  "impl_hits": [
+    {
+      "vt": "FileServiceWinMember",
+      "slot": 2,
+      "fn": "0x2659660",
+      "rva": "0x2499660",
+      "imm": "0xbc8c56",
+      "strings": []
+    },
+    {
+      "vt": "FileServiceWinMember",
+      "slot": 4,
+      "fn": "0x26596d0",
+      "rva": "0x24996d0",
+      "imm": "0xbc8c56",
+      "strings": []
+    }
+  ],
+  "objs": {
+    "FileServiceWinMember": {
+      "addr": "0x2b5983c0",
+      "dwords": [
+        "0xad29988",
+        "0x0",
+        "0x102",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0xffffffff",
+        "0x0",
+        "0x24d5ae38",
+        "0x0",
+        "0x0",
+        "0x0",
+        "0x25b4adcc",
+        "0x25b4adc0",
+        "0x26406624",
+        "0x26406618",
+        "0x0",
+        "0x0"
+      ]
+    },
+    "FileServiceImpl_0": {
+      "addr": "0x24b94bc4",
+      "dwords": [
+        "0xb64fab4",
+        "0x25b4adcc",
+        "0x25b4adc0",
+        "0xb64fac0",
+        "0x24b94bc4",
+        "0x24b94bb8",
+        "0x32",
+        "0xb099bdfd",
+        "0x88003e2f",
+        "0x620021",
+        "0x5f0067",
+        "0x680077",
+        "0x740069",
+        "0x5f0065",
+        "0x650064",
+        "0x6b0073",
+        "0x6f0074",
+        "0x5f0070",
+        "0x32",
+        "0xb063bd03",
+        "0x88003f70",
+        "0x77281400",
+        "0x670061",
+        "0x1"
+      ]
+    },
+    "FileServiceImpl_1": {
+      "addr": "0x24b94bd0",
+      "dwords": [
+        "0xb64fac0",
+        "0x24b94bc4",
+        "0x24b94bb8",
+        "0x32",
+        "0xb099bdfd",
+        "0x88003e2f",
+        "0x620021",
+        "0x5f0067",
+        "0x680077",
+        "0x740069",
+        "0x5f0065",
+        "0x650064",
+        "0x6b0073",
+        "0x6f0074",
+        "0x5f0070",
+        "0x32",
+        "0xb063bd03",
+        "0x88003f70",
+        "0x77281400",
+        "0x670061",
+        "0x1",
+        "0x774c1304",
+        "0x136",
+        "0x0"
+      ]
+    }
+  },
+  "win_slots": [
+    {
+      "i": 0,
+      "fn": "0x26598a0",
+      "rva": "0x24998a0",
+      "disasm": {
+        "insns": [
+          "nop ",
+          "push ebp",
+          "mov ebp, esp",
+          "push ebx",
+          "mov ebx, ecx",
+          "mov eax, dword ptr [ebx + 0x70]",
+          "push esi",
+          "lea esi, [ebx + 0x70]",
+          "push edi",
+          "push dword ptr [eax + 4]",
+          "mov ecx, esi",
+          "push esi",
+          "call 0x2656b40",
+          "push 0x30",
+          "push dword ptr [esi]",
+          "call 0x9d654d9",
+          "mov eax, dword ptr [ebx + 0x68]",
+          "lea esi, [ebx + 0x68]",
+          "add esp, 8",
+          "mov ecx, esi",
+          "push dword ptr [eax + 4]",
+          "push esi",
+          "call 0x2656b40",
+          "push 0x30"
+        ],
+        "strings": [
+          "f�U��Q�E\bSV�u\f�ىE��~\r�u3Wf\u000f\u001fD���v\b��P��������6�O\u0010��\u000e��j0W�Z�p\u0007�E���\b�~\r�t�_^[��]�\b�������������f�U��Q�E\bSV�u\f�ىE��~\r�u3Wf\u000f\u001fD���v\b��P������",
+          "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b",
+          "f�U��Q�E\bSV�u\f�ىE��~\r�u3Wf\u000f\u001fD���v\b��P��������6�O\u0010��\u000e��j0W�Z�p\u0007�E���\b�~\r�t�_^[��]�\b�������������f�U��Q�E\bSV�u\f�ىE��~\r�u3Wf\u000f\u001fD���v\b��P������",
+          "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b",
+          "f�U��Q�E\bSV�u\f�ىE��~\r�u3Wf\u000f\u001fD���v\b��P��������6�O\u0010��\u000e��j0W���p\u0007�E���\b�~\r�t�_^[��]�\b�������������f�U��j�h���\td�����P��\fV����\f3�P�E�d�����j\u0014�u",
+          "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b",
+          "�{L��t3�\u000f�G\u0004u,�\u0007�0���\u0015|\f�\n���փ���\u000f�O\bIu\u0011�\u0007�p\u0004���\u0015|\f�\n���֋���d���E\b\u0001t\u000bjxS�H�p\u0007��\b_^��[]�\u0004��������������������f�U��V���N\u0004�X����E\b\u0001�\u0006@N�\nt\u000bj\b",
+          "����{L��t3�\u000f�G\u0004u,�\u0007�0���\u0015|\f�\n���փ���\u000f�O\bIu\u0011�\u0007�p\u0004���\u0015|\f�\n���֋���d���E\b\u0001t\u000bjxS�H�p\u0007��\b_^��[]�\u0004��������������������f�U��V���N\u0004�X����E\b\u0001�\u0006@N�\nt"
+        ],
+        "imms": [
+          "0x2656b40",
+          "0x9d654d9",
+          "0x2656b40",
+          "0x9d654d9",
+          "0x2656ba0",
+          "0x9d654d9",
+          "0x2659942",
+          "0x265993f"
+        ]
+      }
+    },
+    {
+      "i": 1,
+      "fn": "0xbb24758",
+      "rva": "0xb964758",
+      "disasm": {
+        "insns": [
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "inc eax"
+        ],
+        "strings": [],
+        "imms": []
+      }
+    },
+    {
+      "i": 2,
+      "fn": "0x2659660",
+      "rva": "0x2499660",
+      "disasm": {
+        "insns": [
+          "nop ",
+          "push ebp",
+          "mov ebp, esp",
+          "push ebx",
+          "push edi",
+          "mov edi, ecx",
+          "mov dword ptr [edi], 0xad29990",
+          "mov ebx, dword ptr [edi + 0x4c]",
+          "test ebx, ebx",
+          "je 0x2659693",
+          "or eax, 0xffffffff",
+          "lock xadd dword ptr [ebx + 8], eax",
+          "jne 0x2659693",
+          "mov eax, dword ptr [ebx]",
+          "push esi",
+          "mov esi, dword ptr [eax + 4]",
+          "mov ecx, esi",
+          "call dword ptr [0xa9c0c7c]",
+          "mov ecx, ebx",
+          "call esi",
+          "pop esi",
+          "lea ecx, [edi + 0x44]",
+          "call 0x3a4f18",
+          "lea ecx, [edi + 0x18]"
+        ],
+        "strings": [
+          "`�e\u0002�G�\u000bЖe\u0002����C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\bridge\\file_service_win.cpp���Copy file failed. ���G�\u000b��e\u00020H�\u000b��e\u0002",
+          "V��W�@�T\u000fW�N\u0010�\u0006X[�\u000b�\u000f4��W�N\u0014�\u00064��W�N\u0018��3���N\u0004�;4��_�\u0006T��\n^���������������̋A\bS3ۨ\u0007t<�\u0001t\u0010�Q\u0010�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0002t\u0010�Q\u0014�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0004t\u0010�Q\u0018�Z\u0010�z\u0014\u000fv\u0002",
+          "��_[]�\u0004���������������������f�U��SW���\u0007���\n�_T��t\u001d����\u000f�C\bu\u0013�\u0003V�p\u0004���\u0015|\f�\n����^�OH�\r����OD�\u0005����O\u0018�;�V��E\b\u0001t\u000bjXW谽p\u0007��\b��_[]�\u0004�������������",
+          "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b"
+        ],
+        "imms": [
+          "0xad29990",
+          "0x2659693",
+          "0x2659693",
+          "0x3a4f18",
+          "0xbc8c56",
+          "0x26596b4",
+          "0x9d654d9"
+        ]
+      }
+    },
+    {
+      "i": 3,
+      "fn": "0xbb247a0",
+      "rva": "0xb9647a0",
+      "disasm": {
+        "insns": [
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "call 0xbfbf283c",
+          "inc edi",
+          "mov dl, 0xb",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "add dword ptr [eax], eax",
+          "add byte ptr [eax], al",
+          "les eax, ptr [edi - 0x4e]",
+          "or ecx, esp",
+          "inc edi",
+          "mov dl, 0xb",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al",
+          "call 0xbbf285c",
+          "add byte ptr [eax], al",
+          "add byte ptr [eax], al"
+        ],
+        "strings": [],
+        "imms": [
+          "0xbbf285c"
+        ]
+      }
+    },
+    {
+      "i": 4,
+      "fn": "0x26596d0",
+      "rva": "0x24996d0",
+      "disasm": {
+        "insns": [
+          "nop ",
+          "push ebp",
+          "mov ebp, esp",
+          "push ebx",
+          "push edi",
+          "mov edi, ecx",
+          "mov dword ptr [edi], 0xad29998",
+          "mov ebx, dword ptr [edi + 0x54]",
+          "test ebx, ebx",
+          "je 0x2659703",
+          "or eax, 0xffffffff",
+          "lock xadd dword ptr [ebx + 8], eax",
+          "jne 0x2659703",
+          "mov eax, dword ptr [ebx]",
+          "push esi",
+          "mov esi, dword ptr [eax + 4]",
+          "mov ecx, esi",
+          "call dword ptr [0xa9c0c7c]",
+          "mov ecx, ebx",
+          "call esi",
+          "pop esi",
+          "lea ecx, [edi + 0x48]",
+          "call 0x3a4f18",
+          "lea ecx, [edi + 0x44]"
+        ],
+        "strings": [
+          "Жe\u0002����C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\bridge\\file_service_win.cpp���Copy file failed. ���G�\u000b��e\u00020H�\u000b��e\u0002[FileSer",
+          "�OH�\r����OD�\u0005����O\u0018�;�V��E\b\u0001t\u000bjXW谽p\u0007��\b��_[]�\u0004�������������f�U���E\b\u0001V���\u0006\u0010��\nt\u000eh����V�z�p\u0007��\b��^]�\u0004��������f�U���E\b\u0001V���\u0006$��\nt\u000bj\u0014V�M�p\u0007��\b",
+          "�OH�\r����OD�\u0005����O\u0018�;�V��E\b\u0001t\u000bjXW谽p\u0007��\b��_[]�\u0004�������������f�U���E\b\u0001V���\u0006\u0010��\nt\u000eh����V�z�p\u0007��\b��^]�\u0004��������f�U���E\b\u0001V���\u0006$��\nt\u000bj\u0014V�M�p\u0007��\b",
+          "V��W�@�T\u000fW�N\u0010�\u0006X[�\u000b�\u000f4��W�N\u0014�\u00064��W�N\u0018��3���N\u0004�;4��_�\u0006T��\n^���������������̋A\bS3ۨ\u0007t<�\u0001t\u0010�Q\u0010�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0002t\u0010�Q\u0014�Z\u0010�z\u0014\u000fv\u0002�\u0012�\u001a�\u0004t\u0010�Q\u0018�Z\u0010�z\u0014\u000fv\u0002",
+          "U���u\b�T���Y]����������;\r���\fu\u0001���\u000e��������������������U���E\b\u0001V���\u0006��t\u000bt\nj\fV�����YY��^]�\u0004�������g�\u0001������j\fhX-�\f��\u001e���E���]\f�Ë}\u0010\u000f�ǋu\b\u0003��u\b"
+        ],
+        "imms": [
+          "0xad29998",
+          "0x2659703",
+          "0x2659703",
+          "0x3a4f18",
+          "0x3a4f18",
+          "0xbc8c56",
+          "0x265972c",
+          "0x9d654d9"
+        ]
+      }
+    },
+    {
+      "i": 5,
+      "fn": "0x0",
+      "rva": null,
+      "disasm": {
+        "insns": [],
+        "strings": [],
+        "imms": []
+      }
+    },
+    {
+      "i": 6,
+      "fn": "0x645c3a43",
+      "rva": null,
+      "disasm": {
+        "insns": [],
+        "strings": [],
+        "imms": []
+      }
+    },
+    {
+      "i": 7,
+      "fn": "0x706f7665",
+      "rva": null,
+      "disasm": {
+        "insns": [],
+        "strings": [],
+        "imms": []
+      }
+    }
+  ]
+}

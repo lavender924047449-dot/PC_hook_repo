@@ -1,0 +1,6714 @@
+{
+  "meta": {
+    "exe": "D:\\Cursor_env\\企业微信\\WXWork\\WXWork.exe",
+    "image_base": 4194304,
+    "pool_base_rva": 185139628,
+    "pool_width": 4096,
+    "ts": "20260914_121930",
+    "n_prologues": 457849,
+    "n_byte_hits": 376,
+    "n_verified": 290,
+    "n_unique_fns": 116
+  },
+  "per_fn": [
+    {
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "n_hits": 23,
+      "n_unique_offs": 21,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 2932,
+      "pool_offsets_sample": [
+        2492,
+        2524,
+        2552,
+        2560,
+        2624,
+        2640,
+        2656,
+        2668
+      ],
+      "sample_insns": [
+        "push 0xb090c88",
+        "push 0xb090ba4",
+        "push 0xb090c40",
+        "push 0xb090d20",
+        "push 0xb090c74"
+      ]
+    },
+    {
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "n_hits": 17,
+      "n_unique_offs": 17,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 204,
+      "off_max": 4024,
+      "pool_offsets_sample": [
+        204,
+        512,
+        944,
+        1156,
+        1608,
+        2048,
+        2224,
+        2352
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb09055c",
+        "mov dword ptr [ebx], 0xb0909ac",
+        "mov dword ptr [ebx], 0xb090b7c",
+        "mov dword ptr [ebx], 0xb0903ac",
+        "mov dword ptr [ebx], 0xb090adc"
+      ]
+    },
+    {
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "n_hits": 17,
+      "n_unique_offs": 17,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2428,
+      "off_max": 2932,
+      "pool_offsets_sample": [
+        2428,
+        2460,
+        2492,
+        2524,
+        2656,
+        2668,
+        2680,
+        2708
+      ],
+      "sample_insns": [
+        "push 0xb090c54",
+        "push 0xb090ca0",
+        "push 0xb090c40",
+        "push 0xb090d20",
+        "push 0xb090cac"
+      ]
+    },
+    {
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "n_hits": 16,
+      "n_unique_offs": 15,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 3144,
+      "pool_offsets_sample": [
+        2492,
+        2560,
+        2624,
+        2656,
+        2668,
+        2680,
+        2692,
+        2728
+      ],
+      "sample_insns": [
+        "push 0xb090bac",
+        "push 0xb090c54",
+        "push 0xb090d20",
+        "push 0xb090cac",
+        "push 0xb090c30"
+      ]
+    },
+    {
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "n_hits": 15,
+      "n_unique_offs": 15,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 3144,
+      "pool_offsets_sample": [
+        2492,
+        2656,
+        2668,
+        2708,
+        2728,
+        2748,
+        2760,
+        2780
+      ],
+      "sample_insns": [
+        "push 0xb090c54",
+        "push 0xb090c88",
+        "push 0xb090c40",
+        "push 0xb090ca0",
+        "push 0xb090d20"
+      ]
+    },
+    {
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "n_hits": 9,
+      "n_unique_offs": 8,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1588,
+      "off_max": 1884,
+      "pool_offsets_sample": [
+        1588,
+        1652,
+        1688,
+        1700,
+        1716,
+        1732,
+        1812,
+        1884
+      ],
+      "sample_insns": [
+        "push 0xb090860",
+        "push 0xb090850",
+        "push 0xb090820",
+        "push 0xb090870",
+        "push 0xb090844"
+      ]
+    },
+    {
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "n_hits": 6,
+      "n_unique_offs": 6,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2624,
+      "off_max": 2796,
+      "pool_offsets_sample": [
+        2624,
+        2748,
+        2760,
+        2768,
+        2780,
+        2796
+      ],
+      "sample_insns": [
+        "push 0xb090c88",
+        "push 0xb090c74",
+        "push 0xb090c7c",
+        "push 0xb090c98",
+        "push 0xb090bec"
+      ]
+    },
+    {
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "n_hits": 5,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1608,
+      "off_max": 1640,
+      "pool_offsets_sample": [
+        1608,
+        1612,
+        1624,
+        1640
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0xc0], 0xb0907f4",
+        "push 0xb090814",
+        "mov dword ptr [esi + 8], 0xb0907f4",
+        "push 0xb090804",
+        "push 0xb0907f8"
+      ]
+    },
+    {
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "n_hits": 5,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1140,
+      "off_max": 1400,
+      "pool_offsets_sample": [
+        1140,
+        1304,
+        1360,
+        1400
+      ],
+      "sample_insns": [
+        "push 0xb090724",
+        "push 0xb0906fc",
+        "push 0xb0906c4",
+        "push 0xb090620"
+      ]
+    },
+    {
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "n_hits": 5,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2036,
+      "off_max": 2120,
+      "pool_offsets_sample": [
+        2036,
+        2052,
+        2068,
+        2120
+      ],
+      "sample_insns": [
+        "push 0xb0909a0",
+        "push 0xb0909c0",
+        "push 0xb0909b0",
+        "push 0xb0909f4"
+      ]
+    },
+    {
+      "fn_va": 62760834,
+      "fn_rva": 58566530,
+      "n_hits": 4,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 576,
+      "off_max": 692,
+      "pool_offsets_sample": [
+        576,
+        608,
+        632,
+        692
+      ],
+      "sample_insns": [
+        "push 0xb090460",
+        "push 0xb0903ec",
+        "push 0xb09040c",
+        "push 0xb090424"
+      ]
+    },
+    {
+      "fn_va": 62806882,
+      "fn_rva": 58612578,
+      "n_hits": 4,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 764,
+      "off_max": 880,
+      "pool_offsets_sample": [
+        764,
+        796,
+        820,
+        880
+      ],
+      "sample_insns": [
+        "push 0xb0904e0",
+        "push 0xb0904a8",
+        "push 0xb09051c",
+        "push 0xb0904c8"
+      ]
+    },
+    {
+      "fn_va": 62858274,
+      "fn_rva": 58663970,
+      "n_hits": 4,
+      "n_unique_offs": 4,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 208,
+      "off_max": 348,
+      "pool_offsets_sample": [
+        208,
+        248,
+        276,
+        348
+      ],
+      "sample_insns": [
+        "push 0xb090308",
+        "push 0xb09027c",
+        "push 0xb0902a4",
+        "push 0xb0902c0"
+      ]
+    },
+    {
+      "fn_va": 62665298,
+      "fn_rva": 58470994,
+      "n_hits": 4,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1156,
+      "off_max": 1244,
+      "pool_offsets_sample": [
+        1156,
+        1240,
+        1244
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x130], 0xb090684",
+        "push 0xb090688",
+        "mov dword ptr [esi + 8], 0xb090684",
+        "mov dword ptr [esi + 8], 0xb090630"
+      ]
+    },
+    {
+      "fn_va": 61980130,
+      "fn_rva": 57785826,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1508,
+      "off_max": 1588,
+      "pool_offsets_sample": [
+        1508,
+        1548,
+        1588
+      ],
+      "sample_insns": [
+        "push 0xb090790",
+        "push 0xb0907b8",
+        "push 0xb0907e0"
+      ]
+    },
+    {
+      "fn_va": 61990978,
+      "fn_rva": 57796674,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2428,
+      "off_max": 2492,
+      "pool_offsets_sample": [
+        2428,
+        2460,
+        2492
+      ],
+      "sample_insns": [
+        "push 0xb090b68",
+        "push 0xb090b48",
+        "push 0xb090b28"
+      ]
+    },
+    {
+      "fn_va": 61991762,
+      "fn_rva": 57797458,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 3100,
+      "pool_offsets_sample": [
+        2492,
+        3064,
+        3100
+      ],
+      "sample_insns": [
+        "push 0xb090b68",
+        "push 0xb090dc8",
+        "push 0xb090da4"
+      ]
+    },
+    {
+      "fn_va": 61993074,
+      "fn_rva": 57798770,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1116,
+      "off_max": 1140,
+      "pool_offsets_sample": [
+        1116,
+        1128,
+        1140
+      ],
+      "sample_insns": [
+        "push 0xb090614",
+        "push 0xb090620",
+        "push 0xb090608"
+      ]
+    },
+    {
+      "fn_va": 61997330,
+      "fn_rva": 57803026,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 3252,
+      "pool_offsets_sample": [
+        2492,
+        3220,
+        3252
+      ],
+      "sample_insns": [
+        "push 0xb090b68",
+        "push 0xb090e40",
+        "push 0xb090e60"
+      ]
+    },
+    {
+      "fn_va": 62002290,
+      "fn_rva": 57807986,
+      "n_hits": 3,
+      "n_unique_offs": 3,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2000,
+      "off_max": 2036,
+      "pool_offsets_sample": [
+        2000,
+        2020,
+        2036
+      ],
+      "sample_insns": [
+        "push 0xb0909a0",
+        "push 0xb09097c",
+        "push 0xb090990"
+      ]
+    },
+    {
+      "fn_va": 62561282,
+      "fn_rva": 58366978,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 948,
+      "off_max": 1108,
+      "pool_offsets_sample": [
+        948,
+        1108
+      ],
+      "sample_insns": [
+        "push 0xb090560",
+        "push 0xb090600"
+      ]
+    },
+    {
+      "fn_va": 62640626,
+      "fn_rva": 58446322,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2512,
+      "off_max": 2516,
+      "pool_offsets_sample": [
+        2512,
+        2516
+      ],
+      "sample_insns": [
+        "push 0xb090b80",
+        "mov dword ptr [ebp - 0xa4], 0xb090b7c",
+        "mov dword ptr [esi + 8], 0xb090b7c"
+      ]
+    },
+    {
+      "fn_va": 62650770,
+      "fn_rva": 58456466,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2552,
+      "off_max": 3140,
+      "pool_offsets_sample": [
+        2552,
+        3140
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb090df0",
+        "push 0xb090ba4",
+        "mov dword ptr [ebp - 0xa4], 0xb090df0"
+      ]
+    },
+    {
+      "fn_va": 62691042,
+      "fn_rva": 58496738,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 3292,
+      "pool_offsets_sample": [
+        2492,
+        3292
+      ],
+      "sample_insns": [
+        "push 0xb090e88",
+        "push 0xb090b68"
+      ]
+    },
+    {
+      "fn_va": 62757682,
+      "fn_rva": 58563378,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 512,
+      "off_max": 516,
+      "pool_offsets_sample": [
+        512,
+        516
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x140], 0xb0903ac",
+        "mov dword ptr [esi + 8], 0xb0903ac",
+        "push 0xb0903b0"
+      ]
+    },
+    {
+      "fn_va": 62770226,
+      "fn_rva": 58575922,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3540,
+      "off_max": 3544,
+      "pool_offsets_sample": [
+        3540,
+        3544
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb090f80",
+        "mov dword ptr [ebp - 0xa4], 0xb090f80",
+        "push 0xb090f84"
+      ]
+    },
+    {
+      "fn_va": 62782578,
+      "fn_rva": 58588274,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1588,
+      "off_max": 2224,
+      "pool_offsets_sample": [
+        1588,
+        2224
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0xc0], 0xb090a5c",
+        "mov dword ptr [esi + 8], 0xb090a5c",
+        "push 0xb0907e0"
+      ]
+    },
+    {
+      "fn_va": 62865138,
+      "fn_rva": 58670834,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2760,
+      "off_max": 3792,
+      "pool_offsets_sample": [
+        2760,
+        3792
+      ],
+      "sample_insns": [
+        "push 0xb090c74",
+        "mov dword ptr [esi + 8], 0xb09107c",
+        "mov dword ptr [ebp - 0xa4], 0xb09107c"
+      ]
+    },
+    {
+      "fn_va": 62868530,
+      "fn_rva": 58674226,
+      "n_hits": 3,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2768,
+      "off_max": 3672,
+      "pool_offsets_sample": [
+        2768,
+        3672
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0xa4], 0xb091004",
+        "mov dword ptr [esi + 8], 0xb091004",
+        "push 0xb090c7c"
+      ]
+    },
+    {
+      "fn_va": 61917378,
+      "fn_rva": 57723074,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 968,
+      "off_max": 1240,
+      "pool_offsets_sample": [
+        968,
+        1240
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090574",
+        "mov dword ptr [ebx], 0xb090684"
+      ]
+    },
+    {
+      "fn_va": 61917858,
+      "fn_rva": 57723554,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 988,
+      "off_max": 1060,
+      "pool_offsets_sample": [
+        988,
+        1060
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090588",
+        "mov dword ptr [ebx], 0xb0905d0"
+      ]
+    },
+    {
+      "fn_va": 61992450,
+      "fn_rva": 57798146,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3972,
+      "off_max": 3996,
+      "pool_offsets_sample": [
+        3972,
+        3996
+      ],
+      "sample_insns": [
+        "push 0xb091130",
+        "push 0xb091148"
+      ]
+    },
+    {
+      "fn_va": 62009346,
+      "fn_rva": 57815042,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 456,
+      "off_max": 484,
+      "pool_offsets_sample": [
+        456,
+        484
+      ],
+      "sample_insns": [
+        "push 0xb090390",
+        "push 0xb090374"
+      ]
+    },
+    {
+      "fn_va": 62010834,
+      "fn_rva": 57816530,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2292,
+      "off_max": 2320,
+      "pool_offsets_sample": [
+        2292,
+        2320
+      ],
+      "sample_insns": [
+        "push 0xb090aa0",
+        "push 0xb090abc"
+      ]
+    },
+    {
+      "fn_va": 62011890,
+      "fn_rva": 57817586,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3488,
+      "off_max": 3512,
+      "pool_offsets_sample": [
+        3488,
+        3512
+      ],
+      "sample_insns": [
+        "push 0xb090f4c",
+        "push 0xb090f64"
+      ]
+    },
+    {
+      "fn_va": 62012418,
+      "fn_rva": 57818114,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3360,
+      "off_max": 3388,
+      "pool_offsets_sample": [
+        3360,
+        3388
+      ],
+      "sample_insns": [
+        "push 0xb090ee8",
+        "push 0xb090ecc"
+      ]
+    },
+    {
+      "fn_va": 62021330,
+      "fn_rva": 57827026,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3856,
+      "off_max": 3880,
+      "pool_offsets_sample": [
+        3856,
+        3880
+      ],
+      "sample_insns": [
+        "push 0xb0910bc",
+        "push 0xb0910d4"
+      ]
+    },
+    {
+      "fn_va": 62023522,
+      "fn_rva": 57829218,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 136,
+      "off_max": 168,
+      "pool_offsets_sample": [
+        136,
+        168
+      ],
+      "sample_insns": [
+        "push 0xb090234",
+        "push 0xb090254"
+      ]
+    },
+    {
+      "fn_va": 62025602,
+      "fn_rva": 57831298,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3740,
+      "off_max": 3764,
+      "pool_offsets_sample": [
+        3740,
+        3764
+      ],
+      "sample_insns": [
+        "push 0xb091048",
+        "push 0xb091060"
+      ]
+    },
+    {
+      "fn_va": 62026130,
+      "fn_rva": 57831826,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3612,
+      "off_max": 3640,
+      "pool_offsets_sample": [
+        3612,
+        3640
+      ],
+      "sample_insns": [
+        "push 0xb090fc8",
+        "push 0xb090fe4"
+      ]
+    },
+    {
+      "fn_va": 62557986,
+      "fn_rva": 58363682,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 944,
+      "off_max": 1060,
+      "pool_offsets_sample": [
+        944,
+        1060
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb0905d0",
+        "mov dword ptr [ebp - 0x80], 0xb09055c"
+      ]
+    },
+    {
+      "fn_va": 86142066,
+      "fn_rva": 81947762,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2680,
+      "off_max": 2692,
+      "pool_offsets_sample": [
+        2680,
+        2692
+      ],
+      "sample_insns": [
+        "push 0xb090c24",
+        "push 0xb090c30"
+      ]
+    },
+    {
+      "fn_va": 96874130,
+      "fn_rva": 92679826,
+      "n_hits": 2,
+      "n_unique_offs": 2,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1116,
+      "off_max": 1128,
+      "pool_offsets_sample": [
+        1116,
+        1128
+      ],
+      "sample_insns": [
+        "push 0xb090614",
+        "push 0xb090608"
+      ]
+    },
+    {
+      "fn_va": 62662498,
+      "fn_rva": 58468194,
+      "n_hits": 3,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 4024,
+      "off_max": 4024,
+      "pool_offsets_sample": [
+        4024
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x7c], 0xb091164",
+        "mov dword ptr [esi + 8], 0xb091164"
+      ]
+    },
+    {
+      "fn_va": 62689954,
+      "fn_rva": 58495650,
+      "n_hits": 3,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3288,
+      "off_max": 3288,
+      "pool_offsets_sample": [
+        3288
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x7c], 0xb090e84",
+        "mov dword ptr [esi + 8], 0xb090e84"
+      ]
+    },
+    {
+      "fn_va": 62764066,
+      "fn_rva": 58569762,
+      "n_hits": 3,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2352,
+      "off_max": 2352,
+      "pool_offsets_sample": [
+        2352
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x7c], 0xb090adc",
+        "mov dword ptr [esi + 8], 0xb090adc"
+      ]
+    },
+    {
+      "fn_va": 62724882,
+      "fn_rva": 58530578,
+      "n_hits": 2,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2048,
+      "off_max": 2048,
+      "pool_offsets_sample": [
+        2048
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb0909ac",
+        "mov dword ptr [ebp - 0xa4], 0xb0909ac"
+      ]
+    },
+    {
+      "fn_va": 62776690,
+      "fn_rva": 58582386,
+      "n_hits": 2,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3420,
+      "off_max": 3420,
+      "pool_offsets_sample": [
+        3420
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0xa4], 0xb090f08",
+        "mov dword ptr [esi + 8], 0xb090f08"
+      ]
+    },
+    {
+      "fn_va": 62839858,
+      "fn_rva": 58645554,
+      "n_hits": 2,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3908,
+      "off_max": 3908,
+      "pool_offsets_sample": [
+        3908
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0xbc], 0xb0910f0",
+        "mov dword ptr [esi + 8], 0xb0910f0"
+      ]
+    },
+    {
+      "fn_va": 62856210,
+      "fn_rva": 58661906,
+      "n_hits": 2,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 204,
+      "off_max": 204,
+      "pool_offsets_sample": [
+        204
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb090278",
+        "mov dword ptr [ebp - 0xa4], 0xb090278"
+      ]
+    },
+    {
+      "fn_va": 61773106,
+      "fn_rva": 57578802,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 948,
+      "off_max": 948,
+      "pool_offsets_sample": [
+        948
+      ],
+      "sample_insns": [
+        "push 0xb090560"
+      ]
+    },
+    {
+      "fn_va": 61773602,
+      "fn_rva": 57579298,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 972,
+      "off_max": 972,
+      "pool_offsets_sample": [
+        972
+      ],
+      "sample_insns": [
+        "push 0xb090578"
+      ]
+    },
+    {
+      "fn_va": 61853538,
+      "fn_rva": 57659234,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 944,
+      "off_max": 944,
+      "pool_offsets_sample": [
+        944
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x38], 0xb09055c"
+      ]
+    },
+    {
+      "fn_va": 61855106,
+      "fn_rva": 57660802,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 968,
+      "off_max": 968,
+      "pool_offsets_sample": [
+        968
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x38], 0xb090574"
+      ]
+    },
+    {
+      "fn_va": 61855474,
+      "fn_rva": 57661170,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 988,
+      "off_max": 988,
+      "pool_offsets_sample": [
+        988
+      ],
+      "sample_insns": [
+        "mov dword ptr [ebp - 0x38], 0xb090588"
+      ]
+    },
+    {
+      "fn_va": 61869282,
+      "fn_rva": 57674978,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1608,
+      "off_max": 1608,
+      "pool_offsets_sample": [
+        1608
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb0907f4"
+      ]
+    },
+    {
+      "fn_va": 61870866,
+      "fn_rva": 57676562,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2512,
+      "off_max": 2512,
+      "pool_offsets_sample": [
+        2512
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090b7c"
+      ]
+    },
+    {
+      "fn_va": 61871042,
+      "fn_rva": 57676738,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3140,
+      "off_max": 3140,
+      "pool_offsets_sample": [
+        3140
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090df0"
+      ]
+    },
+    {
+      "fn_va": 61871218,
+      "fn_rva": 57676914,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 4024,
+      "off_max": 4024,
+      "pool_offsets_sample": [
+        4024
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb091164"
+      ]
+    },
+    {
+      "fn_va": 61871394,
+      "fn_rva": 57677090,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1156,
+      "off_max": 1156,
+      "pool_offsets_sample": [
+        1156
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090630"
+      ]
+    },
+    {
+      "fn_va": 61871938,
+      "fn_rva": 57677634,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3288,
+      "off_max": 3288,
+      "pool_offsets_sample": [
+        3288
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090e84"
+      ]
+    },
+    {
+      "fn_va": 61873170,
+      "fn_rva": 57678866,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2048,
+      "off_max": 2048,
+      "pool_offsets_sample": [
+        2048
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb0909ac"
+      ]
+    },
+    {
+      "fn_va": 61874402,
+      "fn_rva": 57680098,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 512,
+      "off_max": 512,
+      "pool_offsets_sample": [
+        512
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb0903ac"
+      ]
+    },
+    {
+      "fn_va": 61874578,
+      "fn_rva": 57680274,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2352,
+      "off_max": 2352,
+      "pool_offsets_sample": [
+        2352
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090adc"
+      ]
+    },
+    {
+      "fn_va": 61874930,
+      "fn_rva": 57680626,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3540,
+      "off_max": 3540,
+      "pool_offsets_sample": [
+        3540
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090f80"
+      ]
+    },
+    {
+      "fn_va": 61875106,
+      "fn_rva": 57680802,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3420,
+      "off_max": 3420,
+      "pool_offsets_sample": [
+        3420
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090f08"
+      ]
+    },
+    {
+      "fn_va": 61875458,
+      "fn_rva": 57681154,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2224,
+      "off_max": 2224,
+      "pool_offsets_sample": [
+        2224
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090a5c"
+      ]
+    },
+    {
+      "fn_va": 61877570,
+      "fn_rva": 57683266,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3908,
+      "off_max": 3908,
+      "pool_offsets_sample": [
+        3908
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb0910f0"
+      ]
+    },
+    {
+      "fn_va": 61878098,
+      "fn_rva": 57683794,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 204,
+      "off_max": 204,
+      "pool_offsets_sample": [
+        204
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090278"
+      ]
+    },
+    {
+      "fn_va": 61878450,
+      "fn_rva": 57684146,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3792,
+      "off_max": 3792,
+      "pool_offsets_sample": [
+        3792
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb09107c"
+      ]
+    },
+    {
+      "fn_va": 61878626,
+      "fn_rva": 57684322,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3672,
+      "off_max": 3672,
+      "pool_offsets_sample": [
+        3672
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb091004"
+      ]
+    },
+    {
+      "fn_va": 61882514,
+      "fn_rva": 57688210,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1240,
+      "off_max": 1240,
+      "pool_offsets_sample": [
+        1240
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb090684"
+      ]
+    },
+    {
+      "fn_va": 62044306,
+      "fn_rva": 57850002,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1164,
+      "off_max": 1164,
+      "pool_offsets_sample": [
+        1164
+      ],
+      "sample_insns": [
+        "push 0xb090638"
+      ]
+    },
+    {
+      "fn_va": 62046066,
+      "fn_rva": 57851762,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 992,
+      "off_max": 992,
+      "pool_offsets_sample": [
+        992
+      ],
+      "sample_insns": [
+        "push 0xb09058c"
+      ]
+    },
+    {
+      "fn_va": 62057778,
+      "fn_rva": 57863474,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1060,
+      "off_max": 1060,
+      "pool_offsets_sample": [
+        1060
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi], 0xb0905d0"
+      ]
+    },
+    {
+      "fn_va": 62569010,
+      "fn_rva": 58374706,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1448,
+      "off_max": 1448,
+      "pool_offsets_sample": [
+        1448
+      ],
+      "sample_insns": [
+        "push 0xb090754"
+      ]
+    },
+    {
+      "fn_va": 62615698,
+      "fn_rva": 58421394,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 24,
+      "off_max": 24,
+      "pool_offsets_sample": [
+        24
+      ],
+      "sample_insns": [
+        "push 0xb0901c4"
+      ]
+    },
+    {
+      "fn_va": 62640130,
+      "fn_rva": 58445826,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2380,
+      "off_max": 2380,
+      "pool_offsets_sample": [
+        2380
+      ],
+      "sample_insns": [
+        "push 0xb090af8"
+      ]
+    },
+    {
+      "fn_va": 62650274,
+      "fn_rva": 58455970,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3012,
+      "off_max": 3012,
+      "pool_offsets_sample": [
+        3012
+      ],
+      "sample_insns": [
+        "push 0xb090d70"
+      ]
+    },
+    {
+      "fn_va": 62662002,
+      "fn_rva": 58467698,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3932,
+      "off_max": 3932,
+      "pool_offsets_sample": [
+        3932
+      ],
+      "sample_insns": [
+        "push 0xb091108"
+      ]
+    },
+    {
+      "fn_va": 62663586,
+      "fn_rva": 58469282,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 4028,
+      "off_max": 4028,
+      "pool_offsets_sample": [
+        4028
+      ],
+      "sample_insns": [
+        "push 0xb091168"
+      ]
+    },
+    {
+      "fn_va": 62689458,
+      "fn_rva": 58495154,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3176,
+      "off_max": 3176,
+      "pool_offsets_sample": [
+        3176
+      ],
+      "sample_insns": [
+        "push 0xb090e14"
+      ]
+    },
+    {
+      "fn_va": 62706018,
+      "fn_rva": 58511714,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 4048,
+      "off_max": 4048,
+      "pool_offsets_sample": [
+        4048
+      ],
+      "sample_insns": [
+        "push 0xb09117c"
+      ]
+    },
+    {
+      "fn_va": 62757186,
+      "fn_rva": 58562882,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 412,
+      "off_max": 412,
+      "pool_offsets_sample": [
+        412
+      ],
+      "sample_insns": [
+        "push 0xb090348"
+      ]
+    },
+    {
+      "fn_va": 62765154,
+      "fn_rva": 58570850,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2356,
+      "off_max": 2356,
+      "pool_offsets_sample": [
+        2356
+      ],
+      "sample_insns": [
+        "push 0xb090ae0"
+      ]
+    },
+    {
+      "fn_va": 62769730,
+      "fn_rva": 58575426,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3448,
+      "off_max": 3448,
+      "pool_offsets_sample": [
+        3448
+      ],
+      "sample_insns": [
+        "push 0xb090f24"
+      ]
+    },
+    {
+      "fn_va": 62772130,
+      "fn_rva": 58577826,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3552,
+      "off_max": 3552,
+      "pool_offsets_sample": [
+        3552
+      ],
+      "sample_insns": [
+        "push 0xb090f8c"
+      ]
+    },
+    {
+      "fn_va": 62776194,
+      "fn_rva": 58581890,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3316,
+      "off_max": 3316,
+      "pool_offsets_sample": [
+        3316
+      ],
+      "sample_insns": [
+        "push 0xb090ea0"
+      ]
+    },
+    {
+      "fn_va": 62778594,
+      "fn_rva": 58584290,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3424,
+      "off_max": 3424,
+      "pool_offsets_sample": [
+        3424
+      ],
+      "sample_insns": [
+        "push 0xb090f0c"
+      ]
+    },
+    {
+      "fn_va": 62782082,
+      "fn_rva": 58587778,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2172,
+      "off_max": 2172,
+      "pool_offsets_sample": [
+        2172
+      ],
+      "sample_insns": [
+        "push 0xb090a28"
+      ]
+    },
+    {
+      "fn_va": 62784946,
+      "fn_rva": 58590642,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2228,
+      "off_max": 2228,
+      "pool_offsets_sample": [
+        2228
+      ],
+      "sample_insns": [
+        "push 0xb090a60"
+      ]
+    },
+    {
+      "fn_va": 62804818,
+      "fn_rva": 58610514,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 752,
+      "off_max": 752,
+      "pool_offsets_sample": [
+        752
+      ],
+      "sample_insns": [
+        "push 0xb09049c"
+      ]
+    },
+    {
+      "fn_va": 62839362,
+      "fn_rva": 58645058,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3816,
+      "off_max": 3816,
+      "pool_offsets_sample": [
+        3816
+      ],
+      "sample_insns": [
+        "push 0xb091094"
+      ]
+    },
+    {
+      "fn_va": 62841954,
+      "fn_rva": 58647650,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3912,
+      "off_max": 3912,
+      "pool_offsets_sample": [
+        3912
+      ],
+      "sample_insns": [
+        "push 0xb0910f4"
+      ]
+    },
+    {
+      "fn_va": 62867042,
+      "fn_rva": 58672738,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3796,
+      "off_max": 3796,
+      "pool_offsets_sample": [
+        3796
+      ],
+      "sample_insns": [
+        "push 0xb091080"
+      ]
+    },
+    {
+      "fn_va": 62868034,
+      "fn_rva": 58673730,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3572,
+      "off_max": 3572,
+      "pool_offsets_sample": [
+        3572
+      ],
+      "sample_insns": [
+        "push 0xb090fa0"
+      ]
+    },
+    {
+      "fn_va": 62870434,
+      "fn_rva": 58676130,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3676,
+      "off_max": 3676,
+      "pool_offsets_sample": [
+        3676
+      ],
+      "sample_insns": [
+        "push 0xb091008"
+      ]
+    },
+    {
+      "fn_va": 63042306,
+      "fn_rva": 58848002,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 944,
+      "off_max": 944,
+      "pool_offsets_sample": [
+        944
+      ],
+      "sample_insns": [
+        "mov dword ptr [eax + 4], 0xb09055c"
+      ]
+    },
+    {
+      "fn_va": 63051746,
+      "fn_rva": 58857442,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 988,
+      "off_max": 988,
+      "pool_offsets_sample": [
+        988
+      ],
+      "sample_insns": [
+        "mov dword ptr [eax + 4], 0xb090588"
+      ]
+    },
+    {
+      "fn_va": 63090018,
+      "fn_rva": 58895714,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1060,
+      "off_max": 1060,
+      "pool_offsets_sample": [
+        1060
+      ],
+      "sample_insns": [
+        "mov dword ptr [esi + 8], 0xb0905d0"
+      ]
+    },
+    {
+      "fn_va": 63098610,
+      "fn_rva": 58904306,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1060,
+      "off_max": 1060,
+      "pool_offsets_sample": [
+        1060
+      ],
+      "sample_insns": [
+        "mov dword ptr [edi + 8], 0xb0905d0"
+      ]
+    },
+    {
+      "fn_va": 68654850,
+      "fn_rva": 64460546,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2656,
+      "off_max": 2656,
+      "pool_offsets_sample": [
+        2656
+      ],
+      "sample_insns": [
+        "push 0xb090c0c"
+      ]
+    },
+    {
+      "fn_va": 68659026,
+      "fn_rva": 64464722,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2656,
+      "off_max": 2656,
+      "pool_offsets_sample": [
+        2656
+      ],
+      "sample_insns": [
+        "push 0xb090c0c"
+      ]
+    },
+    {
+      "fn_va": 81548402,
+      "fn_rva": 77354098,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2680,
+      "off_max": 2680,
+      "pool_offsets_sample": [
+        2680
+      ],
+      "sample_insns": [
+        "push 0xb090c24"
+      ]
+    },
+    {
+      "fn_va": 81644066,
+      "fn_rva": 77449762,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2516,
+      "off_max": 2516,
+      "pool_offsets_sample": [
+        2516
+      ],
+      "sample_insns": [
+        "push 0xb090b80"
+      ]
+    },
+    {
+      "fn_va": 81652738,
+      "fn_rva": 77458434,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2552,
+      "off_max": 2552,
+      "pool_offsets_sample": [
+        2552
+      ],
+      "sample_insns": [
+        "push 0xb090ba4"
+      ]
+    },
+    {
+      "fn_va": 81662274,
+      "fn_rva": 77467970,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 3544,
+      "off_max": 3544,
+      "pool_offsets_sample": [
+        3544
+      ],
+      "sample_insns": [
+        "push 0xb090f84"
+      ]
+    },
+    {
+      "fn_va": 81665506,
+      "fn_rva": 77471202,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 2492,
+      "pool_offsets_sample": [
+        2492
+      ],
+      "sample_insns": [
+        "push 0xb090b68"
+      ]
+    },
+    {
+      "fn_va": 81673202,
+      "fn_rva": 77478898,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2768,
+      "off_max": 2768,
+      "pool_offsets_sample": [
+        2768
+      ],
+      "sample_insns": [
+        "push 0xb090c7c"
+      ]
+    },
+    {
+      "fn_va": 81942066,
+      "fn_rva": 77747762,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2656,
+      "off_max": 2656,
+      "pool_offsets_sample": [
+        2656
+      ],
+      "sample_insns": [
+        "push 0xb090c0c"
+      ]
+    },
+    {
+      "fn_va": 82126946,
+      "fn_rva": 77932642,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2780,
+      "off_max": 2780,
+      "pool_offsets_sample": [
+        2780
+      ],
+      "sample_insns": [
+        "push 0xb090c88"
+      ]
+    },
+    {
+      "fn_va": 85844482,
+      "fn_rva": 81650178,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 1640,
+      "off_max": 1640,
+      "pool_offsets_sample": [
+        1640
+      ],
+      "sample_insns": [
+        "push 0xb090814"
+      ]
+    },
+    {
+      "fn_va": 86653618,
+      "fn_rva": 82459314,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2780,
+      "off_max": 2780,
+      "pool_offsets_sample": [
+        2780
+      ],
+      "sample_insns": [
+        "push 0xb090c88"
+      ]
+    },
+    {
+      "fn_va": 86747682,
+      "fn_rva": 82553378,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2780,
+      "off_max": 2780,
+      "pool_offsets_sample": [
+        2780
+      ],
+      "sample_insns": [
+        "push 0xb090c88"
+      ]
+    },
+    {
+      "fn_va": 107344834,
+      "fn_rva": 103150530,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 2492,
+      "pool_offsets_sample": [
+        2492
+      ],
+      "sample_insns": [
+        "push 0xb090b68"
+      ]
+    },
+    {
+      "fn_va": 109827362,
+      "fn_rva": 105633058,
+      "n_hits": 1,
+      "n_unique_offs": 1,
+      "depth": null,
+      "on_presend_chain": false,
+      "off_min": 2492,
+      "off_max": 2492,
+      "pool_offsets_sample": [
+        2492
+      ],
+      "sample_insns": [
+        "push 0xb090b68"
+      ]
+    }
+  ],
+  "raw": [
+    {
+      "byte_va": 61773243,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 61773242,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": 61773106,
+      "fn_rva": 57578802,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61773739,
+      "imm_val": 185140600,
+      "insn": {
+        "insn_va": 61773738,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090578",
+        "bytes": "687805090b"
+      },
+      "fn_va": 61773602,
+      "fn_rva": 57579298,
+      "pool_off": 972,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61853609,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 61853606,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb09055c",
+        "bytes": "c745c85c05090b"
+      },
+      "fn_va": 61853538,
+      "fn_rva": 57659234,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61855177,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 61855174,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb090574",
+        "bytes": "c745c87405090b"
+      },
+      "fn_va": 61855106,
+      "fn_rva": 57660802,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61855545,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 61855542,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb090588",
+        "bytes": "c745c88805090b"
+      },
+      "fn_va": 61855474,
+      "fn_rva": 57661170,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61869335,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 61869333,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0907f4",
+        "bytes": "c707f407090b"
+      },
+      "fn_va": 61869282,
+      "fn_rva": 57674978,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61870919,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 61870917,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090b7c",
+        "bytes": "c7077c0b090b"
+      },
+      "fn_va": 61870866,
+      "fn_rva": 57676562,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871095,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 61871093,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090df0",
+        "bytes": "c707f00d090b"
+      },
+      "fn_va": 61871042,
+      "fn_rva": 57676738,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871271,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 61871269,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb091164",
+        "bytes": "c7076411090b"
+      },
+      "fn_va": 61871218,
+      "fn_rva": 57676914,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871447,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 61871445,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090630",
+        "bytes": "c7073006090b"
+      },
+      "fn_va": 61871394,
+      "fn_rva": 57677090,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871991,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 61871989,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090e84",
+        "bytes": "c707840e090b"
+      },
+      "fn_va": 61871938,
+      "fn_rva": 57677634,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61873223,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 61873221,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0909ac",
+        "bytes": "c707ac09090b"
+      },
+      "fn_va": 61873170,
+      "fn_rva": 57678866,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874455,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 61874453,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0903ac",
+        "bytes": "c707ac03090b"
+      },
+      "fn_va": 61874402,
+      "fn_rva": 57680098,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874631,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 61874629,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090adc",
+        "bytes": "c707dc0a090b"
+      },
+      "fn_va": 61874578,
+      "fn_rva": 57680274,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874983,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 61874981,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090f80",
+        "bytes": "c707800f090b"
+      },
+      "fn_va": 61874930,
+      "fn_rva": 57680626,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61875159,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 61875157,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090f08",
+        "bytes": "c707080f090b"
+      },
+      "fn_va": 61875106,
+      "fn_rva": 57680802,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61875511,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 61875509,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090a5c",
+        "bytes": "c7075c0a090b"
+      },
+      "fn_va": 61875458,
+      "fn_rva": 57681154,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61877623,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 61877621,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0910f0",
+        "bytes": "c707f010090b"
+      },
+      "fn_va": 61877570,
+      "fn_rva": 57683266,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878151,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 61878149,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090278",
+        "bytes": "c7077802090b"
+      },
+      "fn_va": 61878098,
+      "fn_rva": 57683794,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878503,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 61878501,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb09107c",
+        "bytes": "c7077c10090b"
+      },
+      "fn_va": 61878450,
+      "fn_rva": 57684146,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878679,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 61878677,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb091004",
+        "bytes": "c7070410090b"
+      },
+      "fn_va": 61878626,
+      "fn_rva": 57684322,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61882564,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 61882562,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090684",
+        "bytes": "c7078406090b"
+      },
+      "fn_va": 61882514,
+      "fn_rva": 57688210,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61908240,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 61908238,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb09055c",
+        "bytes": "c7075c05090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61908585,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 61908583,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0907f4",
+        "bytes": "c703f407090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909657,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 61909655,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090b7c",
+        "bytes": "c7037c0b090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909769,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 61909767,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090df0",
+        "bytes": "c703f00d090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909881,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 61909879,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb091164",
+        "bytes": "c7036411090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909993,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 61909991,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090630",
+        "bytes": "c7033006090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61910393,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 61910391,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090e84",
+        "bytes": "c703840e090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61911177,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 61911175,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0909ac",
+        "bytes": "c703ac09090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61911961,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 61911959,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0903ac",
+        "bytes": "c703ac03090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912073,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 61912071,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090adc",
+        "bytes": "c703dc0a090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912297,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 61912295,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090f80",
+        "bytes": "c703800f090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912409,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 61912407,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090f08",
+        "bytes": "c703080f090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912633,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 61912631,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090a5c",
+        "bytes": "c7035c0a090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61913977,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 61913975,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0910f0",
+        "bytes": "c703f010090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914313,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 61914311,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090278",
+        "bytes": "c7037802090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914537,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 61914535,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb09107c",
+        "bytes": "c7037c10090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914649,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 61914647,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb091004",
+        "bytes": "c7030410090b"
+      },
+      "fn_va": 61908226,
+      "fn_rva": 57713922,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917392,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 61917390,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090574",
+        "bytes": "c7077405090b"
+      },
+      "fn_va": 61917378,
+      "fn_rva": 57723074,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917513,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 61917511,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090684",
+        "bytes": "c7038406090b"
+      },
+      "fn_va": 61917378,
+      "fn_rva": 57723074,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917872,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 61917870,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090588",
+        "bytes": "c7078805090b"
+      },
+      "fn_va": 61917858,
+      "fn_rva": 57723554,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917992,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 61917990,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0905d0",
+        "bytes": "c703d005090b"
+      },
+      "fn_va": 61917858,
+      "fn_rva": 57723554,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61980202,
+      "imm_val": 185141136,
+      "insn": {
+        "insn_va": 61980201,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090790",
+        "bytes": "689007090b"
+      },
+      "fn_va": 61980130,
+      "fn_rva": 57785826,
+      "pool_off": 1508,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61980426,
+      "imm_val": 185141176,
+      "insn": {
+        "insn_va": 61980425,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907b8",
+        "bytes": "68b807090b"
+      },
+      "fn_va": 61980130,
+      "fn_rva": 57785826,
+      "pool_off": 1548,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61981044,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 61981043,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": 61980130,
+      "fn_rva": 57785826,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991050,
+      "imm_val": 185142056,
+      "insn": {
+        "insn_va": 61991049,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b28",
+        "bytes": "68280b090b"
+      },
+      "fn_va": 61990978,
+      "fn_rva": 57796674,
+      "pool_off": 2428,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991274,
+      "imm_val": 185142088,
+      "insn": {
+        "insn_va": 61991273,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b48",
+        "bytes": "68480b090b"
+      },
+      "fn_va": 61990978,
+      "fn_rva": 57796674,
+      "pool_off": 2460,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991514,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61991513,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 61990978,
+      "fn_rva": 57796674,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991834,
+      "imm_val": 185142692,
+      "insn": {
+        "insn_va": 61991833,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090da4",
+        "bytes": "68a40d090b"
+      },
+      "fn_va": 61991762,
+      "fn_rva": 57797458,
+      "pool_off": 3064,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992058,
+      "imm_val": 185142728,
+      "insn": {
+        "insn_va": 61992057,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090dc8",
+        "bytes": "68c80d090b"
+      },
+      "fn_va": 61991762,
+      "fn_rva": 57797458,
+      "pool_off": 3100,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992298,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61992297,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 61991762,
+      "fn_rva": 57797458,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992519,
+      "imm_val": 185143600,
+      "insn": {
+        "insn_va": 61992518,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091130",
+        "bytes": "683011090b"
+      },
+      "fn_va": 61992450,
+      "fn_rva": 57798146,
+      "pool_off": 3972,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992743,
+      "imm_val": 185143624,
+      "insn": {
+        "insn_va": 61992742,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091148",
+        "bytes": "684811090b"
+      },
+      "fn_va": 61992450,
+      "fn_rva": 57798146,
+      "pool_off": 3996,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61993672,
+      "imm_val": 185140744,
+      "insn": {
+        "insn_va": 61993671,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090608",
+        "bytes": "680806090b"
+      },
+      "fn_va": 61993074,
+      "fn_rva": 57798770,
+      "pool_off": 1116,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61993944,
+      "imm_val": 185140756,
+      "insn": {
+        "insn_va": 61993943,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090614",
+        "bytes": "681406090b"
+      },
+      "fn_va": 61993074,
+      "fn_rva": 57798770,
+      "pool_off": 1128,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61994211,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 61994210,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": 61993074,
+      "fn_rva": 57798770,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997399,
+      "imm_val": 185142848,
+      "insn": {
+        "insn_va": 61997398,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e40",
+        "bytes": "68400e090b"
+      },
+      "fn_va": 61997330,
+      "fn_rva": 57803026,
+      "pool_off": 3220,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997623,
+      "imm_val": 185142880,
+      "insn": {
+        "insn_va": 61997622,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e60",
+        "bytes": "68600e090b"
+      },
+      "fn_va": 61997330,
+      "fn_rva": 57803026,
+      "pool_off": 3252,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997783,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61997782,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 61997330,
+      "fn_rva": 57803026,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62002362,
+      "imm_val": 185141628,
+      "insn": {
+        "insn_va": 62002361,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09097c",
+        "bytes": "687c09090b"
+      },
+      "fn_va": 62002290,
+      "fn_rva": 57807986,
+      "pool_off": 2000,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62002586,
+      "imm_val": 185141648,
+      "insn": {
+        "insn_va": 62002585,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090990",
+        "bytes": "689009090b"
+      },
+      "fn_va": 62002290,
+      "fn_rva": 57807986,
+      "pool_off": 2020,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62003204,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62003203,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": 62002290,
+      "fn_rva": 57807986,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62009416,
+      "imm_val": 185140084,
+      "insn": {
+        "insn_va": 62009415,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090374",
+        "bytes": "687403090b"
+      },
+      "fn_va": 62009346,
+      "fn_rva": 57815042,
+      "pool_off": 456,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62010127,
+      "imm_val": 185140112,
+      "insn": {
+        "insn_va": 62010126,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090390",
+        "bytes": "689003090b"
+      },
+      "fn_va": 62009346,
+      "fn_rva": 57815042,
+      "pool_off": 484,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62010900,
+      "imm_val": 185141920,
+      "insn": {
+        "insn_va": 62010899,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090aa0",
+        "bytes": "68a00a090b"
+      },
+      "fn_va": 62010834,
+      "fn_rva": 57816530,
+      "pool_off": 2292,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62011124,
+      "imm_val": 185141948,
+      "insn": {
+        "insn_va": 62011123,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090abc",
+        "bytes": "68bc0a090b"
+      },
+      "fn_va": 62010834,
+      "fn_rva": 57816530,
+      "pool_off": 2320,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62011956,
+      "imm_val": 185143116,
+      "insn": {
+        "insn_va": 62011955,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f4c",
+        "bytes": "684c0f090b"
+      },
+      "fn_va": 62011890,
+      "fn_rva": 57817586,
+      "pool_off": 3488,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012180,
+      "imm_val": 185143140,
+      "insn": {
+        "insn_va": 62012179,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f64",
+        "bytes": "68640f090b"
+      },
+      "fn_va": 62011890,
+      "fn_rva": 57817586,
+      "pool_off": 3512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012484,
+      "imm_val": 185142988,
+      "insn": {
+        "insn_va": 62012483,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ecc",
+        "bytes": "68cc0e090b"
+      },
+      "fn_va": 62012418,
+      "fn_rva": 57818114,
+      "pool_off": 3360,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012708,
+      "imm_val": 185143016,
+      "insn": {
+        "insn_va": 62012707,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ee8",
+        "bytes": "68e80e090b"
+      },
+      "fn_va": 62012418,
+      "fn_rva": 57818114,
+      "pool_off": 3388,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62021396,
+      "imm_val": 185143484,
+      "insn": {
+        "insn_va": 62021395,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910bc",
+        "bytes": "68bc10090b"
+      },
+      "fn_va": 62021330,
+      "fn_rva": 57827026,
+      "pool_off": 3856,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62021620,
+      "imm_val": 185143508,
+      "insn": {
+        "insn_va": 62021619,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910d4",
+        "bytes": "68d410090b"
+      },
+      "fn_va": 62021330,
+      "fn_rva": 57827026,
+      "pool_off": 3880,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62023592,
+      "imm_val": 185139764,
+      "insn": {
+        "insn_va": 62023591,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090234",
+        "bytes": "683402090b"
+      },
+      "fn_va": 62023522,
+      "fn_rva": 57829218,
+      "pool_off": 136,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62024303,
+      "imm_val": 185139796,
+      "insn": {
+        "insn_va": 62024302,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090254",
+        "bytes": "685402090b"
+      },
+      "fn_va": 62023522,
+      "fn_rva": 57829218,
+      "pool_off": 168,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62025668,
+      "imm_val": 185143368,
+      "insn": {
+        "insn_va": 62025667,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091048",
+        "bytes": "684810090b"
+      },
+      "fn_va": 62025602,
+      "fn_rva": 57831298,
+      "pool_off": 3740,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62025892,
+      "imm_val": 185143392,
+      "insn": {
+        "insn_va": 62025891,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091060",
+        "bytes": "686010090b"
+      },
+      "fn_va": 62025602,
+      "fn_rva": 57831298,
+      "pool_off": 3764,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62026196,
+      "imm_val": 185143240,
+      "insn": {
+        "insn_va": 62026195,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fc8",
+        "bytes": "68c80f090b"
+      },
+      "fn_va": 62026130,
+      "fn_rva": 57831826,
+      "pool_off": 3612,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62026420,
+      "imm_val": 185143268,
+      "insn": {
+        "insn_va": 62026419,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fe4",
+        "bytes": "68e40f090b"
+      },
+      "fn_va": 62026130,
+      "fn_rva": 57831826,
+      "pool_off": 3640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62044501,
+      "imm_val": 185140792,
+      "insn": {
+        "insn_va": 62044500,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090638",
+        "bytes": "683806090b"
+      },
+      "fn_va": 62044306,
+      "fn_rva": 57850002,
+      "pool_off": 1164,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62046246,
+      "imm_val": 185140620,
+      "insn": {
+        "insn_va": 62046245,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09058c",
+        "bytes": "688c05090b"
+      },
+      "fn_va": 62046066,
+      "fn_rva": 57851762,
+      "pool_off": 992,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62057787,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 62057785,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0905d0",
+        "bytes": "c707d005090b"
+      },
+      "fn_va": 62057778,
+      "fn_rva": 57863474,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62558222,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 62558219,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x80], 0xb09055c",
+        "bytes": "c745805c05090b"
+      },
+      "fn_va": 62557986,
+      "fn_rva": 58363682,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62560374,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 62560371,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0905d0",
+        "bytes": "c74608d005090b"
+      },
+      "fn_va": 62557986,
+      "fn_rva": 58363682,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62561995,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 62561994,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": 62561282,
+      "fn_rva": 58366978,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562591,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 62562590,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": 62561282,
+      "fn_rva": 58366978,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562971,
+      "imm_val": 185140736,
+      "insn": {
+        "insn_va": 62562970,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090600",
+        "bytes": "680006090b"
+      },
+      "fn_va": 62561282,
+      "fn_rva": 58366978,
+      "pool_off": 1108,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62569210,
+      "imm_val": 185141076,
+      "insn": {
+        "insn_va": 62569209,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090754",
+        "bytes": "685407090b"
+      },
+      "fn_va": 62569010,
+      "fn_rva": 58374706,
+      "pool_off": 1448,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570089,
+      "imm_val": 185141240,
+      "insn": {
+        "insn_va": 62570088,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907f8",
+        "bytes": "68f807090b"
+      },
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "pool_off": 1612,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570250,
+      "imm_val": 185141252,
+      "insn": {
+        "insn_va": 62570249,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090804",
+        "bytes": "680408090b"
+      },
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "pool_off": 1624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570676,
+      "imm_val": 185141268,
+      "insn": {
+        "insn_va": 62570675,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090814",
+        "bytes": "681408090b"
+      },
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "pool_off": 1640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62571732,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 62571729,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0907f4",
+        "bytes": "c74608f407090b"
+      },
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62572022,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 62572016,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb0907f4",
+        "bytes": "c78540fffffff407090b"
+      },
+      "fn_va": 62569506,
+      "fn_rva": 58375202,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62572718,
+      "imm_val": 185141280,
+      "insn": {
+        "insn_va": 62572717,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090820",
+        "bytes": "682008090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1652,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62572947,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62572946,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62573204,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62573203,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62573936,
+      "imm_val": 185141316,
+      "insn": {
+        "insn_va": 62573935,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090844",
+        "bytes": "684408090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1688,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62574050,
+      "imm_val": 185141328,
+      "insn": {
+        "insn_va": 62574049,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090850",
+        "bytes": "685008090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1700,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62574314,
+      "imm_val": 185141344,
+      "insn": {
+        "insn_va": 62574313,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090860",
+        "bytes": "686008090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1716,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62575557,
+      "imm_val": 185141360,
+      "insn": {
+        "insn_va": 62575556,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090870",
+        "bytes": "687008090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1732,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62576118,
+      "imm_val": 185141440,
+      "insn": {
+        "insn_va": 62576117,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0908c0",
+        "bytes": "68c008090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1812,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62576405,
+      "imm_val": 185141512,
+      "insn": {
+        "insn_va": 62576404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090908",
+        "bytes": "680809090b"
+      },
+      "fn_va": 62572482,
+      "fn_rva": 58378178,
+      "pool_off": 1884,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62617765,
+      "imm_val": 185139652,
+      "insn": {
+        "insn_va": 62617764,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0901c4",
+        "bytes": "68c401090b"
+      },
+      "fn_va": 62615698,
+      "fn_rva": 58421394,
+      "pool_off": 24,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62640330,
+      "imm_val": 185142008,
+      "insn": {
+        "insn_va": 62640329,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090af8",
+        "bytes": "68f80a090b"
+      },
+      "fn_va": 62640130,
+      "fn_rva": 58445826,
+      "pool_off": 2380,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62641323,
+      "imm_val": 185142144,
+      "insn": {
+        "insn_va": 62641322,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b80",
+        "bytes": "68800b090b"
+      },
+      "fn_va": 62640626,
+      "fn_rva": 58446322,
+      "pool_off": 2516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62642429,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 62642426,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090b7c",
+        "bytes": "c746087c0b090b"
+      },
+      "fn_va": 62640626,
+      "fn_rva": 58446322,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62642716,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 62642710,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090b7c",
+        "bytes": "c7855cffffff7c0b090b"
+      },
+      "fn_va": 62640626,
+      "fn_rva": 58446322,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643372,
+      "imm_val": 185142152,
+      "insn": {
+        "insn_va": 62643371,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b88",
+        "bytes": "68880b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2524,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643554,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 62643553,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643680,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62643679,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643965,
+      "imm_val": 185142188,
+      "insn": {
+        "insn_va": 62643964,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bac",
+        "bytes": "68ac0b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2560,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644436,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62644435,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644903,
+      "imm_val": 185142268,
+      "insn": {
+        "insn_va": 62644902,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bfc",
+        "bytes": "68fc0b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644983,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 62644982,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645059,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 62645058,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645296,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 62645295,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645365,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 62645364,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645445,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 62645444,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645598,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62645597,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645673,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62645672,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645822,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 62645821,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645974,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 62645973,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646055,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 62646054,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646330,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 62646329,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646592,
+      "imm_val": 185142456,
+      "insn": {
+        "insn_va": 62646591,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cb8",
+        "bytes": "68b80c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2828,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647504,
+      "imm_val": 185142524,
+      "insn": {
+        "insn_va": 62647503,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cfc",
+        "bytes": "68fc0c090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2896,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647654,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 62647653,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647771,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 62647770,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62649407,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 62649406,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62649793,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62649792,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62643170,
+      "fn_rva": 58448866,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62650474,
+      "imm_val": 185142640,
+      "insn": {
+        "insn_va": 62650473,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d70",
+        "bytes": "68700d090b"
+      },
+      "fn_va": 62650274,
+      "fn_rva": 58455970,
+      "pool_off": 3012,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62650969,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 62650968,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": 62650770,
+      "fn_rva": 58456466,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62652139,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 62652136,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090df0",
+        "bytes": "c74608f00d090b"
+      },
+      "fn_va": 62650770,
+      "fn_rva": 58456466,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62652426,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 62652420,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090df0",
+        "bytes": "c7855cfffffff00d090b"
+      },
+      "fn_va": 62650770,
+      "fn_rva": 58456466,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653070,
+      "imm_val": 185142772,
+      "insn": {
+        "insn_va": 62653069,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090df4",
+        "bytes": "68f40d090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 3144,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653250,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62653249,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653533,
+      "imm_val": 185142188,
+      "insn": {
+        "insn_va": 62653532,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bac",
+        "bytes": "68ac0b090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2560,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62654618,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62654617,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655356,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 62655355,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655435,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 62655434,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655568,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 62655567,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655675,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 62655674,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655827,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 62655826,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655989,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62655988,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656751,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 62656750,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62657016,
+      "imm_val": 185142456,
+      "insn": {
+        "insn_va": 62657015,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cb8",
+        "bytes": "68b80c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2828,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62657939,
+      "imm_val": 185142524,
+      "insn": {
+        "insn_va": 62657938,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cfc",
+        "bytes": "68fc0c090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2896,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658089,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 62658088,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658206,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 62658205,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658764,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62658763,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62652866,
+      "fn_rva": 58458562,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662202,
+      "imm_val": 185143560,
+      "insn": {
+        "insn_va": 62662201,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091108",
+        "bytes": "680811090b"
+      },
+      "fn_va": 62662002,
+      "fn_rva": 58467698,
+      "pool_off": 3932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662717,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62662714,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb091164",
+        "bytes": "c745846411090b"
+      },
+      "fn_va": 62662498,
+      "fn_rva": 58468194,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662925,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62662922,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb091164",
+        "bytes": "c746086411090b"
+      },
+      "fn_va": 62662498,
+      "fn_rva": 58468194,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62663194,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62663191,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb091164",
+        "bytes": "c745846411090b"
+      },
+      "fn_va": 62662498,
+      "fn_rva": 58468194,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62663816,
+      "imm_val": 185143656,
+      "insn": {
+        "insn_va": 62663815,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091168",
+        "bytes": "686811090b"
+      },
+      "fn_va": 62663586,
+      "fn_rva": 58469282,
+      "pool_off": 4028,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62665831,
+      "imm_val": 185140872,
+      "insn": {
+        "insn_va": 62665830,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090688",
+        "bytes": "688806090b"
+      },
+      "fn_va": 62665298,
+      "fn_rva": 58470994,
+      "pool_off": 1244,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666401,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 62666398,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090630",
+        "bytes": "c746083006090b"
+      },
+      "fn_va": 62665298,
+      "fn_rva": 58470994,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666975,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 62666972,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090684",
+        "bytes": "c746088406090b"
+      },
+      "fn_va": 62665298,
+      "fn_rva": 58470994,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62667241,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 62667235,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x130], 0xb090684",
+        "bytes": "c785d0feffff8406090b"
+      },
+      "fn_va": 62665298,
+      "fn_rva": 58470994,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668002,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 62668001,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668128,
+      "imm_val": 185140932,
+      "insn": {
+        "insn_va": 62668127,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0906c4",
+        "bytes": "68c406090b"
+      },
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "pool_off": 1304,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668213,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 62668212,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668294,
+      "imm_val": 185140988,
+      "insn": {
+        "insn_va": 62668293,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0906fc",
+        "bytes": "68fc06090b"
+      },
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "pool_off": 1360,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668405,
+      "imm_val": 185141028,
+      "insn": {
+        "insn_va": 62668404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090724",
+        "bytes": "682407090b"
+      },
+      "fn_va": 62667906,
+      "fn_rva": 58473602,
+      "pool_off": 1400,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687234,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62687233,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687851,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 62687850,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687941,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62687940,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688031,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62688030,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688212,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 62688211,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688392,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 62688391,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": 62686290,
+      "fn_rva": 58491986,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62689658,
+      "imm_val": 185142804,
+      "insn": {
+        "insn_va": 62689657,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e14",
+        "bytes": "68140e090b"
+      },
+      "fn_va": 62689458,
+      "fn_rva": 58495154,
+      "pool_off": 3176,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690173,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690170,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090e84",
+        "bytes": "c74584840e090b"
+      },
+      "fn_va": 62689954,
+      "fn_rva": 58495650,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690381,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690378,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090e84",
+        "bytes": "c74608840e090b"
+      },
+      "fn_va": 62689954,
+      "fn_rva": 58495650,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690650,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690647,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090e84",
+        "bytes": "c74584840e090b"
+      },
+      "fn_va": 62689954,
+      "fn_rva": 58495650,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691272,
+      "imm_val": 185142920,
+      "insn": {
+        "insn_va": 62691271,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e88",
+        "bytes": "68880e090b"
+      },
+      "fn_va": 62691042,
+      "fn_rva": 58496738,
+      "pool_off": 3292,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691501,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62691500,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62691042,
+      "fn_rva": 58496738,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691611,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62691610,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 62691042,
+      "fn_rva": 58496738,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62706218,
+      "imm_val": 185143676,
+      "insn": {
+        "insn_va": 62706217,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09117c",
+        "bytes": "687c11090b"
+      },
+      "fn_va": 62706018,
+      "fn_rva": 58511714,
+      "pool_off": 4048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62725886,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 62725883,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0909ac",
+        "bytes": "c74608ac09090b"
+      },
+      "fn_va": 62724882,
+      "fn_rva": 58530578,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62726173,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 62726167,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb0909ac",
+        "bytes": "c7855cffffffac09090b"
+      },
+      "fn_va": 62724882,
+      "fn_rva": 58530578,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62726859,
+      "imm_val": 185141680,
+      "insn": {
+        "insn_va": 62726858,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909b0",
+        "bytes": "68b009090b"
+      },
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "pool_off": 2052,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62727088,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62727087,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62727841,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62727840,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62728970,
+      "imm_val": 185141696,
+      "insn": {
+        "insn_va": 62728969,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909c0",
+        "bytes": "68c009090b"
+      },
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "pool_off": 2068,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62729544,
+      "imm_val": 185141748,
+      "insn": {
+        "insn_va": 62729543,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909f4",
+        "bytes": "68f409090b"
+      },
+      "fn_va": 62726626,
+      "fn_rva": 58532322,
+      "pool_off": 2120,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62757386,
+      "imm_val": 185140040,
+      "insn": {
+        "insn_va": 62757385,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090348",
+        "bytes": "684803090b"
+      },
+      "fn_va": 62757186,
+      "fn_rva": 58562882,
+      "pool_off": 412,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62758787,
+      "imm_val": 185140144,
+      "insn": {
+        "insn_va": 62758786,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0903b0",
+        "bytes": "68b003090b"
+      },
+      "fn_va": 62757682,
+      "fn_rva": 58563378,
+      "pool_off": 516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62759860,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 62759854,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x140], 0xb0903ac",
+        "bytes": "c785c0feffffac03090b"
+      },
+      "fn_va": 62757682,
+      "fn_rva": 58563378,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62760102,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 62760099,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0903ac",
+        "bytes": "c74608ac03090b"
+      },
+      "fn_va": 62757682,
+      "fn_rva": 58563378,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62761445,
+      "imm_val": 185140204,
+      "insn": {
+        "insn_va": 62761444,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0903ec",
+        "bytes": "68ec03090b"
+      },
+      "fn_va": 62760834,
+      "fn_rva": 58566530,
+      "pool_off": 576,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62761850,
+      "imm_val": 185140236,
+      "insn": {
+        "insn_va": 62761849,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09040c",
+        "bytes": "680c04090b"
+      },
+      "fn_va": 62760834,
+      "fn_rva": 58566530,
+      "pool_off": 608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62762229,
+      "imm_val": 185140260,
+      "insn": {
+        "insn_va": 62762228,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090424",
+        "bytes": "682404090b"
+      },
+      "fn_va": 62760834,
+      "fn_rva": 58566530,
+      "pool_off": 632,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62762901,
+      "imm_val": 185140320,
+      "insn": {
+        "insn_va": 62762900,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090460",
+        "bytes": "686004090b"
+      },
+      "fn_va": 62760834,
+      "fn_rva": 58566530,
+      "pool_off": 692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764285,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764282,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090adc",
+        "bytes": "c74584dc0a090b"
+      },
+      "fn_va": 62764066,
+      "fn_rva": 58569762,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764493,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764490,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090adc",
+        "bytes": "c74608dc0a090b"
+      },
+      "fn_va": 62764066,
+      "fn_rva": 58569762,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764762,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764759,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090adc",
+        "bytes": "c74584dc0a090b"
+      },
+      "fn_va": 62764066,
+      "fn_rva": 58569762,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62765380,
+      "imm_val": 185141984,
+      "insn": {
+        "insn_va": 62765379,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ae0",
+        "bytes": "68e00a090b"
+      },
+      "fn_va": 62765154,
+      "fn_rva": 58570850,
+      "pool_off": 2356,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62769930,
+      "imm_val": 185143076,
+      "insn": {
+        "insn_va": 62769929,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f24",
+        "bytes": "68240f090b"
+      },
+      "fn_va": 62769730,
+      "fn_rva": 58575426,
+      "pool_off": 3448,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62770858,
+      "imm_val": 185143172,
+      "insn": {
+        "insn_va": 62770857,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f84",
+        "bytes": "68840f090b"
+      },
+      "fn_va": 62770226,
+      "fn_rva": 58575922,
+      "pool_off": 3544,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62771398,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 62771395,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090f80",
+        "bytes": "c74608800f090b"
+      },
+      "fn_va": 62770226,
+      "fn_rva": 58575922,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62771685,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 62771679,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f80",
+        "bytes": "c7855cffffff800f090b"
+      },
+      "fn_va": 62770226,
+      "fn_rva": 58575922,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62772356,
+      "imm_val": 185143180,
+      "insn": {
+        "insn_va": 62772355,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f8c",
+        "bytes": "688c0f090b"
+      },
+      "fn_va": 62772130,
+      "fn_rva": 58577826,
+      "pool_off": 3552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62776394,
+      "imm_val": 185142944,
+      "insn": {
+        "insn_va": 62776393,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ea0",
+        "bytes": "68a00e090b"
+      },
+      "fn_va": 62776194,
+      "fn_rva": 58581890,
+      "pool_off": 3316,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62777865,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 62777862,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090f08",
+        "bytes": "c74608080f090b"
+      },
+      "fn_va": 62776690,
+      "fn_rva": 58582386,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62778152,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 62778146,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f08",
+        "bytes": "c7855cffffff080f090b"
+      },
+      "fn_va": 62776690,
+      "fn_rva": 58582386,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62778820,
+      "imm_val": 185143052,
+      "insn": {
+        "insn_va": 62778819,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f0c",
+        "bytes": "680c0f090b"
+      },
+      "fn_va": 62778594,
+      "fn_rva": 58584290,
+      "pool_off": 3424,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62782282,
+      "imm_val": 185141800,
+      "insn": {
+        "insn_va": 62782281,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090a28",
+        "bytes": "68280a090b"
+      },
+      "fn_va": 62782082,
+      "fn_rva": 58587778,
+      "pool_off": 2172,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62783194,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62783193,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": 62782578,
+      "fn_rva": 58588274,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62784204,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 62784201,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090a5c",
+        "bytes": "c746085c0a090b"
+      },
+      "fn_va": 62782578,
+      "fn_rva": 58588274,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62784490,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 62784484,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb090a5c",
+        "bytes": "c78540ffffff5c0a090b"
+      },
+      "fn_va": 62782578,
+      "fn_rva": 58588274,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62786405,
+      "imm_val": 185141856,
+      "insn": {
+        "insn_va": 62786404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090a60",
+        "bytes": "68600a090b"
+      },
+      "fn_va": 62784946,
+      "fn_rva": 58590642,
+      "pool_off": 2228,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62805854,
+      "imm_val": 185140380,
+      "insn": {
+        "insn_va": 62805853,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09049c",
+        "bytes": "689c04090b"
+      },
+      "fn_va": 62804818,
+      "fn_rva": 58610514,
+      "pool_off": 752,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62807493,
+      "imm_val": 185140392,
+      "insn": {
+        "insn_va": 62807492,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904a8",
+        "bytes": "68a804090b"
+      },
+      "fn_va": 62806882,
+      "fn_rva": 58612578,
+      "pool_off": 764,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62807898,
+      "imm_val": 185140424,
+      "insn": {
+        "insn_va": 62807897,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904c8",
+        "bytes": "68c804090b"
+      },
+      "fn_va": 62806882,
+      "fn_rva": 58612578,
+      "pool_off": 796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62808277,
+      "imm_val": 185140448,
+      "insn": {
+        "insn_va": 62808276,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904e0",
+        "bytes": "68e004090b"
+      },
+      "fn_va": 62806882,
+      "fn_rva": 58612578,
+      "pool_off": 820,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62808949,
+      "imm_val": 185140508,
+      "insn": {
+        "insn_va": 62808948,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09051c",
+        "bytes": "681c05090b"
+      },
+      "fn_va": 62806882,
+      "fn_rva": 58612578,
+      "pool_off": 880,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62839562,
+      "imm_val": 185143444,
+      "insn": {
+        "insn_va": 62839561,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091094",
+        "bytes": "689410090b"
+      },
+      "fn_va": 62839362,
+      "fn_rva": 58645058,
+      "pool_off": 3816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62841218,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 62841215,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0910f0",
+        "bytes": "c74608f010090b"
+      },
+      "fn_va": 62839858,
+      "fn_rva": 58645554,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62841505,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 62841499,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xbc], 0xb0910f0",
+        "bytes": "c78544fffffff010090b"
+      },
+      "fn_va": 62839858,
+      "fn_rva": 58645554,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62842180,
+      "imm_val": 185143540,
+      "insn": {
+        "insn_va": 62842179,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910f4",
+        "bytes": "68f410090b"
+      },
+      "fn_va": 62841954,
+      "fn_rva": 58647650,
+      "pool_off": 3912,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62857543,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 62857540,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090278",
+        "bytes": "c746087802090b"
+      },
+      "fn_va": 62856210,
+      "fn_rva": 58661906,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62857830,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 62857824,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090278",
+        "bytes": "c7855cffffff7802090b"
+      },
+      "fn_va": 62856210,
+      "fn_rva": 58661906,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62858885,
+      "imm_val": 185139836,
+      "insn": {
+        "insn_va": 62858884,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09027c",
+        "bytes": "687c02090b"
+      },
+      "fn_va": 62858274,
+      "fn_rva": 58663970,
+      "pool_off": 208,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62859290,
+      "imm_val": 185139876,
+      "insn": {
+        "insn_va": 62859289,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0902a4",
+        "bytes": "68a402090b"
+      },
+      "fn_va": 62858274,
+      "fn_rva": 58663970,
+      "pool_off": 248,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62859783,
+      "imm_val": 185139904,
+      "insn": {
+        "insn_va": 62859782,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0902c0",
+        "bytes": "68c002090b"
+      },
+      "fn_va": 62858274,
+      "fn_rva": 58663970,
+      "pool_off": 276,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62860453,
+      "imm_val": 185139976,
+      "insn": {
+        "insn_va": 62860452,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090308",
+        "bytes": "680803090b"
+      },
+      "fn_va": 62858274,
+      "fn_rva": 58663970,
+      "pool_off": 348,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62865770,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62865769,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 62865138,
+      "fn_rva": 58670834,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62866310,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 62866307,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb09107c",
+        "bytes": "c746087c10090b"
+      },
+      "fn_va": 62865138,
+      "fn_rva": 58670834,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62866597,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 62866591,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb09107c",
+        "bytes": "c7855cffffff7c10090b"
+      },
+      "fn_va": 62865138,
+      "fn_rva": 58670834,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62867268,
+      "imm_val": 185143424,
+      "insn": {
+        "insn_va": 62867267,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091080",
+        "bytes": "688010090b"
+      },
+      "fn_va": 62867042,
+      "fn_rva": 58672738,
+      "pool_off": 3796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62868234,
+      "imm_val": 185143200,
+      "insn": {
+        "insn_va": 62868233,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fa0",
+        "bytes": "68a00f090b"
+      },
+      "fn_va": 62868034,
+      "fn_rva": 58673730,
+      "pool_off": 3572,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869165,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62869164,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": 62868530,
+      "fn_rva": 58674226,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869705,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 62869702,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb091004",
+        "bytes": "c746080410090b"
+      },
+      "fn_va": 62868530,
+      "fn_rva": 58674226,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869992,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 62869986,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb091004",
+        "bytes": "c7855cffffff0410090b"
+      },
+      "fn_va": 62868530,
+      "fn_rva": 58674226,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62870660,
+      "imm_val": 185143304,
+      "insn": {
+        "insn_va": 62870659,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091008",
+        "bytes": "680810090b"
+      },
+      "fn_va": 62870434,
+      "fn_rva": 58676130,
+      "pool_off": 3676,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63042331,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 63042328,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [eax + 4], 0xb09055c",
+        "bytes": "c740045c05090b"
+      },
+      "fn_va": 63042306,
+      "fn_rva": 58848002,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63051771,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 63051768,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [eax + 4], 0xb090588",
+        "bytes": "c740048805090b"
+      },
+      "fn_va": 63051746,
+      "fn_rva": 58857442,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63090095,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 63090092,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0905d0",
+        "bytes": "c74608d005090b"
+      },
+      "fn_va": 63090018,
+      "fn_rva": 58895714,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63098620,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 63098617,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi + 8], 0xb0905d0",
+        "bytes": "c74708d005090b"
+      },
+      "fn_va": 63098610,
+      "fn_rva": 58904306,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 68655151,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 68655150,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 68654850,
+      "fn_rva": 64460546,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 68659110,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 68659109,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 68659026,
+      "fn_rva": 64464722,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81548726,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 81548725,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": 81548402,
+      "fn_rva": 77354098,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81637963,
+      "imm_val": 185142056,
+      "insn": {
+        "insn_va": 81637962,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b28",
+        "bytes": "68280b090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2428,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81638006,
+      "imm_val": 185142088,
+      "insn": {
+        "insn_va": 81638005,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b48",
+        "bytes": "68480b090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2460,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81638141,
+      "imm_val": 185142152,
+      "insn": {
+        "insn_va": 81638140,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b88",
+        "bytes": "68880b090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2524,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639693,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 81639692,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639713,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 81639712,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640146,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 81640145,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640266,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 81640265,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640286,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 81640285,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640306,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 81640305,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640326,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 81640325,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640426,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 81640425,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640446,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 81640445,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640484,
+      "imm_val": 185142504,
+      "insn": {
+        "insn_va": 81640483,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ce8",
+        "bytes": "68e80c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2876,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640504,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 81640503,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640524,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 81640523,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640638,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 81640637,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81643624,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 81643623,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 81637826,
+      "fn_rva": 77443522,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81644897,
+      "imm_val": 185142144,
+      "insn": {
+        "insn_va": 81644896,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b80",
+        "bytes": "68800b090b"
+      },
+      "fn_va": 81644066,
+      "fn_rva": 77449762,
+      "pool_off": 2516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81648091,
+      "imm_val": 185142692,
+      "insn": {
+        "insn_va": 81648090,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090da4",
+        "bytes": "68a40d090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 3064,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81648247,
+      "imm_val": 185142772,
+      "insn": {
+        "insn_va": 81648246,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090df4",
+        "bytes": "68f40d090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 3144,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81649798,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 81649797,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81649818,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 81649817,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650376,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 81650375,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650396,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 81650395,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650416,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 81650415,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650436,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 81650435,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650491,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 81650490,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650536,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 81650535,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650556,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 81650555,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650614,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 81650613,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650634,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 81650633,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650750,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 81650749,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81652355,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 81652354,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 81647954,
+      "fn_rva": 77453650,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81653212,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 81653211,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": 81652738,
+      "fn_rva": 77458434,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81662743,
+      "imm_val": 185143172,
+      "insn": {
+        "insn_va": 81662742,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f84",
+        "bytes": "68840f090b"
+      },
+      "fn_va": 81662274,
+      "fn_rva": 77467970,
+      "pool_off": 3544,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81665791,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 81665790,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 81665506,
+      "fn_rva": 77471202,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81673671,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 81673670,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": 81673202,
+      "fn_rva": 77478898,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81942383,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 81942382,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": 81942066,
+      "fn_rva": 77747762,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 82128450,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 82128449,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 82126946,
+      "fn_rva": 77932642,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 85844862,
+      "imm_val": 185141268,
+      "insn": {
+        "insn_va": 85844861,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090814",
+        "bytes": "681408090b"
+      },
+      "fn_va": 85844482,
+      "fn_rva": 81650178,
+      "pool_off": 1640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86142784,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 86142783,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": 86142066,
+      "fn_rva": 81947762,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86143105,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 86143104,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": 86142066,
+      "fn_rva": 81947762,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86653689,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 86653688,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 86653618,
+      "fn_rva": 82459314,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86747863,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 86747862,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": 86747682,
+      "fn_rva": 82553378,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 96874462,
+      "imm_val": 185140744,
+      "insn": {
+        "insn_va": 96874461,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090608",
+        "bytes": "680806090b"
+      },
+      "fn_va": 96874130,
+      "fn_rva": 92679826,
+      "pool_off": 1116,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 96874749,
+      "imm_val": 185140756,
+      "insn": {
+        "insn_va": 96874748,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090614",
+        "bytes": "681406090b"
+      },
+      "fn_va": 96874130,
+      "fn_rva": 92679826,
+      "pool_off": 1128,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 107344979,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 107344978,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 107344834,
+      "fn_rva": 103150530,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 109828410,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 109828409,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": 109827362,
+      "fn_rva": 105633058,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    }
+  ]
+}

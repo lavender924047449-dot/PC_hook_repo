@@ -1,0 +1,25 @@
+{
+  "pid": 20248,
+  "ts": "20260911_111436",
+  "init": {
+    "t": "init",
+    "base": "0x2d0000",
+    "disp": "0x71aaa0",
+    "prolog": "55 8b ec 6a ff 68"
+  },
+  "phase1": {
+    "event_count": 0,
+    "vtables": [],
+    "events": []
+  },
+  "phase2": {
+    "event_count": 0,
+    "vtables": [],
+    "events": []
+  },
+  "diff": {
+    "new_vtables": [],
+    "details": []
+  },
+  "all_events": []
+}

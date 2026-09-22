@@ -1,0 +1,757 @@
+{
+  "baseline": {
+    "PostSendMessageTask2": [],
+    "HandleMessageResourcesTask": [],
+    "HandleForwardResourcesTask2": [],
+    "CdnUploadFileTask": [],
+    "DownloadFileTask2": [],
+    "DownloadFtnFileTask": [],
+    "silk_paths": [
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�_p2p: 0�������\u001d����\u0003�a�����������������蛓��������������������͉�������������������Ձ",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�9_135.silk���O\u001d\r���\u0003�UploadFile:c:\\users\\lenovo\\documents\\wxwork\\1688855042791155",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silk�I6bO4h�8�p���)\u0005g��_\u0004�������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�������@@�BU��\b��select id, content_type, from_type, time, app_info, is_temp_p2p_f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk642d383136372d36336566323164666132633602031000050203008bf00410a74bb27cc1058dde266c",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silk��.�p�n�g�����\u0019�U�l\u000f����(2������pA��������������������������\u001d?�� ?��#?���?�������@",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�?\b�\u0001���։4CIGAEBDyvZrVBhjzrZynk4CAAyAV�\u0016�X\u0015�\u0003\u0004\u0006!\u0001\u0004\b�<\u0003\r\b�`\u0010E���\u000fII\u0001�&��\u0006�\u00014�\u0016�FILE",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�lt = 1�g���������t\u0016��\u0005���\b<c+d���������Y\u0002������������\u0019����������\u0012\u001b�ʉ�����������Ł�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_05_58_811.silkj���29823a10d205de65955fc1e504cf2ec6�$\"\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������\u00119\u0018��\u0012��d<[\u000b��������/�m�\u0003�����$2����������������\u000f����m�5����������������\u000f���",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������W9^��\u0017��!�g�l�y�p�h�/�m�o�r�e�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-�2�7�:�e�x�p�e�c�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkb�������-�\u0002����?\b�\u0001���։4���������\u000f�������������b�2�7�����������������4$<��\u0001��keya_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��{\"co",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkent=?, local_extra_content=?, client_id=? where message_id=?����lp, lo�%Ӱ�\u0006��value",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkent=?, local_extra_content=?, client_id=? where message_id=?����fa50a6�%���\u0007���b e",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk362d346165652d383131362d62393530363461643632316302031000050203008bf00410a74bb27cc1",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk, p2p_policy: 0, p2p_target_user_id: 0�\u0002#\u001b��\u0001��delete from wcprobe_report_table_1 ",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silk��g�h�t��������d���\u001d��!�i�c�o�n�/�m�e�s�s�a�g�e�/�v�o�i�c�e�_�b�u�b�b�l�e�/�v�o�i�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk���g������D��y\u0015�������������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silk�cpp�nect:69��Y\u001a9��\u0003��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�s�e�l�e�c�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003o��$�b\u0003��insert or replace into conversation_tag_relationship_table_v9(conversati",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad142a18f006727c5e622b7b49ac96cd8d94073(24).pngi",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_37_29_004.silkj��Y3d39cb61eefade2f76475c345cc5c008�$�\u001c\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_20_33_54_757.silkj�R68bf9ca00251f6d30377faff7247ca03a�$�`\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_49_00_376.silkj���a697441c0533cb38f439f1a997154dde�$l\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_12_149.silkj���1dbced3944ec8c249b29b46bc2eada3c�$h\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_16_48_02_339.silkj���007aab085dc3f9584c06140960cc566f�$f\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_32_877.silkj���83047386575fa1dac060b4b4033aed30�$A\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_20_534.silkj���d2cfd2b82b9b32a3f71053b46aea615a�$?\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_30_08_220.silkj���245136a94f4e3eeb22a79bd0d69fd965�$=\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f"
+    ]
+  },
+  "result": {
+    "tasks": [],
+    "silk_new": [
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_05_58_811.silkj���29823a10d205de65955fc1e504cf2ec6�s+\b\u0001�I�]\u0004M\u0002306a02010204633061020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silkj���5c8a094426d6d663914d215f4572b9df�$�\u000e\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silkj�\foef3e70bde24ace249c4c563d814af01d�$�K\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silkj�\u0006�a707934ebe292bdb66f1c22ba9a875c9�$�G\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8������Yj�c\u0006��!�i�c�o�n�/�m�e�s�s�a�g�e�/�v�o�i�c�e�_�b�u�b�b�l�e�/�v�o�i�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk��5�0�2�8���v�\"Y��b\u0018��r�:�D�e�c�:�D�e�c�e�m�b�e�r���.�c�d�n�c�o�m�t�d�l���EBDFxI7V",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�lback\n����׳�\u000f��https://rescdn.qqmail.com/node/ww/wwmng/style/images/independ",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp�\u00038\u0001��g���h�p�\u000f\u0004��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk��5�0�2�8���m�\u0006�n�p\u0006��!�i�c�o�n�/�m�e�s�s�a�g�e�/�v�o�i�c�e�_�b�u�b�b�l�e�/�v�o�i�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkn: keep-alive\r\nServer: Wwebsvr\r\nError-Code: 0\r\nError-Msg: \r\nX-W-No: 4\r\n\r\n�d�9�4�0�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkJ�X�`����\u0006h�p�z\u001cCIGAEBD7vZrVBhjzrZynk4CAAyAW�\u0001��\u0001j�?\b�\u0001؍�։4��\u0001[\n �\u0010�)\u0016���ǂ���'�\u0019��",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8������\u0010���\n��I�D�X�_�S�K�I�N�_�W�U�I�_�W�D�I�A�L�O�G�_�W�D�I�A�L�O�G�_�W�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��g���2�8�����z\u001e\"��y��c�h�a�t�/�m�e�s�s�a�g�e�_�s�o�u�r�c�e�_�a�p�p�i�c�o�n�/�m�e�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�n\b\t�A�Q\u0004M306b02010204643062020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�m\b\t�A�Q\u0004M306b02010204643062020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�l\b\t�A�Q\u0004M306b02010204643062020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�k\b\t�A�Q\u0004M306b02010204643062020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�\u0001�j\b\u0001�M�u\u0004M\u0002306b02010204643062020100020434e71",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+H��2(��2(eg2(Ug2peg2\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�Bx��?�\u001fS��\u0002�����2��������x��;���;ؙ�;���;����x��;���������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�\u0001��\"@-\u001fͳ�\u0004������\u0004�\u0004�\u0001\u0002\u0001�\u0001���\u0006���Vs}�\u0004�e���\u001a���\u001c�\\�\u0006���e���\u001d����\u0005\u0006�!�������\u0002�f���\u0006",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������d\u001f\u0004��\u0005��\n�\u0001306b02010204643062020100020434e716f302030f42430204afdb9b2402046aa",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�\u0001��\"@�\u0018��\u0006��\u0003����\u001b\ff\u0003���\u0010\u001b\ff\u0003��� \u001b\ff\u0003���0\u001b\ff\u0003���@\u001b\ff\u0003���P\u001b\ff\u0003���`\u001b\ff\u0003���p\u001b\ff\u0003���",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��t��?�\u0019R��\u000b�����\n�i�2��10204643062020100020434e716f30\u0004���\n���8>�\n4afd`#d\u0003����+6aa",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������g\u0019\u0007��\u000e��\n�\u0001306b02010204643062020100020434e716f302030f42430204afdb9b2402046aa",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk����\u0010@�\u001a~��\u000f��0�\u0001��\u0003\u0002\u0001\u0002\u0002\n{q��V�\u0012|��0\n\u0006\b*�H�=\u0004\u0003\u00030Z1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u00130\u0011\u0006\u0003U\u0004\u000b\u0013\nemSign PK",
+      "C:\\Users����h�T2Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��\u001e�������������������������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013�������������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�-�0�9���2ω�2\t��\u0012\u001c2026_09_13_19_10_59_135.silk ��\u0002�\u0006bC:\\Users\\LENOVO\\Documents\\WXW",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�-�0�9���G����\n��SELECT T.'rowid', T.c0, T.c1, T.c2, T.c3, T.c4, T.c5, T.c6, T.c7,",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk���������m�γ�\f��n���C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�D�o�c�u�m�e�n�t�s�\\�W�X�W�o�r�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�\u001a7��\r����������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��� - g2�;�\u001d�(\u0003��\\�R�e�g�i�s�t�r�y�\\�U�s�e�r�\\�S�-�1�-�5�-�2�1�-�2�1�8�8�8�3�3�2�5",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������\u000fW�ȉ���\u0018��\\�R�e�g�i�s�t�r�y�\\�U�s�e�r�\\�S�-�1�-�5�-�2�1�-�2�1�8�8�8�3�3�2�5�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�����������\u0012��\u0003��C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�A�p�p�D�a�t�a�\\�L�o�c�a�l�\\�M�i�c",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�task2.cpp����1T���\u0015��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storag",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�9����K\\u��\u0006��������������������蛓������������ѓ����������������ʉ�������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk, p2p_policy: 0, p2p_target_user_id: 0���ղ�\u000b��������������������蛓�����������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk��t�.�p�n�g���'�N��\n��f�i�l�e�=�'�!�g�l�y�p�h�/�m�a�i�l�_�1�6�'� �s�v�g�f�i�l�l�_�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk��5�0�2�8������:ĳ�\u0001���������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��select count(1) from important_contacts_message_table where ",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�����������\u0003��\u0014\th���{2��{2p�{2��Nu��52��������\u0004���\u0011�����������D�u4\u0001���������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��S����_2��\u0010��!�g�l�y�p�h�/�m�o�r�e�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-�2�7�:�e�x�p�e�c�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8����^�����\u0006��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�s�e�l�e�c�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�?\b�\u0001؍�։4CIGAEBD7vZrVBhjzrZynk4�\u0016�Z\u0015�\u0003\u0004\u0006!\u0001\u0004\b�<\u0003\r\b�`\u0010E���\u000fIM\u0001�&��\u0006�\u00014�\u0016�FILEASSIST\u000f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�g�����k��\f\u0013�\u0015\u000b��!�s�i�d�e�_�n�a�v�/�b�a�s�e�m�e�n�t�_�s�i�d�e�_�n�a�v�_�g�r�a�d�i",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�������k�e\f���\u0013��!�g�l�y�p�h�/�w�e�d�r�i�v�e�_�1�6�.�s�v�g�:�w�-�2�0�:�h�-�2�0�:�e",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003ph\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003oh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003nh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003mh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003lh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003kh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk\u0003ah\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk\u0003_h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk\u0003]h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silk\u0003[h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk\u0003Yh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silk\u0003Wh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silk\u0003Uh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk\u0003Mh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk\u0003Kh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk\u0003Ih\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silk\u0003Gh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk\u0003Ah\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk\u0003Ch\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silk\u0003:h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silk\u00038h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silk\u00034h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silk\u0003+h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silk\u0003)h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_20_33_54_757.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_37_29_004.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+p\"p2P�o2�>$;�.$;�>$;\u0010��28�'; ��2����A���p�o2����\u0001�������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silkj��l05b499681fbb680713d7eefaa5b90eac�$�`\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silkj��\r70f4d23f54afbe6b09f3e9c885814ec8�$�^\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silkj��qff5ae166d5a2b1d3c0a3b9adbb7f6d13�$�\\\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silkj���9e732c1ebc2c90a00bf78f8d6dd00c84�$�Z\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silkj���a74bb27cc1058dde266cefb725ae9aad��$;ȓ$;������������\u0018��+0�T2���2��$;��$;��$;\u0010��",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������<��vĪ��\u0017���r�k���\u0016����n�g�{į��\b��zĮ�:\u0015��}ĭ�e\u0011��s\\data\\p-e6d4d606a4b54544ad81",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk��s�v�g����\n��CR��\u0002.��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk�cpp� 2021U�\u0015\u0017QSǱ\u000e@��1\u000b0\t\u0006\u0003U\u0004\u0006\f\u0002kr1&0$\u0006\u0003U\u0004\n\f\u001dnaver business platform corp.1200\u0006\u0003U\u0004",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk��.�p�n�g������NԲ�\u0002���\u0001�%������pA��������������������������\u001d?�� ?��#?���?�������@�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp�.cpp�����\tN���\u0007��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��5�0�2�8�����\u0003U\u0004\u0003\f\nglobalsign����\u0004���X7�4\u0014����7�4������������������������X5�4�5�4",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silkj���30fd268330e61d01f4267ad140c6ce89�&�V\u0007\u0001�9U\u0004M\u0003306902010204623060020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silkj��b872b77fcfd534c7ff38691c8b755bc8�&�T\u0007\u0001�9U\u0004M\u0003306902010204623060020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silkj�z�1191158c9eeffd105fcb5927dadcc490H�4<h\u00065<������������\u0018��+({�2�\u0001�2H\u00065<H�4<�\u00065<\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silkj���e115a2f64c4447199f986c3ba6aa9019�$7\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silkj���f6df8d1b5be0ed42cdb1462b9d0f3b29�$/\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silkj�z�aa5385461cbe97e518c13a255af484a3�$�J\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silkj�zvcf6c467fb3e188061922687a734e5f05�$�H\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silkj�y\u0013d3aa91301035c01e6434cfd6f9798a8c�$�F\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silkj�x&9bfe49d88b3ac7c3c888eed364c927a3�$�B\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj�x&0125f43f3194e98f0876f377c3f2c771h[7<�k7<������������\u0018��+(�T2h��4hk7<h[7<�k7<\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��con_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silkj���e18b1750692f96fe384840302b67853eae9aad142a18f006727c5e622b7b49ac96cd8d94073(24",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silkj���e18b1750692f96fe384840302b67853e�$�q\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+Hz�4�\u0010�2(eg2(Ug2peg2\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�9����K\\u��\u0006��C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�D�o�c�u�m�e�n�t�s�\\�W�X�W�o�r�k�\\�G�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk��5�0�2�8������:ĳ�\u0001��0M1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u00120\u0010\u0006\u0003U\u0004\n\u0013\tIdenTrust1*0(\u0006\u0003U\u0004\u0003\u0013!IdenTrust Publi",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��0P1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002DE1\u00150\u0013\u0006\u0003U\u0004\n\f\fD-Trust GmbH1*0(\u0006\u0003U\u0004\u0003\f!D-TRUST Roo",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silk\u0003rh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+`�\u000f2Hz�4�>$;�.$;�>$;\u0010��2Heg2 ��2����A���hz�4����\u0001�������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj�x&0125f43f3194e98f0876f377c3f2c771h[7<�k7<������������\u0018��+(�T2\u0018�';hk7<h[7<�k7<\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��-�\u0001�\u0001�\u0001�\u0001�#�/�b�u�b�b�l�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��������������������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�t�e�n�c�e�n�t�_�m�e�e�t�i�n�g�_�s�q�u�a�r�e�_�f�i�l",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�s�i�d�e�_�n�a�v�/�b�a�s�e�m�e�n�t�_�s�i�d�e�_�n�a�v�_�g�r�a�d�i",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�b�u�b�b�l�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�m�a�i�l�_�s�q�u�a�r�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��T��\n������\u0004���������������������@�T\u000f@�T\u000f@�T\u000f���������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��user",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+Hz�4(��2(eg2(Ug2peg2\u0010�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003��q�%\b�/<\b���ta\\p�疜�\u0001���疜�\u0001����������\u0001e7a8e77����������\u0017,\u0001���",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk����\u001d����\u0003�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65��QoHVzIE=�����c[��\u0005�������eneral_kv����������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��keye",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65ae9aad142a18f006727c5e622b7b49ac96cd8d94073(24",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk�����\u00038\u0001������_\"���\f��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk����==�������� #L��\u0019����\u0001_\n ��)0��)\u001e��8����\u0016e�7�J}�R�\t���}��\u0010\u0010\u001a9\b����\u0006\u0010\u0002\u001a CAMQ+oma",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65�$�s\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+ૃ2`�\u000f2(eg2(Ug2peg2\u0010��2",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��\u001c��\n\u0001���\u0001������\n\u0010�:<����������������������������������������h\u0019�;�\u0019�;�\u0019�;",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003th\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+���2ૃ2�>$;�.$;�>$;\u0010��2Heg2 ��2����A������2����\u0001�������\u0001�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�3.33��}�8�B��\u0004��@6�;������pA��������������������������\u001d?�� ?��#?���?�������@",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�3.33����t�~�7\b��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk�����\u00038\u0001������_\"���\f��c�h�a�t�\\�f�r�o�m�_�a�p�p�_�i�n�f�o�\\�d�e�f�a�u�l�t�_�f�r�o�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�em.cpp������� #L��\u0019����\u0001_\n ��)0��)\u001e��8����\u0016e�7�J}�R�\t���}��\u0010\u0010\u001a9\b����\u0006\u0010\u0002\u001a CAMQ+oma",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�2`��2��������\b0?&��������������\u0001�\u0007���P��2P��2��������\b0?&\u0004���\u0001���������\u0001�\u0004���ػ�2ػ",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk��\u0018B�2����`¬5������������(>�2����x¬5�������������;�2�������5��������������l2����@�",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��\u001c��\n�����������\n\u0010�:<����������������������������������������������������",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003��q�%����\t���ta\\p������������������������\u0001e7a8e77����������\u0017,",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003���������\t���ta\\p������������������������\u0001e7a8e77����������\u0017,",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk����\u001d����\u0003�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\ne",
+      "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��H8k\u000b�����������\n�����k������������������\u000f�����������������������\u000f���̟�j�"
+    ],
+    "packages": []
+  },
+  "events": [
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_05_58_811.silkj���29823a10d205de65955fc1e504cf2ec6�s+\b\u0001�I�]\u0004M\u0002306a02010204633061020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silkj���5c8a094426d6d663914d215f4572b9df�$�\u000e\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silkj�\foef3e70bde24ace249c4c563d814af01d�$�K\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silkj�\u0006�a707934ebe292bdb66f1c22ba9a875c9�$�G\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8������Yj�c\u0006��!�i�c�o�n�/�m�e�s�s�a�g�e�/�v�o�i�c�e�_�b�u�b�b�l�e�/�v�o�i�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk��5�0�2�8���v�\"Y��b\u0018��r�:�D�e�c�:�D�e�c�e�m�b�e�r���.�c�d�n�c�o�m�t�d�l���EBDFxI7V"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�lback\n����׳�\u000f��https://rescdn.qqmail.com/node/ww/wwmng/style/images/independ"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp�\u00038\u0001��g���h�p�\u000f\u0004��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk��5�0�2�8���m�\u0006�n�p\u0006��!�i�c�o�n�/�m�e�s�s�a�g�e�/�v�o�i�c�e�_�b�u�b�b�l�e�/�v�o�i�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkn: keep-alive\r\nServer: Wwebsvr\r\nError-Code: 0\r\nError-Msg: \r\nX-W-No: 4\r\n\r\n�d�9�4�0�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkJ�X�`����\u0006h�p�z\u001cCIGAEBD7vZrVBhjzrZynk4CAAyAW�\u0001��\u0001j�?\b�\u0001؍�։4��\u0001[\n �\u0010�)\u0016���ǂ���'�\u0019��"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8������\u0010���\n��I�D�X�_�S�K�I�N�_�W�U�I�_�W�D�I�A�L�O�G�_�W�D�I�A�L�O�G�_�W�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��g���2�8�����z\u001e\"��y��c�h�a�t�/�m�e�s�s�a�g�e�_�s�o�u�r�c�e�_�a�p�p�i�c�o�n�/�m�e�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�n\b\t�A�Q\u0004M306b02010204643062020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�m\b\t�A�Q\u0004M306b02010204643062020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�l\b\t�A�Q\u0004M306b02010204643062020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�h�k\b\t�A�Q\u0004M306b02010204643062020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�\u0001�j\b\u0001�M�u\u0004M\u0002306b02010204643062020100020434e71"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+H��2(��2(eg2(Ug2peg2\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�Bx��?�\u001fS��\u0002�����2��������x��;���;ؙ�;���;����x��;���������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�\u0001��\"@-\u001fͳ�\u0004������\u0004�\u0004�\u0001\u0002\u0001�\u0001���\u0006���Vs}�\u0004�e���\u001a���\u001c�\\�\u0006���e���\u001d����\u0005\u0006�!�������\u0002�f���\u0006"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������d\u001f\u0004��\u0005��\n�\u0001306b02010204643062020100020434e716f302030f42430204afdb9b2402046aa"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�\u0001��\"@�\u0018��\u0006��\u0003����\u001b\ff\u0003���\u0010\u001b\ff\u0003��� \u001b\ff\u0003���0\u001b\ff\u0003���@\u001b\ff\u0003���P\u001b\ff\u0003���`\u001b\ff\u0003���p\u001b\ff\u0003���"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��t��?�\u0019R��\u000b�����\n�i�2��10204643062020100020434e716f30\u0004���\n���8>�\n4afd`#d\u0003����+6aa"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������g\u0019\u0007��\u000e��\n�\u0001306b02010204643062020100020434e716f302030f42430204afdb9b2402046aa"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk����\u0010@�\u001a~��\u000f��0�\u0001��\u0003\u0002\u0001\u0002\u0002\n{q��V�\u0012|��0\n\u0006\b*�H�=\u0004\u0003\u00030Z1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u00130\u0011\u0006\u0003U\u0004\u000b\u0013\nemSign PK"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users����h�T2Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��\u001e�������������������������������������������������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013�������������������������������������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�-�0�9���2ω�2\t��\u0012\u001c2026_09_13_19_10_59_135.silk ��\u0002�\u0006bC:\\Users\\LENOVO\\Documents\\WXW"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�-�0�9���G����\n��SELECT T.'rowid', T.c0, T.c1, T.c2, T.c3, T.c4, T.c5, T.c6, T.c7,"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk���������m�γ�\f��n���C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�D�o�c�u�m�e�n�t�s�\\�W�X�W�o�r�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad�\u001a7��\r����������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��� - g2�;�\u001d�(\u0003��\\�R�e�g�i�s�t�r�y�\\�U�s�e�r�\\�S�-�1�-�5�-�2�1�-�2�1�8�8�8�3�3�2�5"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������\u000fW�ȉ���\u0018��\\�R�e�g�i�s�t�r�y�\\�U�s�e�r�\\�S�-�1�-�5�-�2�1�-�2�1�8�8�8�3�3�2�5�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�����������\u0012��\u0003��C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�A�p�p�D�a�t�a�\\�L�o�c�a�l�\\�M�i�c"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�task2.cpp����1T���\u0015��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\storag"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�9����K\\u��\u0006��������������������蛓������������ѓ����������������ʉ�������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk, p2p_policy: 0, p2p_target_user_id: 0���ղ�\u000b��������������������蛓�����������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk��t�.�p�n�g���'�N��\n��f�i�l�e�=�'�!�g�l�y�p�h�/�m�a�i�l�_�1�6�'� �s�v�g�f�i�l�l�_�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk��5�0�2�8������:ĳ�\u0001���������������������������������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��select count(1) from important_contacts_message_table where "
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�����������\u0003��\u0014\th���{2��{2p�{2��Nu��52��������\u0004���\u0011�����������D�u4\u0001���������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��S����_2��\u0010��!�g�l�y�p�h�/�m�o�r�e�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-�2�7�:�e�x�p�e�c�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp��2�8����^�����\u0006��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�s�e�l�e�c�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�?\b�\u0001؍�։4CIGAEBD7vZrVBhjzrZynk4�\u0016�Z\u0015�\u0003\u0004\u0006!\u0001\u0004\b�<\u0003\r\b�`\u0010E���\u000fIM\u0001�&��\u0006�\u00014�\u0016�FILEASSIST\u000f"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�g�����k��\f\u0013�\u0015\u000b��!�s�i�d�e�_�n�a�v�/�b�a�s�e�m�e�n�t�_�s�i�d�e�_�n�a�v�_�g�r�a�d�i"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�������k�e\f���\u0013��!�g�l�y�p�h�/�w�e�d�r�i�v�e�_�1�6�.�s�v�g�:�w�-�2�0�:�h�-�2�0�:�e"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003ph\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003oh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003nh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003mh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003lh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk\u0003kh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silk\u0003ah\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk\u0003_h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk\u0003]h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silk\u0003[h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk\u0003Yh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silk\u0003Wh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silk\u0003Uh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silk\u0003Mh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk\u0003Kh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk\u0003Ih\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silk\u0003Gh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk\u0003Ah\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silk\u0003Ch\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_44_780.silk\u0003:h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_13_37_915.silk\u00038h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_09_22_985.silk\u00034h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_46_10_535.silk\u0003+h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_12_03_45_28_033.silk\u0003)h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_20_33_54_757.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_36_10_443.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_09_15_12_04_947.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_37_29_004.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_18_52_228.silk��h\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+p\"p2P�o2�>$;�.$;�>$;\u0010��28�'; ��2����A���p�o2����\u0001�������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_17_59_038.silkj��l05b499681fbb680713d7eefaa5b90eac�$�`\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silkj��\r70f4d23f54afbe6b09f3e9c885814ec8�$�^\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silkj��qff5ae166d5a2b1d3c0a3b9adbb7f6d13�$�\\\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_11_50_400.silkj���9e732c1ebc2c90a00bf78f8d6dd00c84�$�Z\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silkj���a74bb27cc1058dde266cefb725ae9aad��$;ȓ$;������������\u0018��+0�T2���2��$;��$;��$;\u0010��"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk������<��vĪ��\u0017���r�k���\u0016����n�g�{į��\b��zĮ�:\u0015��}ĭ�e\u0011��s\\data\\p-e6d4d606a4b54544ad81"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_16_24_152.silk��s�v�g����\n��CR��\u0002.��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_13_46_515.silk�cpp� 2021U�\u0015\u0017QSǱ\u000e@��1\u000b0\t\u0006\u0003U\u0004\u0006\f\u0002kr1&0$\u0006\u0003U\u0004\n\f\u001dnaver business platform corp.1200\u0006\u0003U\u0004"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_56_51_226.silk��.�p�n�g������NԲ�\u0002���\u0001�%������pA��������������������������\u001d?�� ?��#?���?�������@�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�cpp�.cpp�����\tN���\u0007��f�i�l�e�=�'�!�c�h�e�c�k�b�o�x�/�c�h�e�c�k�b�o�x�_�u�n�s�e�l�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk��5�0�2�8�����\u0003U\u0004\u0003\f\nglobalsign����\u0004���X7�4\u0014����7�4������������������������X5�4�5�4"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_53_49_821.silkj���30fd268330e61d01f4267ad140c6ce89�&�V\u0007\u0001�9U\u0004M\u0003306902010204623060020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_49_59_143.silkj��b872b77fcfd534c7ff38691c8b755bc8�&�T\u0007\u0001�9U\u0004M\u0003306902010204623060020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_49_813.silkj�z�1191158c9eeffd105fcb5927dadcc490H�4<h\u00065<������������\u0018��+({�2�\u0001�2H\u00065<H�4<�\u00065<\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_27_42_856.silkj���e115a2f64c4447199f986c3ba6aa9019�$7\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_15_10_43_842.silkj���f6df8d1b5be0ed42cdb1462b9d0f3b29�$/\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716f"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silkj�z�aa5385461cbe97e518c13a255af484a3�$�J\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silkj�zvcf6c467fb3e188061922687a734e5f05�$�H\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_21_03_110.silkj�y\u0013d3aa91301035c01e6434cfd6f9798a8c�$�F\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_45_180.silkj�x&9bfe49d88b3ac7c3c888eed364c927a3�$�B\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj�x&0125f43f3194e98f0876f377c3f2c771h[7<�k7<������������\u0018��+(�T2h��4hk7<h[7<�k7<\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��con_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silkj���e18b1750692f96fe384840302b67853eae9aad142a18f006727c5e622b7b49ac96cd8d94073(24"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silkj���e18b1750692f96fe384840302b67853e�$�q\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+Hz�4�\u0010�2(eg2(Ug2peg2\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�9����K\\u��\u0006��C�:�\\�U�s�e�r�s�\\�L�E�N�O�V�O�\\�D�o�c�u�m�e�n�t�s�\\�W�X�W�o�r�k�\\�G�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_26_58_351.silk��5�0�2�8������:ĳ�\u0001��0M1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002US1\u00120\u0010\u0006\u0003U\u0004\n\u0013\tIdenTrust1*0(\u0006\u0003U\u0004\u0003\u0013!IdenTrust Publi"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��0P1\u000b0\t\u0006\u0003U\u0004\u0006\u0013\u0002DE1\u00150\u0013\u0006\u0003U\u0004\n\f\fD-Trust GmbH1*0(\u0006\u0003U\u0004\u0003\f!D-TRUST Roo"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_04_504.silk\u0003rh\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+`�\u000f2Hz�4�>$;�.$;�>$;\u0010��2Heg2 ��2����A���hz�4����\u0001�������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silkj�x&0125f43f3194e98f0876f377c3f2c771h[7<�k7<������������\u0018��+(�T2\u0018�';hk7<h[7<�k7<\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��-�\u0001�\u0001�\u0001�\u0001�#�/�b�u�b�b�l�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_27_11_511.silk�pp�a�t�a������:��;\u0005��������������������������������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�t�e�n�c�e�n�t�_�m�e�e�t�i�n�g�_�s�q�u�a�r�e�_�f�i�l"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�s�i�d�e�_�n�a�v�/�b�a�s�e�m�e�n�t�_�s�i�d�e�_�n�a�v�_�g�r�a�d�i"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�b�u�b�b�l�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-�2�7�:�h�-"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��!�g�l�y�p�h�/�m�a�i�l�_�s�q�u�a�r�e�_�f�i�l�l�_�2�2�.�s�v�g�:�w�-"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk�v�g���k�%<H�a\u0013��T��\n������\u0004���������������������@�T\u000f@�T\u000f@�T\u000f���������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��user"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+Hz�4(��2(eg2(Ug2peg2\u0010�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003��q�%\b�/<\b���ta\\p�疜�\u0001���疜�\u0001����������\u0001e7a8e77����������\u0017,\u0001���"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk����\u001d����\u0003�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65��QoHVzIE=�����c[��\u0005�������eneral_kv����������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk-�4�f�c�1�-�9�8�2�f�-�d�8�0�3�8�d�5�c�0�6�5�6�.�t�m�p���t�m�p�����\u001c����%���\u0004��keye"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65ae9aad142a18f006727c5e622b7b49ac96cd8d94073(24"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk�����\u00038\u0001������_\"���\f��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk����==�������� #L��\u0019����\u0001_\n ��)0��)\u001e��8����\u0016e�7�J}�R�\t���}��\u0010\u0010\u001a9\b����\u0006\u0010\u0002\u001a CAMQ+oma"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silkj���37dcfa0d7806bf761c7cdc49aef88f65�$�s\u0007\u0001�5U\u0004M\u000330680201020461305f020100020434e716"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silkj���a74bb27cc1058dde266cefb725ae9aad(Ug2Heg2������tz����\u0018��+ૃ2`�\u000f2(eg2(Ug2peg2\u0010��2"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��\u001c��\n\u0001���\u0001������\n\u0010�:<����������������������������������������h\u0019�;�\u0019�;�\u0019�;"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003th\u0004�Q\u0002C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_08_17_08_16_843.silk���.$;�>$;������������\u0018��+���2ૃ2�>$;�.$;�>$;\u0010��2Heg2 ��2����A������2����\u0001�������\u0001�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�3.33��}�8�B��\u0004��@6�;������pA��������������������������\u001d?�� ?��#?���?�������@"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�pp�p�3.33����t�~�7\b��C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\lo"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk�����\u00038\u0001������_\"���\f��c�h�a�t�\\�f�r�o�m�_�a�p�p�_�i�n�f�o�\\�d�e�f�a�u�l�t�_�f�r�o�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�em.cpp������� #L��\u0019����\u0001_\n ��)0��)\u001e��8����\u0016e�7�J}�R�\t���}��\u0010\u0010\u001a9\b����\u0006\u0010\u0002\u001a CAMQ+oma"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk�2`��2��������\b0?&��������������\u0001�\u0007���P��2P��2��������\b0?&\u0004���\u0001���������\u0001�\u0004���ػ�2ػ"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_18_16_56_690.silk��\u0018B�2����`¬5������������(>�2����x¬5�������������;�2�������5��������������l2����@�"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��\u001c��\n�����������\n\u0010�:<����������������������������������������������������"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003��q�%����\t���ta\\p������������������������\u0001e7a8e77����������\u0017,"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk���#\u001ca���\u0003���������\t���ta\\p������������������������\u0001e7a8e77����������\u0017,"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\b5f53333-1d99-44ce-8b59-32a82186244c�.silk����\u001d����\u0003�C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\ne"
+    },
+    {
+      "t": "silk",
+      "path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk\u0003tB\u00190�E\u0010��H8k\u000b�����������\n�����k������������������\u000f�����������������������\u000f���̟�j�"
+    }
+  ],
+  "staged": {
+    "silk_path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_19_10_59_135.silk",
+    "filename": "2026_09_13_19_10_59_135.silk",
+    "md5": "a74bb27cc1058dde266cefb725ae9aad",
+    "size": 35808,
+    "temp_path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\Temp\\2ddfb51c-8d56-430b-a420-aece4c7ddb10"
+  }
+}

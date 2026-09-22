@@ -1,0 +1,37 @@
+{
+  "baseline": [
+    "0184f125"
+  ],
+  "events": [
+    {
+      "t": "cgi",
+      "fn": "CGI_A",
+      "compact": "0184f125",
+      "elapsed": 4320
+    },
+    {
+      "t": "cgi",
+      "fn": "CGI_A",
+      "compact": "0184f125",
+      "elapsed": 14323
+    },
+    {
+      "t": "cgi",
+      "fn": "CGI_A",
+      "compact": "0184f125",
+      "elapsed": 21915
+    },
+    {
+      "t": "cgi",
+      "fn": "CGI_A",
+      "compact": "0184f125",
+      "elapsed": 24328
+    },
+    {
+      "t": "cgi",
+      "fn": "CGI_A",
+      "compact": "0184f125",
+      "elapsed": 26792
+    }
+  ]
+}

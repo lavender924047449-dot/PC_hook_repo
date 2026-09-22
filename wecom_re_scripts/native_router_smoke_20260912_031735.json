@@ -1,0 +1,24 @@
+{
+  "from_conv_id": "S:1688855042791155_7881300363276969",
+  "to_conv_id": "S:1688855042791155_7881299845935418",
+  "scans_done": 291,
+  "tasks_seen_unique": 1,
+  "tasks_matched": 1,
+  "tasks_patched": 1,
+  "duration_sec": 72.188,
+  "timed_out": false,
+  "stopped": false,
+  "error": null,
+  "events": [
+    {
+      "phase": "patched",
+      "elapsed": 72.188,
+      "task": "0x3252b420",
+      "pkg": "0x3857ab28",
+      "str": "S:1688855042791155_7881300363276969",
+      "size": 35,
+      "heap_ptr": "0x265a2d58",
+      "verify": "S:1688855042791155_7881299845935418"
+    }
+  ]
+}

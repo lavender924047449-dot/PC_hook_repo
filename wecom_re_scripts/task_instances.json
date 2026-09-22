@@ -1,0 +1,42 @@
+{
+  "pid": 44360,
+  "str_addrs": {
+    "class wework::logic::PostSendMessageTask2": [
+      "0x26252aac",
+      "0x389a07c8"
+    ],
+    "class wework::logic::TimerUpdateMessageTimeTask": [
+      "0x2615ad48",
+      "0x2615afb0",
+      "0x3541d4fc",
+      "0x35764e70",
+      "0x35765308",
+      "0x38856688",
+      "0x38856810",
+      "0x38856960",
+      "0x3899f7d0",
+      "0x3899fcd8",
+      "0x3899fd10",
+      "0x403648b0",
+      "0x40366398"
+    ],
+    "class wework::logic::InitMessageSenderLookupTask": [
+      "0x2641ccd4"
+    ],
+    "class wework::logic::SetGlobalItemsTask": [
+      "0x35764e04"
+    ]
+  },
+  "instances_count": {
+    "class wework::logic::TimerUpdateMessageTimeTask": 4
+  },
+  "instances_sample": {
+    "class wework::logic::TimerUpdateMessageTimeTask": [
+      "0x2615acb0",
+      "0x2b8fb984",
+      "0x3549b9b0",
+      "0x3549b9e4"
+    ]
+  },
+  "scanned_MB": 159
+}

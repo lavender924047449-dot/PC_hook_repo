@@ -1,0 +1,346 @@
+[
+  {
+    "bufLen": 42,
+    "buf": "00000026000000000000018ebe73140c30f035ce8870f565bbc845ad99a6a2beab44ef80c730e7b9d6b5",
+    "stackCompacts": [
+      {
+        "off": 12,
+        "val": "01000000"
+      },
+      {
+        "off": 196,
+        "val": "01000000"
+      },
+      {
+        "off": 488,
+        "val": "01000000"
+      },
+      {
+        "off": 544,
+        "val": "01000000"
+      },
+      {
+        "off": 616,
+        "val": "01000000"
+      },
+      {
+        "off": 704,
+        "val": "01000000"
+      },
+      {
+        "off": 912,
+        "val": "01000000"
+      }
+    ],
+    "frames": [
+      {
+        "fi": 0,
+        "ret": "0x990e75d",
+        "rva": "0x963e75d",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -100,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 1,
+        "ret": "0x990e58a",
+        "rva": "0x963e58a",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -72,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 2,
+        "ret": "0x9908a87",
+        "rva": "0x9638a87",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": 16,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 3,
+        "ret": "0x9911279",
+        "rva": "0x9641279",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -60,
+            "val": "01000000"
+          },
+          {
+            "off": -4,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 4,
+        "ret": "0x66114b",
+        "rva": "0x39114b",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -104,
+            "val": "01000000"
+          },
+          {
+            "off": -32,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 5,
+        "ret": "0x660b39",
+        "rva": "0x390b39",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -92,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 6,
+        "ret": "0x7193f2",
+        "rva": "0x4493f2",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -4,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 7,
+        "ret": "0x719fa7",
+        "rva": "0x449fa7",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -52,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 8,
+        "ret": "0x71aacd",
+        "rva": "0x44aacd",
+        "inWx": true,
+        "localCompacts": []
+      },
+      {
+        "fi": 9,
+        "ret": "0x76114f9f",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      },
+      {
+        "fi": 10,
+        "ret": "0x76c8fcc9",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      },
+      {
+        "fi": 11,
+        "ret": "0x773482ae",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      }
+    ]
+  },
+  {
+    "bufLen": 42,
+    "buf": "00000026000000000000019082f9cffd86cacc67b704a326ae3f2fbc7fa4675b647f3dd4ab059b7f9f5b",
+    "stackCompacts": [
+      {
+        "off": 12,
+        "val": "01000000"
+      },
+      {
+        "off": 196,
+        "val": "01000000"
+      },
+      {
+        "off": 408,
+        "val": "01000000"
+      },
+      {
+        "off": 488,
+        "val": "01000000"
+      },
+      {
+        "off": 544,
+        "val": "01000000"
+      },
+      {
+        "off": 616,
+        "val": "01000000"
+      },
+      {
+        "off": 704,
+        "val": "01000000"
+      },
+      {
+        "off": 912,
+        "val": "01000000"
+      }
+    ],
+    "frames": [
+      {
+        "fi": 0,
+        "ret": "0x990e75d",
+        "rva": "0x963e75d",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -100,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 1,
+        "ret": "0x990e58a",
+        "rva": "0x963e58a",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -72,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 2,
+        "ret": "0x9908a87",
+        "rva": "0x9638a87",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -64,
+            "val": "01000000"
+          },
+          {
+            "off": 16,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 3,
+        "ret": "0x9911279",
+        "rva": "0x9641279",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -60,
+            "val": "01000000"
+          },
+          {
+            "off": -4,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 4,
+        "ret": "0x66114b",
+        "rva": "0x39114b",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -104,
+            "val": "01000000"
+          },
+          {
+            "off": -32,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 5,
+        "ret": "0x660b39",
+        "rva": "0x390b39",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -92,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 6,
+        "ret": "0x7193f2",
+        "rva": "0x4493f2",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -4,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 7,
+        "ret": "0x719fa7",
+        "rva": "0x449fa7",
+        "inWx": true,
+        "localCompacts": [
+          {
+            "off": -52,
+            "val": "01000000"
+          }
+        ]
+      },
+      {
+        "fi": 8,
+        "ret": "0x71aacd",
+        "rva": "0x44aacd",
+        "inWx": true,
+        "localCompacts": []
+      },
+      {
+        "fi": 9,
+        "ret": "0x76114f9f",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      },
+      {
+        "fi": 10,
+        "ret": "0x76c8fcc9",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      },
+      {
+        "fi": 11,
+        "ret": "0x773482ae",
+        "rva": null,
+        "inWx": false,
+        "localCompacts": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "ok": false,
+  "steps": [
+    "FileService=0x2b75f000",
+    "InitFromDefault"
+  ],
+  "file_service_hits": [
+    "0x2b75f000"
+  ],
+  "this_va": "0x2b75f000",
+  "inner_va": "0x2b5983c0",
+  "inner_gate_48": 632597964,
+  "default_param": {
+    "va": "0xbc8b35",
+    "rva": "0xa08b35",
+    "dwords": [
+      194337624,
+      3322168969,
+      2298608709,
+      1183385670,
+      4243890444,
+      3229945046,
+      4100459380,
+      3893155580,
+      150069607,
+      3644897369,
+      2123173716
+    ]
+  },
+  "err": "param init failed: access violation accessing 0x787ba60a"
+}

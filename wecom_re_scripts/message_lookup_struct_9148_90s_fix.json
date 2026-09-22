@@ -1,0 +1,357 @@
+{
+  "pid": 9148,
+  "addr": "0xa6316d0",
+  "duration_s": 90,
+  "max_events": 3,
+  "event_count": 1,
+  "events": [
+    {
+      "ts": 1788939787260,
+      "ret": "0xe6b0a4",
+      "a0": "0x24dc36d8",
+      "a1": "0x24dc3720",
+      "a2": "0x18bafa58",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "h1": "24dc3720  00 c5 c3 00 6d 56 75 59 f5 7d 86 0d 32 12 04 88  ....mVuY.}..2...\n24dc3730  73 65 6c 65 63 74 20 73 65 71 75 65 6e 63 65 2c  select sequence,\n24dc3740  20 73 65 6e 64 5f 74 69 6d 65 20 66 72 6f 6d 20   send_time from \n24dc3750  6d 65 73 73 61 67 65 5f 74 61 62 6c 65 20 77 68  message_table wh\n24dc3760  65 72 65 20 6d 65 73 73 61 67 65 5f 69 64 20 3d  ere message_id =\n24dc3770  20 3f 20 6c 69 6d 69 74 20 31 3b 00 00 00 00 00   ? limit 1;.....\n24dc3780  e0 7d 89 0d 6d 13 04 88 b8 10 2e 26 d0 b2 65 26  .}..m......&..e&\n24dc3790  d0 50 52 26 00 00 00 00 00 00 00 00 c0 c2 2d 3d  .PR&..........-=\n24dc37a0  00 00 00 00 06 00 00 00 01 00 00 00 04 02 00 00  ................\n24dc37b0  00 00 05 00 c8 00 2b 00 0a 00 00 00 e9 00 00 00  ......+.........\n24dc37c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n24dc37d0  40 2a f4 25 00 00 00 00 eb 7d 9c 0d 56 14 04 88  @*.%.....}..V...",
+      "a2_hd": "18bafa58  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n18bafa68  00 00 00 00 07 00 00 00 c0 fa ba 18 14 65 63 26  .............ec&\n18bafa78  21 84 89 e8 d8 fa ba 18 d6 86 06 0b ff ff ff ff  !...............\n18bafa88  e4 fa ba 18 29 59 f3 08 4d 84 89 e8 20 39 53 26  ....)Y..M... 9S&\n18bafa98  58 4a 26 3d 28 42 93 17 20 39 53 26 00 b2 eb 08  XJ&=(B.. 9S&....\n18bafaa8  28 42 93 17 f4 fa ba 18 f4 fa ba 18 00 00 00 00  (B..............\n18bafab8  08 4a 26 3d 70 c7 5e 26 b8 c7 5e 26 14 65 63 26  .J&=p.^&..^&.ec&\n18bafac8  08 65 63 26 00 00 00 00 4d 84 89 e8 90 fa ba 18  .ec&....M.......\n18bafad8  00 fb ba 18 a5 7f 06 0b 01 00 00 00 0c fb ba 18  ................\n18bafae8  58 b2 eb 08 a5 85 89 e8 00 b2 eb 08 08 4a 26 3d  X............J&=\n18bafaf8  1e 00 00 00 a5 85 89 e8 38 fb ba 18 8d f2 05 0b  ........8.......\n18bafb08  00 00 00 00 44 fb ba 18 6c 9b 71 09 ed 85 89 e8  ....D...l.q.....\n18bafb18  fc 1c 97 2b e0 9a 71 09 28 42 93 17 3a c5 22 2b  ...+..q.(B..:.\"+\n18bafb28  fc 1c 97 2b 20 39 53 26 10 39 53 26 fc 1c 97 2b  ...+ 9S&.9S&...+\n18bafb38  ac fb ba 18 b5 72 8e 0a 00 00 00 00 b8 fb ba 18  .....r..........\n18bafb48  9e 6d e3 09 fc 1c 97 2b 30 6d e3 09 e9 0c 3e 03  .m.....+0m....>.",
+      "a2_decoded": [
+        {
+          "off": 0,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 4,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 8,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 12,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 16,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 20,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 24,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 28,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 32,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 36,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 40,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 44,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 48,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 52,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 56,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 60,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 64,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 68,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 72,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 76,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 80,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 84,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 88,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 92,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 96,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 100,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 104,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 108,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 112,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 116,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 120,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 124,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 128,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 132,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 136,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 140,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 144,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 148,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 152,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        },
+        {
+          "off": 156,
+          "u32": "0x0",
+          "as_ptr": "0x0",
+          "ptr_s8": "",
+          "ptr_s16": "",
+          "ptr_hd": ""
+        }
+      ],
+      "bt": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+        "0xf1aacd WXWork.exe!tinyxml2::XMLText::CData",
+        "0x75d34f9f WXWork.exe!o_iswdigit",
+        "0x767dfcc9 WXWork.exe!BaseThreadInitThunk"
+      ]
+    }
+  ]
+}

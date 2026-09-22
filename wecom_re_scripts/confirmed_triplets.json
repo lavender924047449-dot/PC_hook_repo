@@ -1,0 +1,216 @@
+{
+  "count": 9,
+  "triplets": [
+    {
+      "addr": "0x266689b8",
+      "message_id": 187144276,
+      "message_id_hex": "0xb279854",
+      "prev_val": 9223430315170139614,
+      "sequence": 1,
+      "send_time_ms": 1788959471492,
+      "send_time_s": 1788959471,
+      "send_time_dt": "2026-09-09 13:11",
+      "valid": true
+    },
+    {
+      "addr": "0xfb19ee8",
+      "message_id": 386221716,
+      "message_id_hex": "0x17054694",
+      "prev_val": 1658809639611221632,
+      "sequence": 1,
+      "send_time_ms": 1788953999759,
+      "send_time_s": 1788953999,
+      "send_time_dt": "2026-09-09 11:39",
+      "valid": true
+    },
+    {
+      "addr": "0x2659ddd8",
+      "message_id": 4280,
+      "message_id_hex": "0x10b8",
+      "prev_val": 2019032102573441024,
+      "sequence": 11498,
+      "send_time_ms": 1700807049248,
+      "send_time_s": 1700807049,
+      "send_time_dt": "2023-11-24 06:24",
+      "valid": true
+    },
+    {
+      "addr": "0x2659e408",
+      "message_id": 442490,
+      "message_id_hex": "0x6c07a",
+      "prev_val": 150178224,
+      "sequence": 50360,
+      "send_time_ms": 1773821493299,
+      "send_time_s": 1773821493,
+      "send_time_dt": "2026-03-18 08:11",
+      "valid": true
+    },
+    {
+      "addr": "0x2752d2d8",
+      "message_id": 5995774346415,
+      "message_id_hex": "0x574000004af",
+      "prev_val": 655,
+      "sequence": 1038,
+      "send_time_ms": 1705102016536,
+      "send_time_s": 1705102016,
+      "send_time_dt": "2024-01-12 23:26",
+      "valid": true
+    },
+    {
+      "addr": "0x2752d49c",
+      "message_id": 0,
+      "message_id_hex": "0x0",
+      "prev_val": 2177548420318,
+      "sequence": 68,
+      "send_time_ms": 1735166788534,
+      "send_time_s": 1735166788,
+      "send_time_dt": "2024-12-25 22:46",
+      "valid": true
+    },
+    {
+      "addr": "0x2752d75c",
+      "message_id": 3448858738688,
+      "message_id_hex": "0x32300000000",
+      "prev_val": 150323856431,
+      "sequence": 1430,
+      "send_time_ms": 1782411427840,
+      "send_time_s": 1782411427,
+      "send_time_dt": "2026-06-25 18:17",
+      "valid": true
+    },
+    {
+      "addr": "0x260aca40",
+      "message_id": 1352914698534,
+      "message_id_hex": "0x13b00000126",
+      "prev_val": 1172526072060,
+      "sequence": 336,
+      "send_time_ms": 1713691951482,
+      "send_time_s": 1713691951,
+      "send_time_dt": "2024-04-21 09:32",
+      "valid": true
+    },
+    {
+      "addr": "0x2797fe54",
+      "message_id": 7683651181279425376,
+      "message_id_hex": "0x6aa1d00a262bb360",
+      "prev_val": 3156742241767129088,
+      "sequence": 202,
+      "send_time_ms": 1786706395136,
+      "send_time_s": 1786706395,
+      "send_time_dt": "2026-08-14 11:19",
+      "valid": true
+    }
+  ],
+  "all": [
+    {
+      "addr": "0x266689b8",
+      "message_id": 187144276,
+      "message_id_hex": "0xb279854",
+      "prev_val": 9223430315170139614,
+      "sequence": 1,
+      "send_time_ms": 1788959471492,
+      "send_time_s": 1788959471,
+      "send_time_dt": "2026-09-09 13:11",
+      "valid": true
+    },
+    {
+      "addr": "0xfb19ee8",
+      "message_id": 386221716,
+      "message_id_hex": "0x17054694",
+      "prev_val": 1658809639611221632,
+      "sequence": 1,
+      "send_time_ms": 1788953999759,
+      "send_time_s": 1788953999,
+      "send_time_dt": "2026-09-09 11:39",
+      "valid": true
+    },
+    {
+      "addr": "0x2659ddd8",
+      "message_id": 4280,
+      "message_id_hex": "0x10b8",
+      "prev_val": 2019032102573441024,
+      "sequence": 11498,
+      "send_time_ms": 1700807049248,
+      "send_time_s": 1700807049,
+      "send_time_dt": "2023-11-24 06:24",
+      "valid": true
+    },
+    {
+      "addr": "0x2659e408",
+      "message_id": 442490,
+      "message_id_hex": "0x6c07a",
+      "prev_val": 150178224,
+      "sequence": 50360,
+      "send_time_ms": 1773821493299,
+      "send_time_s": 1773821493,
+      "send_time_dt": "2026-03-18 08:11",
+      "valid": true
+    },
+    {
+      "addr": "0x2659e828",
+      "message_id": 2019023306480433208,
+      "message_id_hex": "0x1c05030000003838",
+      "prev_val": 3761411932175284278,
+      "sequence": 8244215616502855233,
+      "send_time_ms": 2019021109275489652,
+      "send_time_s": 2019021109275489,
+      "send_time_dt": "invalid",
+      "valid": false
+    },
+    {
+      "addr": "0x2752d2d8",
+      "message_id": 5995774346415,
+      "message_id_hex": "0x574000004af",
+      "prev_val": 655,
+      "sequence": 1038,
+      "send_time_ms": 1705102016536,
+      "send_time_s": 1705102016,
+      "send_time_dt": "2024-01-12 23:26",
+      "valid": true
+    },
+    {
+      "addr": "0x2752d49c",
+      "message_id": 0,
+      "message_id_hex": "0x0",
+      "prev_val": 2177548420318,
+      "sequence": 68,
+      "send_time_ms": 1735166788534,
+      "send_time_s": 1735166788,
+      "send_time_dt": "2024-12-25 22:46",
+      "valid": true
+    },
+    {
+      "addr": "0x2752d75c",
+      "message_id": 3448858738688,
+      "message_id_hex": "0x32300000000",
+      "prev_val": 150323856431,
+      "sequence": 1430,
+      "send_time_ms": 1782411427840,
+      "send_time_s": 1782411427,
+      "send_time_dt": "2026-06-25 18:17",
+      "valid": true
+    },
+    {
+      "addr": "0x260aca40",
+      "message_id": 1352914698534,
+      "message_id_hex": "0x13b00000126",
+      "prev_val": 1172526072060,
+      "sequence": 336,
+      "send_time_ms": 1713691951482,
+      "send_time_s": 1713691951,
+      "send_time_dt": "2024-04-21 09:32",
+      "valid": true
+    },
+    {
+      "addr": "0x2797fe54",
+      "message_id": 7683651181279425376,
+      "message_id_hex": "0x6aa1d00a262bb360",
+      "prev_val": 3156742241767129088,
+      "sequence": 202,
+      "send_time_ms": 1786706395136,
+      "send_time_s": 1786706395,
+      "send_time_dt": "2026-08-14 11:19",
+      "valid": true
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "ts": "20260914_113412",
+  "pid": 16604,
+  "module": {
+    "t": "mod",
+    "name": "WXWork.exe",
+    "base": "0x5e0000",
+    "size": 270573568
+  },
+  "sections": {
+    "t": "sections",
+    "text": {
+      "base": "0x5e1000",
+      "size": 176143000,
+      "rva": 4096
+    },
+    "rdata": {
+      "base": "0xaddd000",
+      "size": 36863944,
+      "rva": 176148480
+    }
+  },
+  "results": [
+    {
+      "t": "str",
+      "s": "PreSendNewMessage client_id: ",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "PreSendNewMessage",
+      "count": 1,
+      "str_hits": [
+        "0xba87b3c"
+      ],
+      "xrefs": [
+        {
+          "str_addr": "0xba87b3c",
+          "str_rva": "0xb4a7b3c",
+          "xref_count": 1,
+          "funcs": [
+            {
+              "xref": "0x9780233",
+              "xref_rva": "0x91a0233",
+              "func": "0x977ffb2",
+              "func_rva": "0x919ffb2",
+              "distance": 641
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "t": "str",
+      "s": "weworklocal::logic::PreSendMessageTask2::PreSendNewMessage",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "ConstructMessageProtobuf",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "PreSendMessageTask2",
+      "count": 3,
+      "str_hits": [
+        "0xb19dbe5",
+        "0xb19dc48",
+        "0xb19dd0d"
+      ],
+      "xrefs": [
+        {
+          "str_addr": "0xb19dbe5",
+          "str_rva": "0xabbdbe5",
+          "xref_count": 0,
+          "funcs": []
+        },
+        {
+          "str_addr": "0xb19dc48",
+          "str_rva": "0xabbdc48",
+          "xref_count": 1,
+          "funcs": [
+            {
+              "xref": "0x318688b",
+              "xref_rva": "0x2ba688b",
+              "func": "0x3186452",
+              "func_rva": "0x2ba6452",
+              "distance": 1081
+            }
+          ]
+        },
+        {
+          "str_addr": "0xb19dd0d",
+          "str_rva": "0xabbdd0d",
+          "xref_count": 0,
+          "funcs": []
+        }
+      ]
+    },
+    {
+      "t": "str",
+      "s": "weworklocal::logic::PreSendMessageTask2",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "ProcessForwardMessage",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "wework::logic::PreSendMessageTask2",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "wework::logic::PreSendMessageTask2::PreSendNewMessage",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "ChatRequestPackage",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    },
+    {
+      "t": "str",
+      "s": "SerializeToString",
+      "count": 7,
+      "str_hits": [
+        "0xb114ab0",
+        "0xb1d1156",
+        "0xb1d1181",
+        "0xb1e21fd",
+        "0xb9871d7"
+      ],
+      "xrefs": [
+        {
+          "str_addr": "0xb114ab0",
+          "str_rva": "0xab34ab0",
+          "xref_count": 0,
+          "funcs": []
+        },
+        {
+          "str_addr": "0xb1d1156",
+          "str_rva": "0xabf1156",
+          "xref_count": 0,
+          "funcs": []
+        },
+        {
+          "str_addr": "0xb1d1181",
+          "str_rva": "0xabf1181",
+          "xref_count": 0,
+          "funcs": []
+        }
+      ]
+    },
+    {
+      "t": "str",
+      "s": "col::ChatRequestPackage",
+      "count": 0,
+      "hits": [],
+      "xrefs": []
+    }
+  ]
+}

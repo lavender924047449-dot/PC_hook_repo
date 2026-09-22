@@ -1,0 +1,14 @@
+{
+  "mode": "MIN",
+  "msgtype_new": 34,
+  "msgtype_off": 304,
+  "probe_hits": 0,
+  "reports": [
+    {
+      "sn": 1,
+      "retval": "0x14b7dce0",
+      "ser_hits": 5
+    }
+  ],
+  "inject_map": []
+}

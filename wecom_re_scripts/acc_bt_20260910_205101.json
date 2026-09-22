@@ -1,0 +1,117 @@
+[
+  {
+    "n": 1,
+    "s0": "replace into %s(%s, %s) values(?, ?)����AddKeyValues(%i)������m\fp�\u0011\u0003�o/\u0002P�\u0011\u0003�!��",
+    "acc": [
+      "0x314dc62(WXWork.exe+0x23cdc62)",
+      "0x1023810(WXWork.exe+0x2a3810)",
+      "0x314f3c4(WXWork.exe+0x23cf3c4)",
+      "0x3a97b59(WXWork.exe+0x2d17b59)",
+      "0x3a89624(WXWork.exe+0x2d09624)",
+      "0x3aa7491(WXWork.exe+0x2d27491)",
+      "0x116cd62(WXWork.exe+0x3ecd62)",
+      "0x116bf6c(WXWork.exe+0x3ebf6c)",
+      "0x116baa7(WXWork.exe+0x3ebaa7)",
+      "0x116ac43(WXWork.exe+0x3eac43)",
+      "0x99caef0(WXWork.exe+0x8c4aef0)",
+      "0x3aa2025(WXWork.exe+0x2d22025)",
+      "0x9e2eff1(WXWork.exe+0x90aeff1)",
+      "0x9e17f39(WXWork.exe+0x9097f39)",
+      "0x11f7584(WXWork.exe+0x477584)",
+      "0x11f7418(WXWork.exe+0x477418)"
+    ],
+    "tid": 48556
+  },
+  {
+    "n": 2,
+    "s0": "replace into %s(%s, %s) values(?, ?)����AddKeyValues(%i)������m\fp�\u0011\u0003�o/\u0002P�\u0011\u0003�!��",
+    "acc": [
+      "0x9052c51(WXWork.exe+0x82d2c51)",
+      "0x1023810(WXWork.exe+0x2a3810)",
+      "0x9057c96(WXWork.exe+0x82d7c96)",
+      "0x99479ad(WXWork.exe+0x8bc79ad)",
+      "0x357e1fa(WXWork.exe+0x27fe1fa)",
+      "0x2eee172(WXWork.exe+0x216e172)",
+      "0x357e47e(WXWork.exe+0x27fe47e)",
+      "0xa3b0c15(WXWork.exe+0x9630c15)",
+      "0xa4781fd(WXWork.exe+0x96f81fd)",
+      "0xa5a341f(WXWork.exe+0x982341f)",
+      "0x11caa4a(WXWork.exe+0x44aa4a)",
+      "0x111114b(WXWork.exe+0x39114b)",
+      "0x1110b39(WXWork.exe+0x390b39)",
+      "0x11c93f2(WXWork.exe+0x4493f2)",
+      "0x11c9fa7(WXWork.exe+0x449fa7)",
+      "0x11caacd(WXWork.exe+0x44aacd)"
+    ],
+    "tid": 20252
+  },
+  {
+    "n": 3,
+    "s0": "replace into %s(%s, %s) values(?, ?)����AddKeyValues(%i)������m\fp�\u0011\u0003�o/\u0002P�\u0011\u0003�!��",
+    "acc": [
+      "0x9052c51(WXWork.exe+0x82d2c51)",
+      "0x1023810(WXWork.exe+0x2a3810)",
+      "0x9057c96(WXWork.exe+0x82d7c96)",
+      "0x95a9c5f(WXWork.exe+0x8829c5f)",
+      "0x94f0081(WXWork.exe+0x8770081)",
+      "0x963d955(WXWork.exe+0x88bd955)",
+      "0x2e6ec30(WXWork.exe+0x20eec30)",
+      "0x9416dca(WXWork.exe+0x8696dca)",
+      "0x94a03dc(WXWork.exe+0x87203dc)",
+      "0x961c0a3(WXWork.exe+0x889c0a3)",
+      "0xa3b0c15(WXWork.exe+0x9630c15)",
+      "0xa4781fd(WXWork.exe+0x96f81fd)",
+      "0xa5a341f(WXWork.exe+0x982341f)",
+      "0x11f7584(WXWork.exe+0x477584)",
+      "0x11f7418(WXWork.exe+0x477418)",
+      "0x76561c0b(USER32.dll+0x41c0b)"
+    ],
+    "tid": 48556
+  },
+  {
+    "n": 4,
+    "s0": "replace into %s(%s, %s) values(?, ?)����AddKeyValues(%i)������m\fp�\u0011\u0003�o/\u0002P�\u0011\u0003�!��",
+    "acc": [
+      "0x9052c51(WXWork.exe+0x82d2c51)",
+      "0x1023810(WXWork.exe+0x2a3810)",
+      "0x9057c96(WXWork.exe+0x82d7c96)",
+      "0x99479ad(WXWork.exe+0x8bc79ad)",
+      "0x94f0131(WXWork.exe+0x8770131)",
+      "0x963d955(WXWork.exe+0x88bd955)",
+      "0x2e6ec30(WXWork.exe+0x20eec30)",
+      "0x9416dca(WXWork.exe+0x8696dca)",
+      "0x94a03dc(WXWork.exe+0x87203dc)",
+      "0x961c0a3(WXWork.exe+0x889c0a3)",
+      "0xa3b0c15(WXWork.exe+0x9630c15)",
+      "0xa4781fd(WXWork.exe+0x96f81fd)",
+      "0xa5a341f(WXWork.exe+0x982341f)",
+      "0x11f7584(WXWork.exe+0x477584)",
+      "0x11f7418(WXWork.exe+0x477418)",
+      "0x76561c0b(USER32.dll+0x41c0b)"
+    ],
+    "tid": 48556
+  },
+  {
+    "n": 5,
+    "s0": "replace into %s(%s, %s) values(?, ?)����AddKeyValues(%i)������m\fp�\u0011\u0003�o/\u0002P�\u0011\u0003�!��",
+    "acc": [
+      "0x9052c51(WXWork.exe+0x82d2c51)",
+      "0x1023810(WXWork.exe+0x2a3810)",
+      "0x9057c96(WXWork.exe+0x82d7c96)",
+      "0x9947a8c(WXWork.exe+0x8bc7a8c)",
+      "0x94f6834(WXWork.exe+0x8776834)",
+      "0x9642ad5(WXWork.exe+0x88c2ad5)",
+      "0x2e6ec30(WXWork.exe+0x20eec30)",
+      "0x941b2ba(WXWork.exe+0x869b2ba)",
+      "0x94bb75c(WXWork.exe+0x873b75c)",
+      "0x9621483(WXWork.exe+0x88a1483)",
+      "0xa3b0c15(WXWork.exe+0x9630c15)",
+      "0xa4781fd(WXWork.exe+0x96f81fd)",
+      "0xa5a341f(WXWork.exe+0x982341f)",
+      "0x11f7584(WXWork.exe+0x477584)",
+      "0x11f7418(WXWork.exe+0x477418)",
+      "0x76561c0b(USER32.dll+0x41c0b)"
+    ],
+    "tid": 48556
+  }
+]

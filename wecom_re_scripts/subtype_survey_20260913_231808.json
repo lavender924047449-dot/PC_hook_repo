@@ -1,0 +1,50 @@
+{
+  "pid": 28504,
+  "duration_s": 300,
+  "stats": {
+    "7": {
+      "count": 1,
+      "first_ts": 1789312583314,
+      "last_ts": 1789312583314,
+      "samples": [
+        {
+          "task": "0x262afc78",
+          "pkg": "33fc52f8",
+          "conv": "FILEASSIST",
+          "clientMsgId": "CIGAEBDH/JrVBhjzrZynk4CAAyAG",
+          "body_first64_hex": "126865727a696e63616e6c6565303735335f416e5f61627374726163745f68756d616e5f73696c686f75657474655f6d6164655f6f665f736f66745f6c756d69",
+          "body_sz": 244,
+          "off54_hex": "66616365",
+          "ts": 1789312583314
+        }
+      ]
+    },
+    "8": {
+      "count": 2,
+      "first_ts": 1789312568273,
+      "last_ts": 1789312593906,
+      "samples": [
+        {
+          "task": "0x262b0208",
+          "pkg": "33fc4de8",
+          "conv": "FILEASSIST",
+          "clientMsgId": "CIGAEBC4/JrVBhjzrZynk4CAAyAF",
+          "body_first64_hex": "1235446176696420776f6e6720506572736f6e616c6974792c204964656e746974792c20616e642043686172616374657220452e70646620efdb117800a2064d",
+          "body_sz": 141,
+          "off54_hex": "00000000",
+          "ts": 1789312568273
+        },
+        {
+          "task": "0x2630ca88",
+          "pkg": "315db840",
+          "conv": "FILEASSIST",
+          "clientMsgId": "CIGAEBDR/JrVBhjzrZynk4CAAyAH",
+          "body_first64_hex": "121c323032365f30395f31335f32315f30355f32345f3532332e73696c6b2083327800a20662433a5c55736572735c4c454e4f564f5c446f63756d656e74735c",
+          "body_sz": 136,
+          "off54_hex": "0f000000",
+          "ts": 1789312593906
+        }
+      ]
+    }
+  }
+}

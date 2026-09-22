@@ -1,0 +1,1461 @@
+{
+  "pid": 9148,
+  "addr": "0xa6316d0",
+  "duration_s": 180,
+  "max_events": 8,
+  "event_count": 4,
+  "events": [
+    {
+      "ts": 1788939426238,
+      "ret": "0xe6b0a4",
+      "regs": {
+        "eax": "0x24dc36d8",
+        "ebx": "0x17934228",
+        "ecx": "0x24dc3720",
+        "edx": "0x0",
+        "esi": "0x18bafa58",
+        "edi": "0x18bafa58",
+        "ebp": "0x18baf980",
+        "esp": "0x18baf94c"
+      },
+      "a0": "0x24dc36d8",
+      "a1": "0x24dc3720",
+      "a2": "0x18bafa58",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "s1": "",
+      "s2": "",
+      "h0": "24dc36d8  43 3a 5c 55 73 65 72 73 5c 4c 45 4e 4f 56 4f 5c  C:\\Users\\LENOVO\\\n24dc36e8  44 6f 63 75 6d 65 6e 74 73 5c 57 58 57 6f 72 6b  Documents\\WXWork\n24dc36f8  5c 31 36 38 38 38 35 35 30 34 32 37 39 31 31 35  \\168885504279115\n24dc3708  35 5c 44 61 74 61 5c 6d 65 73 73 61 67 65 5f 6c  5\\Data\\message_l\n24dc3718  6f 6f 6b 75 70 2e 64 62 00 c5 c3 00 6d 56 75 59  ookup.db....mVuY\n24dc3728  f5 7d 86 0d 32 12 04 88 73 65 6c 65 63 74 20 73  .}..2...select s\n24dc3738  65 71 75 65 6e 63 65 2c 20 73 65 6e 64 5f 74 69  equence, send_ti\n24dc3748  6d 65 20 66 72 6f 6d 20 6d 65 73 73 61 67 65 5f  me from message_\n24dc3758  74 61 62 6c 65 20 77 68 65 72 65 20 6d 65 73 73  table where mess\n24dc3768  61 67 65 5f 69 64 20 3d 20 3f 20 6c 69 6d 69 74  age_id = ? limit\n24dc3778  20 31 3b 00 00 00 00 00 e0 7d 89 0d 6d 13 04 88   1;......}..m...\n24dc3788  b8 10 2e 26 d0 b2 65 26 d0 50 52 26 00 00 00 00  ...&..e&.PR&....\n24dc3798  00 00 00 00 c0 c2 2d 3d 00 00 00 00 06 00 00 00  ......-=........\n24dc37a8  01 00 00 00 04 02 00 00 00 00 05 00 c8 00 2b 00  ..............+.",
+      "h1": "24dc3720  00 c5 c3 00 6d 56 75 59 f5 7d 86 0d 32 12 04 88  ....mVuY.}..2...\n24dc3730  73 65 6c 65 63 74 20 73 65 71 75 65 6e 63 65 2c  select sequence,\n24dc3740  20 73 65 6e 64 5f 74 69 6d 65 20 66 72 6f 6d 20   send_time from \n24dc3750  6d 65 73 73 61 67 65 5f 74 61 62 6c 65 20 77 68  message_table wh\n24dc3760  65 72 65 20 6d 65 73 73 61 67 65 5f 69 64 20 3d  ere message_id =\n24dc3770  20 3f 20 6c 69 6d 69 74 20 31 3b 00 00 00 00 00   ? limit 1;.....\n24dc3780  e0 7d 89 0d 6d 13 04 88 b8 10 2e 26 d0 b2 65 26  .}..m......&..e&\n24dc3790  d0 50 52 26 00 00 00 00 00 00 00 00 c0 c2 2d 3d  .PR&..........-=\n24dc37a0  00 00 00 00 06 00 00 00 01 00 00 00 04 02 00 00  ................\n24dc37b0  00 00 05 00 c8 00 2b 00 0a 00 00 00 e9 00 00 00  ......+.........\n24dc37c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n24dc37d0  40 2a f4 25 00 00 00 00 eb 7d 9c 0d 56 14 04 88  @*.%.....}..V...\n24dc37e0  58 a3 65 26 68 b4 65 26 00 00 00 00 00 00 00 00  X.e&h.e&........\n24dc37f0  00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00  ................",
+      "h2": "18bafa58  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n18bafa68  00 00 00 00 07 00 00 00 c0 fa ba 18 14 65 63 26  .............ec&\n18bafa78  21 84 89 e8 d8 fa ba 18 d6 86 06 0b ff ff ff ff  !...............\n18bafa88  e4 fa ba 18 29 59 f3 08 4d 84 89 e8 20 39 53 26  ....)Y..M... 9S&\n18bafa98  98 02 86 31 28 42 93 17 20 39 53 26 00 b2 eb 08  ...1(B.. 9S&....\n18bafaa8  28 42 93 17 f4 fa ba 18 f4 fa ba 18 00 00 00 00  (B..............\n18bafab8  30 06 86 31 70 c7 5e 26 b8 c7 5e 26 14 65 63 26  0..1p.^&..^&.ec&\n18bafac8  08 65 63 26 00 00 00 00 4d 84 89 e8 90 fa ba 18  .ec&....M.......\n18bafad8  00 fb ba 18 a5 7f 06 0b 01 00 00 00 0c fb ba 18  ................\n18bafae8  58 b2 eb 08 a5 85 89 e8 00 b2 eb 08 30 06 86 31  X...........0..1\n18bafaf8  1e 00 00 00 a5 85 89 e8 38 fb ba 18 8d f2 05 0b  ........8.......\n18bafb08  00 00 00 00 44 fb ba 18 6c 9b 71 09 ed 85 89 e8  ....D...l.q.....\n18bafb18  fc 1c 97 2b e0 9a 71 09 28 42 93 17 3a c5 22 2b  ...+..q.(B..:.\"+\n18bafb28  fc 1c 97 2b 20 39 53 26 10 39 53 26 fc 1c 97 2b  ...+ 9S&.9S&...+",
+      "stack": [
+        {
+          "off": 0,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 4,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 8,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 12,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 16,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 20,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 24,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 28,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 32,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 36,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 40,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 44,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 48,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 52,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 56,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 60,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 64,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 68,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 72,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 76,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 80,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 84,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 88,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 92,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 96,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 100,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 104,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 108,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 112,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 116,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 120,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 124,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 128,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 132,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 136,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 140,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 144,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 148,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 152,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 156,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        }
+      ],
+      "bt": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+        "0xf1aacd WXWork.exe!tinyxml2::XMLText::CData",
+        "0x75d34f9f WXWork.exe!o_iswdigit",
+        "0x767dfcc9 WXWork.exe!BaseThreadInitThunk",
+        "0x776982ae WXWork.exe!RtlGetAppContainerNamedObjectPath",
+        "0x7769827e WXWork.exe!RtlGetAppContainerNamedObjectPath"
+      ]
+    },
+    {
+      "ts": 1788939456574,
+      "ret": "0xe6b0a4",
+      "regs": {
+        "eax": "0x24dc36d8",
+        "ebx": "0x17934228",
+        "ecx": "0x24dc3720",
+        "edx": "0x0",
+        "esi": "0x18bafa58",
+        "edi": "0x18bafa58",
+        "ebp": "0x18baf980",
+        "esp": "0x18baf94c"
+      },
+      "a0": "0x24dc36d8",
+      "a1": "0x24dc3720",
+      "a2": "0x18bafa58",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "s1": "",
+      "s2": "",
+      "h0": "24dc36d8  43 3a 5c 55 73 65 72 73 5c 4c 45 4e 4f 56 4f 5c  C:\\Users\\LENOVO\\\n24dc36e8  44 6f 63 75 6d 65 6e 74 73 5c 57 58 57 6f 72 6b  Documents\\WXWork\n24dc36f8  5c 31 36 38 38 38 35 35 30 34 32 37 39 31 31 35  \\168885504279115\n24dc3708  35 5c 44 61 74 61 5c 6d 65 73 73 61 67 65 5f 6c  5\\Data\\message_l\n24dc3718  6f 6f 6b 75 70 2e 64 62 00 c5 c3 00 6d 56 75 59  ookup.db....mVuY\n24dc3728  f5 7d 86 0d 32 12 04 88 73 65 6c 65 63 74 20 73  .}..2...select s\n24dc3738  65 71 75 65 6e 63 65 2c 20 73 65 6e 64 5f 74 69  equence, send_ti\n24dc3748  6d 65 20 66 72 6f 6d 20 6d 65 73 73 61 67 65 5f  me from message_\n24dc3758  74 61 62 6c 65 20 77 68 65 72 65 20 6d 65 73 73  table where mess\n24dc3768  61 67 65 5f 69 64 20 3d 20 3f 20 6c 69 6d 69 74  age_id = ? limit\n24dc3778  20 31 3b 00 00 00 00 00 e0 7d 89 0d 6d 13 04 88   1;......}..m...\n24dc3788  b8 10 2e 26 d0 b2 65 26 d0 50 52 26 00 00 00 00  ...&..e&.PR&....\n24dc3798  00 00 00 00 c0 c2 2d 3d 00 00 00 00 06 00 00 00  ......-=........\n24dc37a8  01 00 00 00 04 02 00 00 00 00 05 00 c8 00 2b 00  ..............+.",
+      "h1": "24dc3720  00 c5 c3 00 6d 56 75 59 f5 7d 86 0d 32 12 04 88  ....mVuY.}..2...\n24dc3730  73 65 6c 65 63 74 20 73 65 71 75 65 6e 63 65 2c  select sequence,\n24dc3740  20 73 65 6e 64 5f 74 69 6d 65 20 66 72 6f 6d 20   send_time from \n24dc3750  6d 65 73 73 61 67 65 5f 74 61 62 6c 65 20 77 68  message_table wh\n24dc3760  65 72 65 20 6d 65 73 73 61 67 65 5f 69 64 20 3d  ere message_id =\n24dc3770  20 3f 20 6c 69 6d 69 74 20 31 3b 00 00 00 00 00   ? limit 1;.....\n24dc3780  e0 7d 89 0d 6d 13 04 88 b8 10 2e 26 d0 b2 65 26  .}..m......&..e&\n24dc3790  d0 50 52 26 00 00 00 00 00 00 00 00 c0 c2 2d 3d  .PR&..........-=\n24dc37a0  00 00 00 00 06 00 00 00 01 00 00 00 04 02 00 00  ................\n24dc37b0  00 00 05 00 c8 00 2b 00 0a 00 00 00 e9 00 00 00  ......+.........\n24dc37c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n24dc37d0  40 2a f4 25 00 00 00 00 eb 7d 9c 0d 56 14 04 88  @*.%.....}..V...\n24dc37e0  58 a3 65 26 68 b4 65 26 00 00 00 00 00 00 00 00  X.e&h.e&........\n24dc37f0  00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00  ................",
+      "h2": "18bafa58  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n18bafa68  00 00 00 00 07 00 00 00 c0 fa ba 18 14 65 63 26  .............ec&\n18bafa78  21 84 89 e8 d8 fa ba 18 d6 86 06 0b ff ff ff ff  !...............\n18bafa88  e4 fa ba 18 29 59 f3 08 4d 84 89 e8 20 39 53 26  ....)Y..M... 9S&\n18bafa98  30 06 86 31 28 42 93 17 20 39 53 26 00 b2 eb 08  0..1(B.. 9S&....\n18bafaa8  28 42 93 17 f4 fa ba 18 f4 fa ba 18 00 00 00 00  (B..............\n18bafab8  68 05 86 31 70 c7 5e 26 b8 c7 5e 26 14 65 63 26  h..1p.^&..^&.ec&\n18bafac8  08 65 63 26 00 00 00 00 4d 84 89 e8 90 fa ba 18  .ec&....M.......\n18bafad8  00 fb ba 18 a5 7f 06 0b 01 00 00 00 0c fb ba 18  ................\n18bafae8  58 b2 eb 08 a5 85 89 e8 00 b2 eb 08 68 05 86 31  X...........h..1\n18bafaf8  1e 00 00 00 a5 85 89 e8 38 fb ba 18 8d f2 05 0b  ........8.......\n18bafb08  00 00 00 00 44 fb ba 18 6c 9b 71 09 ed 85 89 e8  ....D...l.q.....\n18bafb18  fc 1c 97 2b e0 9a 71 09 28 42 93 17 3a c5 22 2b  ...+..q.(B..:.\"+\n18bafb28  fc 1c 97 2b 20 39 53 26 10 39 53 26 fc 1c 97 2b  ...+ 9S&.9S&...+",
+      "stack": [
+        {
+          "off": 0,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 4,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 8,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 12,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 16,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 20,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 24,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 28,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 32,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 36,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 40,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 44,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 48,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 52,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 56,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 60,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 64,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 68,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 72,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 76,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 80,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 84,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 88,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 92,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 96,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 100,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 104,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 108,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 112,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 116,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 120,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 124,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 128,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 132,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 136,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 140,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 144,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 148,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 152,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 156,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        }
+      ],
+      "bt": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+        "0xf1aacd WXWork.exe!tinyxml2::XMLText::CData",
+        "0x75d34f9f WXWork.exe!o_iswdigit",
+        "0x767dfcc9 WXWork.exe!BaseThreadInitThunk",
+        "0x776982ae WXWork.exe!RtlGetAppContainerNamedObjectPath",
+        "0x7769827e WXWork.exe!RtlGetAppContainerNamedObjectPath"
+      ]
+    },
+    {
+      "ts": 1788939486651,
+      "ret": "0xe6b0a4",
+      "regs": {
+        "eax": "0x24dc36d8",
+        "ebx": "0x17934228",
+        "ecx": "0x24dc3720",
+        "edx": "0x0",
+        "esi": "0x18bafa58",
+        "edi": "0x18bafa58",
+        "ebp": "0x18baf980",
+        "esp": "0x18baf94c"
+      },
+      "a0": "0x24dc36d8",
+      "a1": "0x24dc3720",
+      "a2": "0x18bafa58",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "s1": "",
+      "s2": "",
+      "h0": "24dc36d8  43 3a 5c 55 73 65 72 73 5c 4c 45 4e 4f 56 4f 5c  C:\\Users\\LENOVO\\\n24dc36e8  44 6f 63 75 6d 65 6e 74 73 5c 57 58 57 6f 72 6b  Documents\\WXWork\n24dc36f8  5c 31 36 38 38 38 35 35 30 34 32 37 39 31 31 35  \\168885504279115\n24dc3708  35 5c 44 61 74 61 5c 6d 65 73 73 61 67 65 5f 6c  5\\Data\\message_l\n24dc3718  6f 6f 6b 75 70 2e 64 62 00 c5 c3 00 6d 56 75 59  ookup.db....mVuY\n24dc3728  f5 7d 86 0d 32 12 04 88 73 65 6c 65 63 74 20 73  .}..2...select s\n24dc3738  65 71 75 65 6e 63 65 2c 20 73 65 6e 64 5f 74 69  equence, send_ti\n24dc3748  6d 65 20 66 72 6f 6d 20 6d 65 73 73 61 67 65 5f  me from message_\n24dc3758  74 61 62 6c 65 20 77 68 65 72 65 20 6d 65 73 73  table where mess\n24dc3768  61 67 65 5f 69 64 20 3d 20 3f 20 6c 69 6d 69 74  age_id = ? limit\n24dc3778  20 31 3b 00 00 00 00 00 e0 7d 89 0d 6d 13 04 88   1;......}..m...\n24dc3788  b8 10 2e 26 d0 b2 65 26 d0 50 52 26 00 00 00 00  ...&..e&.PR&....\n24dc3798  00 00 00 00 c0 c2 2d 3d 00 00 00 00 06 00 00 00  ......-=........\n24dc37a8  01 00 00 00 04 02 00 00 00 00 05 00 c8 00 2b 00  ..............+.",
+      "h1": "24dc3720  00 c5 c3 00 6d 56 75 59 f5 7d 86 0d 32 12 04 88  ....mVuY.}..2...\n24dc3730  73 65 6c 65 63 74 20 73 65 71 75 65 6e 63 65 2c  select sequence,\n24dc3740  20 73 65 6e 64 5f 74 69 6d 65 20 66 72 6f 6d 20   send_time from \n24dc3750  6d 65 73 73 61 67 65 5f 74 61 62 6c 65 20 77 68  message_table wh\n24dc3760  65 72 65 20 6d 65 73 73 61 67 65 5f 69 64 20 3d  ere message_id =\n24dc3770  20 3f 20 6c 69 6d 69 74 20 31 3b 00 00 00 00 00   ? limit 1;.....\n24dc3780  e0 7d 89 0d 6d 13 04 88 b8 10 2e 26 d0 b2 65 26  .}..m......&..e&\n24dc3790  d0 50 52 26 00 00 00 00 00 00 00 00 c0 c2 2d 3d  .PR&..........-=\n24dc37a0  00 00 00 00 06 00 00 00 01 00 00 00 04 02 00 00  ................\n24dc37b0  00 00 05 00 c8 00 2b 00 0a 00 00 00 e9 00 00 00  ......+.........\n24dc37c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n24dc37d0  40 2a f4 25 00 00 00 00 eb 7d 9c 0d 56 14 04 88  @*.%.....}..V...\n24dc37e0  58 a3 65 26 68 b4 65 26 00 00 00 00 00 00 00 00  X.e&h.e&........\n24dc37f0  00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00  ................",
+      "h2": "18bafa58  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n18bafa68  00 00 00 00 07 00 00 00 c0 fa ba 18 14 65 63 26  .............ec&\n18bafa78  21 84 89 e8 d8 fa ba 18 d6 86 06 0b ff ff ff ff  !...............\n18bafa88  e4 fa ba 18 29 59 f3 08 4d 84 89 e8 20 39 53 26  ....)Y..M... 9S&\n18bafa98  00 2b 69 2b 28 42 93 17 20 39 53 26 00 b2 eb 08  .+i+(B.. 9S&....\n18bafaa8  28 42 93 17 f4 fa ba 18 f4 fa ba 18 00 00 00 00  (B..............\n18bafab8  d0 2d 69 2b 70 c7 5e 26 b8 c7 5e 26 14 65 63 26  .-i+p.^&..^&.ec&\n18bafac8  08 65 63 26 00 00 00 00 4d 84 89 e8 90 fa ba 18  .ec&....M.......\n18bafad8  00 fb ba 18 a5 7f 06 0b 01 00 00 00 0c fb ba 18  ................\n18bafae8  58 b2 eb 08 a5 85 89 e8 00 b2 eb 08 d0 2d 69 2b  X............-i+\n18bafaf8  1e 00 00 00 a5 85 89 e8 38 fb ba 18 8d f2 05 0b  ........8.......\n18bafb08  00 00 00 00 44 fb ba 18 6c 9b 71 09 ed 85 89 e8  ....D...l.q.....\n18bafb18  fc 1c 97 2b e0 9a 71 09 28 42 93 17 3a c5 22 2b  ...+..q.(B..:.\"+\n18bafb28  fc 1c 97 2b 20 39 53 26 10 39 53 26 fc 1c 97 2b  ...+ 9S&.9S&...+",
+      "stack": [
+        {
+          "off": 0,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 4,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 8,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 12,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 16,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 20,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 24,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 28,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 32,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 36,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 40,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 44,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 48,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 52,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 56,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 60,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 64,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 68,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 72,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 76,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 80,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 84,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 88,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 92,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 96,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 100,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 104,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 108,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 112,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 116,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 120,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 124,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 128,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 132,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 136,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 140,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 144,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 148,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 152,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 156,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        }
+      ],
+      "bt": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+        "0xf1aacd WXWork.exe!tinyxml2::XMLText::CData",
+        "0x75d34f9f WXWork.exe!o_iswdigit",
+        "0x767dfcc9 WXWork.exe!BaseThreadInitThunk",
+        "0x776982ae WXWork.exe!RtlGetAppContainerNamedObjectPath",
+        "0x7769827e WXWork.exe!RtlGetAppContainerNamedObjectPath"
+      ]
+    },
+    {
+      "ts": 1788939516726,
+      "ret": "0xe6b0a4",
+      "regs": {
+        "eax": "0x24dc36d8",
+        "ebx": "0x17934228",
+        "ecx": "0x24dc3720",
+        "edx": "0x0",
+        "esi": "0x18bafa58",
+        "edi": "0x18bafa58",
+        "ebp": "0x18baf980",
+        "esp": "0x18baf94c"
+      },
+      "a0": "0x24dc36d8",
+      "a1": "0x24dc3720",
+      "a2": "0x18bafa58",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "s1": "",
+      "s2": "",
+      "h0": "24dc36d8  43 3a 5c 55 73 65 72 73 5c 4c 45 4e 4f 56 4f 5c  C:\\Users\\LENOVO\\\n24dc36e8  44 6f 63 75 6d 65 6e 74 73 5c 57 58 57 6f 72 6b  Documents\\WXWork\n24dc36f8  5c 31 36 38 38 38 35 35 30 34 32 37 39 31 31 35  \\168885504279115\n24dc3708  35 5c 44 61 74 61 5c 6d 65 73 73 61 67 65 5f 6c  5\\Data\\message_l\n24dc3718  6f 6f 6b 75 70 2e 64 62 00 c5 c3 00 6d 56 75 59  ookup.db....mVuY\n24dc3728  f5 7d 86 0d 32 12 04 88 73 65 6c 65 63 74 20 73  .}..2...select s\n24dc3738  65 71 75 65 6e 63 65 2c 20 73 65 6e 64 5f 74 69  equence, send_ti\n24dc3748  6d 65 20 66 72 6f 6d 20 6d 65 73 73 61 67 65 5f  me from message_\n24dc3758  74 61 62 6c 65 20 77 68 65 72 65 20 6d 65 73 73  table where mess\n24dc3768  61 67 65 5f 69 64 20 3d 20 3f 20 6c 69 6d 69 74  age_id = ? limit\n24dc3778  20 31 3b 00 00 00 00 00 e0 7d 89 0d 6d 13 04 88   1;......}..m...\n24dc3788  b8 10 2e 26 d0 b2 65 26 d0 50 52 26 00 00 00 00  ...&..e&.PR&....\n24dc3798  00 00 00 00 c0 c2 2d 3d 00 00 00 00 06 00 00 00  ......-=........\n24dc37a8  01 00 00 00 04 02 00 00 00 00 05 00 c8 00 2b 00  ..............+.",
+      "h1": "24dc3720  00 c5 c3 00 6d 56 75 59 f5 7d 86 0d 32 12 04 88  ....mVuY.}..2...\n24dc3730  73 65 6c 65 63 74 20 73 65 71 75 65 6e 63 65 2c  select sequence,\n24dc3740  20 73 65 6e 64 5f 74 69 6d 65 20 66 72 6f 6d 20   send_time from \n24dc3750  6d 65 73 73 61 67 65 5f 74 61 62 6c 65 20 77 68  message_table wh\n24dc3760  65 72 65 20 6d 65 73 73 61 67 65 5f 69 64 20 3d  ere message_id =\n24dc3770  20 3f 20 6c 69 6d 69 74 20 31 3b 00 00 00 00 00   ? limit 1;.....\n24dc3780  e0 7d 89 0d 6d 13 04 88 b8 10 2e 26 d0 b2 65 26  .}..m......&..e&\n24dc3790  d0 50 52 26 00 00 00 00 00 00 00 00 c0 c2 2d 3d  .PR&..........-=\n24dc37a0  00 00 00 00 06 00 00 00 01 00 00 00 04 02 00 00  ................\n24dc37b0  00 00 05 00 c8 00 2b 00 0a 00 00 00 e9 00 00 00  ......+.........\n24dc37c0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n24dc37d0  40 2a f4 25 00 00 00 00 eb 7d 9c 0d 56 14 04 88  @*.%.....}..V...\n24dc37e0  58 a3 65 26 68 b4 65 26 00 00 00 00 00 00 00 00  X.e&h.e&........\n24dc37f0  00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 00  ................",
+      "h2": "18bafa58  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................\n18bafa68  00 00 00 00 07 00 00 00 c0 fa ba 18 14 65 63 26  .............ec&\n18bafa78  21 84 89 e8 d8 fa ba 18 d6 86 06 0b ff ff ff ff  !...............\n18bafa88  e4 fa ba 18 29 59 f3 08 4d 84 89 e8 20 39 53 26  ....)Y..M... 9S&\n18bafa98  b8 f3 4d 3d 28 42 93 17 20 39 53 26 00 b2 eb 08  ..M=(B.. 9S&....\n18bafaa8  28 42 93 17 f4 fa ba 18 f4 fa ba 18 00 00 00 00  (B..............\n18bafab8  c0 f5 4d 3d 70 c7 5e 26 b8 c7 5e 26 14 65 63 26  ..M=p.^&..^&.ec&\n18bafac8  08 65 63 26 00 00 00 00 4d 84 89 e8 90 fa ba 18  .ec&....M.......\n18bafad8  00 fb ba 18 a5 7f 06 0b 01 00 00 00 0c fb ba 18  ................\n18bafae8  58 b2 eb 08 a5 85 89 e8 00 b2 eb 08 c0 f5 4d 3d  X.............M=\n18bafaf8  1e 00 00 00 a5 85 89 e8 38 fb ba 18 8d f2 05 0b  ........8.......\n18bafb08  00 00 00 00 44 fb ba 18 6c 9b 71 09 ed 85 89 e8  ....D...l.q.....\n18bafb18  fc 1c 97 2b e0 9a 71 09 28 42 93 17 3a c5 22 2b  ...+..q.(B..:.\"+\n18bafb28  fc 1c 97 2b 20 39 53 26 10 39 53 26 fc 1c 97 2b  ...+ 9S&.9S&...+",
+      "stack": [
+        {
+          "off": 0,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 4,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 8,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 12,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 16,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 20,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 24,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 28,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 32,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 36,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 40,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 44,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 48,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 52,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 56,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 60,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 64,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 68,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 72,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 76,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 80,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 84,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 88,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 92,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 96,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 100,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 104,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 108,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 112,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 116,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 120,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 124,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 128,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 132,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 136,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 140,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 144,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 148,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 152,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        },
+        {
+          "off": 156,
+          "ptr": "0x0",
+          "s8": null,
+          "s16": null,
+          "qword": "",
+          "hd": ""
+        }
+      ],
+      "bt": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+        "0xf1aacd WXWork.exe!tinyxml2::XMLText::CData",
+        "0x75d34f9f WXWork.exe!o_iswdigit",
+        "0x767dfcc9 WXWork.exe!BaseThreadInitThunk",
+        "0x776982ae WXWork.exe!RtlGetAppContainerNamedObjectPath",
+        "0x7769827e WXWork.exe!RtlGetAppContainerNamedObjectPath"
+      ]
+    }
+  ]
+}

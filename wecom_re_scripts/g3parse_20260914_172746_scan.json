@@ -1,0 +1,9 @@
+{
+  "scan": {
+    "base": "0x5e0000",
+    "inner_ser": "wx+0x1687402",
+    "slot_hits": 0,
+    "vtables": []
+  },
+  "ctor_xrefs": []
+}

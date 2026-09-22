@@ -1,0 +1,16 @@
+{
+  "pid": 26232,
+  "event_count": 1,
+  "events": [
+    {
+      "error": {
+        "type": "error",
+        "description": "Error: access violation accessing 0xa6316d0",
+        "stack": "Error: access violation accessing 0xa6316d0\n    at value (/frida/runtime/core.js:373)\n    at <eval> (/script1.js:72)",
+        "fileName": "/frida/runtime/core.js",
+        "lineNumber": 373,
+        "columnNumber": 1
+      }
+    }
+  ]
+}

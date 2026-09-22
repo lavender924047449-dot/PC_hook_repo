@@ -1,0 +1,15 @@
+[
+  {
+    "t": "verify",
+    "bytes": [
+      84,
+      36,
+      8
+    ],
+    "addr": "0xb2d56d0"
+  },
+  {
+    "t": "hook_ready",
+    "addr": "0xb2d56d0"
+  }
+]

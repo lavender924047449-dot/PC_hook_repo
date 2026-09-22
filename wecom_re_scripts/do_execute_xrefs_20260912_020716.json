@@ -1,0 +1,66 @@
+[
+  {
+    "va": "0xb52b738",
+    "xrefs": [
+      {
+        "at": "0x34eec48",
+        "prot": "r-x",
+        "kind": "push",
+        "lead": "0x68",
+        "prologue": "0x34eea12",
+        "offset_from_prologue": 566
+      }
+    ]
+  },
+  {
+    "va": "0xb52c170",
+    "xrefs": [
+      {
+        "at": "0x350f835",
+        "prot": "r-x",
+        "kind": "push",
+        "lead": "0x68",
+        "prologue": "0x350f772",
+        "offset_from_prologue": 195
+      }
+    ]
+  },
+  {
+    "va": "0xb52c610",
+    "xrefs": [
+      {
+        "at": "0x3503984",
+        "prot": "r-x",
+        "kind": "push",
+        "lead": "0x68",
+        "prologue": "0x35034e2",
+        "offset_from_prologue": 1186
+      }
+    ]
+  },
+  {
+    "va": "0xb52b697",
+    "xrefs": []
+  },
+  {
+    "va": "0xb52b8c5",
+    "xrefs": []
+  },
+  {
+    "va": "0xb52b901",
+    "xrefs": []
+  },
+  {
+    "va": "0xb52b9bc",
+    "xrefs": [
+      {
+        "at": "0x34fabe5",
+        "prot": "r-x",
+        "kind": "push",
+        "lead": "0x68",
+        "prologue": "0x34fab12",
+        "offset_from_prologue": 211
+      }
+    ]
+  }
+]

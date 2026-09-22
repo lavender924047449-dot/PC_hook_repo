@@ -1,0 +1,26 @@
+{
+  "pid": 11744,
+  "ts": "20260911_205545",
+  "base": "0x002d0000",
+  "total_hits": 6,
+  "kw_hits": 0,
+  "top_ret_all": [
+    {
+      "ret": "0x006bbf6c",
+      "rva": "0x3ebf6c",
+      "count": 6
+    }
+  ],
+  "top_ret_kw": [],
+  "kw_examples": {},
+  "keywords": [
+    "do send message",
+    "send message to peer",
+    "conversationId",
+    "msgId",
+    "ClientId",
+    "task id",
+    "PostSendMessage",
+    "ForwardMessage"
+  ]
+}

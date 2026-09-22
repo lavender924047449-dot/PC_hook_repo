@@ -1,0 +1,9 @@
+定位方法: textContains='按住'
+resourceId: com.tencent.wework:id/ijs
+class:      android.widget.TextView
+text:       按住 说话
+desc:       None
+bounds:     {'bottom': 1584, 'left': 63, 'right': 771, 'top': 1530}
+center:     (417, 1557)
+clickable:  True
+longClick:  False

@@ -1,0 +1,14 @@
+{
+  "mode": "DRY",
+  "msgtype_new": 34,
+  "msgtype_off": 304,
+  "probe_hits": 1,
+  "reports": [
+    {
+      "sn": 1,
+      "retval": "0x14b7dce0",
+      "ser_hits": 6
+    }
+  ],
+  "inject_map": []
+}

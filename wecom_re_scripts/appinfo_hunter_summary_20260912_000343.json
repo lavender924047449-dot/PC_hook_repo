@@ -1,0 +1,335 @@
+{
+  "pid": 21456,
+  "ts": "20260912_000343",
+  "wx_base": "0x970000",
+  "wx_size": 270573568,
+  "sql_filter": "replace into message_appinfo",
+  "discovery": {
+    "sql_anchor_used": "message_appinfo",
+    "sql_addrs": [
+      "0xbd5fb18",
+      "0xbd5fb48"
+    ],
+    "sql_addrs_rva": [
+      "0xb3efb18",
+      "0xb3efb48"
+    ],
+    "data_xrefs": [
+      "0xd4d2d88",
+      "0xd4d2db4"
+    ],
+    "hop2_code_xrefs": [
+      "0x8cbbe17",
+      "0x8cbd770",
+      "0x8cc50ad",
+      "0x8cc53ac",
+      "0x8ccf910",
+      "0x8ccfa9f",
+      "0x8d2c40e",
+      "0x8cbc4a9",
+      "0x8cbfc21",
+      "0x8cc20ca",
+      "0x8cc9bcc",
+      "0x8cca973",
+      "0x8ccae46",
+      "0x8ccb05e",
+      "0x8cd02d1",
+      "0x8d3e6ae"
+    ],
+    "candidates": [
+      {
+        "addr": "0x8cbbdc2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cbd6e2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cc5002",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cc52e2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8ccf8c2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8ccfa42",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8d2c362",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cbc452",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cbfbb2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cc2062",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cc9b42",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cca872",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8ccad92",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8ccafb2",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8cd0272",
+        "votes": 1,
+        "class_hint": null
+      },
+      {
+        "addr": "0x8d3e602",
+        "votes": 1,
+        "class_hint": null
+      }
+    ],
+    "candidates_rva": [
+      {
+        "addr": "0x8cbbdc2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x834bdc2"
+      },
+      {
+        "addr": "0x8cbd6e2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x834d6e2"
+      },
+      {
+        "addr": "0x8cc5002",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x8355002"
+      },
+      {
+        "addr": "0x8cc52e2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x83552e2"
+      },
+      {
+        "addr": "0x8ccf8c2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x835f8c2"
+      },
+      {
+        "addr": "0x8ccfa42",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x835fa42"
+      },
+      {
+        "addr": "0x8d2c362",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x83bc362"
+      },
+      {
+        "addr": "0x8cbc452",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x834c452"
+      },
+      {
+        "addr": "0x8cbfbb2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x834fbb2"
+      },
+      {
+        "addr": "0x8cc2062",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x8352062"
+      },
+      {
+        "addr": "0x8cc9b42",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x8359b42"
+      },
+      {
+        "addr": "0x8cca872",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x835a872"
+      },
+      {
+        "addr": "0x8ccad92",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x835ad92"
+      },
+      {
+        "addr": "0x8ccafb2",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x835afb2"
+      },
+      {
+        "addr": "0x8cd0272",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x8360272"
+      },
+      {
+        "addr": "0x8d3e602",
+        "votes": 1,
+        "class_hint": null,
+        "rva": "0x83ce602"
+      }
+    ],
+    "notes": [
+      "anchor #0 [40 chars] → 0 hits",
+      "anchor #1 [28 chars] → 0 hits",
+      "anchor #2 [21 chars] → 0 hits",
+      "anchor #3 [15 chars] → 2 hits",
+      "1-hop code xrefs = 0",
+      "1-hop data xrefs = 2",
+      "2-hop code xrefs = 16",
+      "candidate funcs = 16"
+    ]
+  },
+  "hooked_addrs": [
+    "0x8cbbdc2",
+    "0x8cbd6e2",
+    "0x8cc5002",
+    "0x8cc52e2",
+    "0x8ccf8c2",
+    "0x8ccfa42",
+    "0x8d2c362",
+    "0x8cbc452",
+    "0x8cbfbb2",
+    "0x8cc2062",
+    "0x8cc9b42",
+    "0x8cca872",
+    "0x8ccad92",
+    "0x8ccafb2",
+    "0x8cd0272",
+    "0x8d3e602"
+  ],
+  "hits_reported": 0,
+  "per_addr_stats": [
+    {
+      "addr": "0x8cbbdc2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cbd6e2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cc5002",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cc52e2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8ccf8c2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8ccfa42",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8d2c362",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cbc452",
+      "total": 3,
+      "match": 0
+    },
+    {
+      "addr": "0x8cbfbb2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cc2062",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cc9b42",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cca872",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8ccad92",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8ccafb2",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8cd0272",
+      "total": 0,
+      "match": 0
+    },
+    {
+      "addr": "0x8d3e602",
+      "total": 0,
+      "match": 0
+    }
+  ],
+  "winners": [],
+  "winners_rva": [],
+  "winner_bt_top_funcs": [],
+  "winner_bt_top_funcs_rva": []
+}

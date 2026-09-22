@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Local staging / large archives (should go to Releases)
+*.tar
+*.tar.zst
+*.tar.gz
+*.tar.xz
+
+# Editor
+.vscode/
+.idea/
+*.swp

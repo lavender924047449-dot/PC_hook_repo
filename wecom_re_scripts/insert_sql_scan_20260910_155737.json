@@ -1,0 +1,126 @@
+[
+  {
+    "t": "start",
+    "pid": 27304
+  },
+  {
+    "t": "module",
+    "base": "0xd80000",
+    "size": 270573568
+  },
+  {
+    "t": "sql_scan",
+    "found": {
+      "insert_table": [
+        {
+          "addr": "0xb885ce0",
+          "text": "INSERT OR REPLACE INTO %s (%s, %s, %s, %s) VALUES (?, ?, ?, ?);�SELECT %s FROM %"
+        },
+        {
+          "addr": "0xc5df97d",
+          "text": "INSERT OR REPLACE INTO voice_room_kv (key, value) VALUES (?, ?)\n���\n    SELECT l"
+        },
+        {
+          "addr": "0xc6012ac",
+          "text": "INSERT OR REPLACE INTO meta (key,value) VALUES (?,?)��������C:\\devops\\data\\p-e6d"
+        }
+      ],
+      "msg_type": [
+        {
+          "addr": "0xb92c762",
+          "text": "message_type����r\f�\r0\u0002�o/\u00020\"y\u0003�!��̸r\f�\r0\u0002�o/\u0002�\"y\u0003�!��D�r\f\u0010�9\u0003\u0018�r\f�\r0\u0002�o/\u0002�\"y\u0003�!"
+        },
+        {
+          "addr": "0xb95fa2e",
+          "text": "message_type: ����, only_at_me: ��, multi_keywords size: �, search_text_image_ty"
+        },
+        {
+          "addr": "0xbd3db6a",
+          "text": "message_type=�[chat_catalog][IMChatMessageLinkItem] UpdateDescriptionLayoutUi: s"
+        },
+        {
+          "addr": "0xbff1c6b",
+          "text": "message_type_checkboxes_.size()��HandleMessageTypeComboClick�sorted_types.size()"
+        },
+        {
+          "addr": "0xc16bdbc",
+          "text": "message_type����@\u0007�\f`��\b�\u001d�\n�\u001d�\n�\u001d�\n�\u001d�\n�\u001d�\n�\u001d�\n�\u001d�\n�\u0007�\f���\b�\u0007�\f���\b���\b���\bp��\b"
+        },
+        {
+          "addr": "0xc1f91b0",
+          "text": "message_type:���[StickConversationTask] params, to_room_id:�[StickConversationTa"
+        },
+        {
+          "addr": "0xc2251a1",
+          "text": "message_type: � message_ids:���[PostInterpretMessagesTask::InterpretSingleMessag"
+        },
+        {
+          "addr": "0xc29cf96",
+          "text": "message_type()) == (desc): ���wrong submessage type���\"GetRawRepeatedField\"���Ge"
+        },
+        {
+          "addr": "0xc2a2e9f",
+          "text": "message_type\u0018\u0004 \u0003(\u000b2 .google.protobuf.DescriptorProto\u00127\n\tenum_type\u0018\u0005 \u0003(\u000b2$.google"
+        },
+        {
+          "addr": "0xc5df301",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5df3d9",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5df519",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5df799",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5df889",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5df9f9",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5dfac9",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5dfbb1",
+          "text": "message_type, content_type,\n           send_time, app_info, voice_tmp_fromuin, b"
+        },
+        {
+          "addr": "0xc5dfded",
+          "text": "message_type = ?, content_type = ?,\n    send_time = ?, app_info = ?, voice_tmp_f"
+        },
+        {
+          "addr": "0xc5dfec9",
+          "text": "message_type, content_type,\n     send_time, app_info, voice_tmp_fromuin, blob)\n "
+        },
+        {
+          "addr": "0xc5e03e6",
+          "text": "message_type INTEGER,\n        content_type INTEGER,\n        send_time INTEGER,\n "
+        }
+      ]
+    }
+  },
+  {
+    "t": "xrefs",
+    "data": {
+      "insert_table@0xb885ce0": [
+        "0x2e5fa2b"
+      ],
+      "insert_table@0xc6012ac": [
+        "0x1f18bb5"
+      ],
+      "msg_type@0xc16bdbc": [
+        "0x8f7a748"
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "args": {
+    "source": "poc_staged_voice.json",
+    "dry_run": true,
+    "once": false
+  },
+  "staged": {
+    "silk_path": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk",
+    "filename": "2026_09_13_21_05_24_523.silk",
+    "file_id": "a007e9da654246459a6989d89c04857f",
+    "md5": "37dcfa0d7806bf761c7cdc49aef88f65",
+    "source": "received_from_phone_via_fta_20260913",
+    "note": "手机→FTA 真实语音，file_id 已上传 CDN，合法"
+  },
+  "result": {
+    "ok": false,
+    "source": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Cache\\Voice\\2026-09\\2026_09_13_21_05_24_523.silk",
+    "dry_run": true,
+    "reason": "timeout"
+  }
+}

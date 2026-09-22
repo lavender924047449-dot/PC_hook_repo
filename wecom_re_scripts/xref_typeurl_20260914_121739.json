@@ -1,0 +1,5550 @@
+{
+  "meta": {
+    "exe": "D:\\Cursor_env\\企业微信\\WXWork\\WXWork.exe",
+    "image_base": 4194304,
+    "pool_base_rva": 185139628,
+    "pool_width": 4096,
+    "ts": "20260914_121739",
+    "n_byte_hits": 376,
+    "n_verified": 336,
+    "n_unique_fns": 1
+  },
+  "per_fn": [
+    {
+      "fn_va": 0,
+      "fn_rva": null,
+      "n_hits": 336,
+      "depth": null,
+      "on_presend_chain": false,
+      "pool_offsets": [
+        24,
+        84,
+        136,
+        168,
+        204,
+        208,
+        248,
+        276,
+        348,
+        412,
+        456,
+        484,
+        512,
+        516,
+        576,
+        608,
+        632,
+        692,
+        752,
+        764,
+        796,
+        820,
+        880,
+        944,
+        948,
+        968,
+        972,
+        988,
+        992,
+        1060,
+        1064,
+        1096,
+        1108,
+        1116,
+        1128,
+        1140,
+        1156,
+        1164,
+        1240,
+        1244,
+        1304,
+        1360,
+        1400,
+        1448,
+        1508,
+        1548,
+        1588,
+        1608,
+        1612,
+        1624,
+        1640,
+        1732,
+        1812,
+        1884,
+        1964,
+        2000,
+        2020,
+        2036,
+        2048,
+        2052,
+        2068,
+        2120,
+        2172,
+        2224,
+        2228,
+        2292,
+        2320,
+        2352,
+        2356,
+        2380,
+        2428,
+        2460,
+        2492,
+        2512,
+        2516,
+        2552,
+        2560,
+        2624,
+        2640,
+        2656,
+        2668,
+        2680,
+        2692,
+        2708,
+        2728,
+        2748,
+        2760,
+        2768,
+        2780,
+        2796,
+        2804,
+        2816,
+        2828,
+        2848,
+        2876,
+        2896,
+        2920,
+        2932,
+        2952,
+        3012,
+        3064,
+        3100,
+        3140,
+        3144,
+        3176,
+        3181,
+        3220,
+        3252,
+        3288,
+        3292,
+        3316,
+        3360,
+        3388,
+        3420,
+        3424,
+        3448,
+        3488,
+        3512,
+        3540,
+        3544,
+        3552,
+        3572,
+        3612,
+        3640,
+        3672,
+        3676,
+        3700,
+        3740,
+        3764,
+        3792,
+        3796,
+        3816,
+        3856,
+        3880,
+        3908,
+        3912,
+        3932,
+        3972,
+        3996,
+        4024,
+        4028,
+        4048
+      ],
+      "sample_insns": [
+        "push 0xb090560",
+        "push 0xb090578",
+        "mov dword ptr [ebp - 0x38], 0xb09055c",
+        "mov dword ptr [ebp - 0x38], 0xb090574",
+        "mov dword ptr [ebp - 0x38], 0xb090588"
+      ]
+    }
+  ],
+  "raw": [
+    {
+      "byte_va": 61773243,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 61773242,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61773739,
+      "imm_val": 185140600,
+      "insn": {
+        "insn_va": 61773738,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090578",
+        "bytes": "687805090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 972,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61853609,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 61853606,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb09055c",
+        "bytes": "c745c85c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61855177,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 61855174,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb090574",
+        "bytes": "c745c87405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61855545,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 61855542,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x38], 0xb090588",
+        "bytes": "c745c88805090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61869335,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 61869333,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0907f4",
+        "bytes": "c707f407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61870919,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 61870917,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090b7c",
+        "bytes": "c7077c0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871095,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 61871093,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090df0",
+        "bytes": "c707f00d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871271,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 61871269,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb091164",
+        "bytes": "c7076411090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871447,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 61871445,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090630",
+        "bytes": "c7073006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61871991,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 61871989,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090e84",
+        "bytes": "c707840e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61873223,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 61873221,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0909ac",
+        "bytes": "c707ac09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874455,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 61874453,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0903ac",
+        "bytes": "c707ac03090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874631,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 61874629,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090adc",
+        "bytes": "c707dc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61874983,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 61874981,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090f80",
+        "bytes": "c707800f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61875159,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 61875157,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090f08",
+        "bytes": "c707080f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61875511,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 61875509,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090a5c",
+        "bytes": "c7075c0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61877623,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 61877621,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0910f0",
+        "bytes": "c707f010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878151,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 61878149,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090278",
+        "bytes": "c7077802090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878503,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 61878501,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb09107c",
+        "bytes": "c7077c10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61878679,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 61878677,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb091004",
+        "bytes": "c7070410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61882564,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 61882562,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090684",
+        "bytes": "c7078406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61908240,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 61908238,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb09055c",
+        "bytes": "c7075c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61908585,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 61908583,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0907f4",
+        "bytes": "c703f407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909657,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 61909655,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090b7c",
+        "bytes": "c7037c0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909769,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 61909767,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090df0",
+        "bytes": "c703f00d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909881,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 61909879,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb091164",
+        "bytes": "c7036411090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61909993,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 61909991,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090630",
+        "bytes": "c7033006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61910393,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 61910391,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090e84",
+        "bytes": "c703840e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61911177,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 61911175,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0909ac",
+        "bytes": "c703ac09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61911961,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 61911959,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0903ac",
+        "bytes": "c703ac03090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912073,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 61912071,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090adc",
+        "bytes": "c703dc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912297,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 61912295,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090f80",
+        "bytes": "c703800f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912409,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 61912407,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090f08",
+        "bytes": "c703080f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61912633,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 61912631,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090a5c",
+        "bytes": "c7035c0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61913977,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 61913975,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0910f0",
+        "bytes": "c703f010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914313,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 61914311,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090278",
+        "bytes": "c7037802090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914537,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 61914535,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb09107c",
+        "bytes": "c7037c10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61914649,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 61914647,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb091004",
+        "bytes": "c7030410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917392,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 61917390,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090574",
+        "bytes": "c7077405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917513,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 61917511,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb090684",
+        "bytes": "c7038406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917872,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 61917870,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb090588",
+        "bytes": "c7078805090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61917992,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 61917990,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebx], 0xb0905d0",
+        "bytes": "c703d005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61980202,
+      "imm_val": 185141136,
+      "insn": {
+        "insn_va": 61980201,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090790",
+        "bytes": "689007090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1508,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61980426,
+      "imm_val": 185141176,
+      "insn": {
+        "insn_va": 61980425,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907b8",
+        "bytes": "68b807090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1548,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61981044,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 61981043,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991050,
+      "imm_val": 185142056,
+      "insn": {
+        "insn_va": 61991049,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b28",
+        "bytes": "68280b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2428,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991274,
+      "imm_val": 185142088,
+      "insn": {
+        "insn_va": 61991273,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b48",
+        "bytes": "68480b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2460,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991514,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61991513,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61991834,
+      "imm_val": 185142692,
+      "insn": {
+        "insn_va": 61991833,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090da4",
+        "bytes": "68a40d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3064,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992058,
+      "imm_val": 185142728,
+      "insn": {
+        "insn_va": 61992057,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090dc8",
+        "bytes": "68c80d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3100,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992298,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61992297,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992519,
+      "imm_val": 185143600,
+      "insn": {
+        "insn_va": 61992518,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091130",
+        "bytes": "683011090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3972,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61992743,
+      "imm_val": 185143624,
+      "insn": {
+        "insn_va": 61992742,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091148",
+        "bytes": "684811090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3996,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61993672,
+      "imm_val": 185140744,
+      "insn": {
+        "insn_va": 61993671,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090608",
+        "bytes": "680806090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1116,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61993944,
+      "imm_val": 185140756,
+      "insn": {
+        "insn_va": 61993943,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090614",
+        "bytes": "681406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1128,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61994211,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 61994210,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997399,
+      "imm_val": 185142848,
+      "insn": {
+        "insn_va": 61997398,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e40",
+        "bytes": "68400e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3220,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997623,
+      "imm_val": 185142880,
+      "insn": {
+        "insn_va": 61997622,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e60",
+        "bytes": "68600e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3252,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 61997783,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 61997782,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62002362,
+      "imm_val": 185141628,
+      "insn": {
+        "insn_va": 62002361,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09097c",
+        "bytes": "687c09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2000,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62002586,
+      "imm_val": 185141648,
+      "insn": {
+        "insn_va": 62002585,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090990",
+        "bytes": "689009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2020,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62003204,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62003203,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62009416,
+      "imm_val": 185140084,
+      "insn": {
+        "insn_va": 62009415,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090374",
+        "bytes": "687403090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 456,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62010127,
+      "imm_val": 185140112,
+      "insn": {
+        "insn_va": 62010126,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090390",
+        "bytes": "689003090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 484,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62010900,
+      "imm_val": 185141920,
+      "insn": {
+        "insn_va": 62010899,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090aa0",
+        "bytes": "68a00a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2292,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62011124,
+      "imm_val": 185141948,
+      "insn": {
+        "insn_va": 62011123,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090abc",
+        "bytes": "68bc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2320,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62011956,
+      "imm_val": 185143116,
+      "insn": {
+        "insn_va": 62011955,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f4c",
+        "bytes": "684c0f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3488,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012180,
+      "imm_val": 185143140,
+      "insn": {
+        "insn_va": 62012179,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f64",
+        "bytes": "68640f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012484,
+      "imm_val": 185142988,
+      "insn": {
+        "insn_va": 62012483,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ecc",
+        "bytes": "68cc0e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3360,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62012708,
+      "imm_val": 185143016,
+      "insn": {
+        "insn_va": 62012707,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ee8",
+        "bytes": "68e80e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3388,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62021396,
+      "imm_val": 185143484,
+      "insn": {
+        "insn_va": 62021395,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910bc",
+        "bytes": "68bc10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3856,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62021620,
+      "imm_val": 185143508,
+      "insn": {
+        "insn_va": 62021619,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910d4",
+        "bytes": "68d410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3880,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62023592,
+      "imm_val": 185139764,
+      "insn": {
+        "insn_va": 62023591,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090234",
+        "bytes": "683402090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 136,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62024303,
+      "imm_val": 185139796,
+      "insn": {
+        "insn_va": 62024302,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090254",
+        "bytes": "685402090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 168,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62025668,
+      "imm_val": 185143368,
+      "insn": {
+        "insn_va": 62025667,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091048",
+        "bytes": "684810090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3740,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62025892,
+      "imm_val": 185143392,
+      "insn": {
+        "insn_va": 62025891,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091060",
+        "bytes": "686010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3764,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62026196,
+      "imm_val": 185143240,
+      "insn": {
+        "insn_va": 62026195,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fc8",
+        "bytes": "68c80f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3612,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62026420,
+      "imm_val": 185143268,
+      "insn": {
+        "insn_va": 62026419,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fe4",
+        "bytes": "68e40f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62044501,
+      "imm_val": 185140792,
+      "insn": {
+        "insn_va": 62044500,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090638",
+        "bytes": "683806090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1164,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62046246,
+      "imm_val": 185140620,
+      "insn": {
+        "insn_va": 62046245,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09058c",
+        "bytes": "688c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 992,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62057787,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 62057785,
+        "size": 6,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi], 0xb0905d0",
+        "bytes": "c707d005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62558061,
+      "imm_val": 185140692,
+      "insn": {
+        "insn_va": 62558060,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0905d4",
+        "bytes": "68d405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1064,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62558222,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 62558219,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x80], 0xb09055c",
+        "bytes": "c745805c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62558642,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 62558639,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x80], 0xb090574",
+        "bytes": "c745807405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62559071,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 62559068,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x80], 0xb090588",
+        "bytes": "c745808805090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62560374,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 62560371,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0905d0",
+        "bytes": "c74608d005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62560594,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 62560588,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x128], 0xb0905d0",
+        "bytes": "c785d8feffffd005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62561654,
+      "imm_val": 185140724,
+      "insn": {
+        "insn_va": 62561653,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0905f4",
+        "bytes": "68f405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1096,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62561995,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 62561994,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562250,
+      "imm_val": 185140724,
+      "insn": {
+        "insn_va": 62562249,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0905f4",
+        "bytes": "68f405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1096,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562591,
+      "imm_val": 185140576,
+      "insn": {
+        "insn_va": 62562590,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090560",
+        "bytes": "686005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 948,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562848,
+      "imm_val": 185140724,
+      "insn": {
+        "insn_va": 62562847,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0905f4",
+        "bytes": "68f405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1096,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62562971,
+      "imm_val": 185140736,
+      "insn": {
+        "insn_va": 62562970,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090600",
+        "bytes": "680006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1108,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62569210,
+      "imm_val": 185141076,
+      "insn": {
+        "insn_va": 62569209,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090754",
+        "bytes": "685407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1448,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570089,
+      "imm_val": 185141240,
+      "insn": {
+        "insn_va": 62570088,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907f8",
+        "bytes": "68f807090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1612,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570250,
+      "imm_val": 185141252,
+      "insn": {
+        "insn_va": 62570249,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090804",
+        "bytes": "680408090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570676,
+      "imm_val": 185141268,
+      "insn": {
+        "insn_va": 62570675,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090814",
+        "bytes": "681408090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62570859,
+      "imm_val": 185141268,
+      "insn": {
+        "insn_va": 62570858,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090814",
+        "bytes": "681408090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62571488,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 62571482,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb0907f4",
+        "bytes": "c78540fffffff407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62571732,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 62571729,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0907f4",
+        "bytes": "c74608f407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62572022,
+      "imm_val": 185141236,
+      "insn": {
+        "insn_va": 62572016,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb0907f4",
+        "bytes": "c78540fffffff407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62572947,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62572946,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62573204,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62573203,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62575557,
+      "imm_val": 185141360,
+      "insn": {
+        "insn_va": 62575556,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090870",
+        "bytes": "687008090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1732,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62576118,
+      "imm_val": 185141440,
+      "insn": {
+        "insn_va": 62576117,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0908c0",
+        "bytes": "68c008090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1812,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62576405,
+      "imm_val": 185141512,
+      "insn": {
+        "insn_va": 62576404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090908",
+        "bytes": "680809090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1884,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62617765,
+      "imm_val": 185139652,
+      "insn": {
+        "insn_va": 62617764,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0901c4",
+        "bytes": "68c401090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 24,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62640330,
+      "imm_val": 185142008,
+      "insn": {
+        "insn_va": 62640329,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090af8",
+        "bytes": "68f80a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2380,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62641323,
+      "imm_val": 185142144,
+      "insn": {
+        "insn_va": 62641322,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b80",
+        "bytes": "68800b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62642204,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 62642198,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090b7c",
+        "bytes": "c7855cffffff7c0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62642429,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 62642426,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090b7c",
+        "bytes": "c746087c0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62642716,
+      "imm_val": 185142140,
+      "insn": {
+        "insn_va": 62642710,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090b7c",
+        "bytes": "c7855cffffff7c0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643554,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 62643553,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643680,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62643679,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62643965,
+      "imm_val": 185142188,
+      "insn": {
+        "insn_va": 62643964,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bac",
+        "bytes": "68ac0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2560,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644436,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62644435,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644903,
+      "imm_val": 185142268,
+      "insn": {
+        "insn_va": 62644902,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bfc",
+        "bytes": "68fc0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62644983,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 62644982,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645059,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 62645058,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645189,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 62645188,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645296,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 62645295,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645365,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 62645364,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645445,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 62645444,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645520,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 62645519,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645598,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62645597,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645673,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62645672,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645822,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 62645821,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62645974,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 62645973,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646055,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 62646054,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646330,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 62646329,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646741,
+      "imm_val": 185142476,
+      "insn": {
+        "insn_va": 62646740,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ccc",
+        "bytes": "68cc0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2848,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62646855,
+      "imm_val": 185142504,
+      "insn": {
+        "insn_va": 62646854,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ce8",
+        "bytes": "68e80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2876,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647504,
+      "imm_val": 185142524,
+      "insn": {
+        "insn_va": 62647503,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cfc",
+        "bytes": "68fc0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2896,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647654,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 62647653,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62647771,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 62647770,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62648811,
+      "imm_val": 185142580,
+      "insn": {
+        "insn_va": 62648810,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d34",
+        "bytes": "68340d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2952,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62649793,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62649792,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62650474,
+      "imm_val": 185142640,
+      "insn": {
+        "insn_va": 62650473,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d70",
+        "bytes": "68700d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3012,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62650969,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 62650968,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62651914,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 62651908,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090df0",
+        "bytes": "c7855cfffffff00d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62652139,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 62652136,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090df0",
+        "bytes": "c74608f00d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62652426,
+      "imm_val": 185142768,
+      "insn": {
+        "insn_va": 62652420,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090df0",
+        "bytes": "c7855cfffffff00d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653070,
+      "imm_val": 185142772,
+      "insn": {
+        "insn_va": 62653069,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090df4",
+        "bytes": "68f40d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3144,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653250,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62653249,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62653533,
+      "imm_val": 185142188,
+      "insn": {
+        "insn_va": 62653532,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bac",
+        "bytes": "68ac0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2560,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62654618,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62654617,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655276,
+      "imm_val": 185142268,
+      "insn": {
+        "insn_va": 62655275,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bfc",
+        "bytes": "68fc0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655356,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 62655355,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655435,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 62655434,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655568,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 62655567,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655675,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 62655674,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655747,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 62655746,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655827,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 62655826,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655905,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 62655904,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62655989,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62655988,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656073,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62656072,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656228,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 62656227,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656386,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 62656385,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656476,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 62656475,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62656751,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 62656750,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62657165,
+      "imm_val": 185142476,
+      "insn": {
+        "insn_va": 62657164,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ccc",
+        "bytes": "68cc0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2848,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62657282,
+      "imm_val": 185142504,
+      "insn": {
+        "insn_va": 62657281,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ce8",
+        "bytes": "68e80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2876,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658089,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 62658088,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658206,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 62658205,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62658764,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62658763,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662202,
+      "imm_val": 185143560,
+      "insn": {
+        "insn_va": 62662201,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091108",
+        "bytes": "680811090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662717,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62662714,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb091164",
+        "bytes": "c745846411090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62662925,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62662922,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb091164",
+        "bytes": "c746086411090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62663194,
+      "imm_val": 185143652,
+      "insn": {
+        "insn_va": 62663191,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb091164",
+        "bytes": "c745846411090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4024,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62663816,
+      "imm_val": 185143656,
+      "insn": {
+        "insn_va": 62663815,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091168",
+        "bytes": "686811090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4028,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62665831,
+      "imm_val": 185140872,
+      "insn": {
+        "insn_va": 62665830,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090688",
+        "bytes": "688806090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1244,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666135,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 62666129,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x1e8], 0xb090630",
+        "bytes": "c78518feffff3006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666401,
+      "imm_val": 185140784,
+      "insn": {
+        "insn_va": 62666398,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090630",
+        "bytes": "c746083006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1156,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666737,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 62666731,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x130], 0xb090684",
+        "bytes": "c785d0feffff8406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62666975,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 62666972,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090684",
+        "bytes": "c746088406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62667241,
+      "imm_val": 185140868,
+      "insn": {
+        "insn_va": 62667235,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x130], 0xb090684",
+        "bytes": "c785d0feffff8406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1240,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668002,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 62668001,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668128,
+      "imm_val": 185140932,
+      "insn": {
+        "insn_va": 62668127,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0906c4",
+        "bytes": "68c406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1304,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668213,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 62668212,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668294,
+      "imm_val": 185140988,
+      "insn": {
+        "insn_va": 62668293,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0906fc",
+        "bytes": "68fc06090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1360,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62668405,
+      "imm_val": 185141028,
+      "insn": {
+        "insn_va": 62668404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090724",
+        "bytes": "682407090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1400,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687234,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 62687233,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687733,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 62687732,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687851,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 62687850,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62687941,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62687940,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688031,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62688030,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688212,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 62688211,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62688392,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 62688391,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62689658,
+      "imm_val": 185142804,
+      "insn": {
+        "insn_va": 62689657,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e14",
+        "bytes": "68140e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3176,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690173,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690170,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090e84",
+        "bytes": "c74584840e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690381,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690378,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090e84",
+        "bytes": "c74608840e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62690650,
+      "imm_val": 185142916,
+      "insn": {
+        "insn_va": 62690647,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090e84",
+        "bytes": "c74584840e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3288,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691272,
+      "imm_val": 185142920,
+      "insn": {
+        "insn_va": 62691271,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090e88",
+        "bytes": "68880e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3292,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691501,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62691500,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62691611,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 62691610,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62706218,
+      "imm_val": 185143676,
+      "insn": {
+        "insn_va": 62706217,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09117c",
+        "bytes": "687c11090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 4048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62724586,
+      "imm_val": 185141592,
+      "insn": {
+        "insn_va": 62724585,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090958",
+        "bytes": "685809090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1964,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62725661,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 62725655,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb0909ac",
+        "bytes": "c7855cffffffac09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62725886,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 62725883,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0909ac",
+        "bytes": "c74608ac09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62726173,
+      "imm_val": 185141676,
+      "insn": {
+        "insn_va": 62726167,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb0909ac",
+        "bytes": "c7855cffffffac09090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2048,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62726859,
+      "imm_val": 185141680,
+      "insn": {
+        "insn_va": 62726858,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909b0",
+        "bytes": "68b009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2052,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62727088,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62727087,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62727841,
+      "imm_val": 185141664,
+      "insn": {
+        "insn_va": 62727840,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909a0",
+        "bytes": "68a009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2036,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62728970,
+      "imm_val": 185141696,
+      "insn": {
+        "insn_va": 62728969,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909c0",
+        "bytes": "68c009090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2068,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62729544,
+      "imm_val": 185141748,
+      "insn": {
+        "insn_va": 62729543,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0909f4",
+        "bytes": "68f409090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2120,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62757386,
+      "imm_val": 185140040,
+      "insn": {
+        "insn_va": 62757385,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090348",
+        "bytes": "684803090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 412,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62758787,
+      "imm_val": 185140144,
+      "insn": {
+        "insn_va": 62758786,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0903b0",
+        "bytes": "68b003090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62759860,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 62759854,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x140], 0xb0903ac",
+        "bytes": "c785c0feffffac03090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62760102,
+      "imm_val": 185140140,
+      "insn": {
+        "insn_va": 62760099,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0903ac",
+        "bytes": "c74608ac03090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 512,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62761445,
+      "imm_val": 185140204,
+      "insn": {
+        "insn_va": 62761444,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0903ec",
+        "bytes": "68ec03090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 576,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62761850,
+      "imm_val": 185140236,
+      "insn": {
+        "insn_va": 62761849,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09040c",
+        "bytes": "680c04090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 608,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62762229,
+      "imm_val": 185140260,
+      "insn": {
+        "insn_va": 62762228,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090424",
+        "bytes": "682404090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 632,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62762901,
+      "imm_val": 185140320,
+      "insn": {
+        "insn_va": 62762900,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090460",
+        "bytes": "686004090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764285,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764282,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090adc",
+        "bytes": "c74584dc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764493,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764490,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090adc",
+        "bytes": "c74608dc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62764762,
+      "imm_val": 185141980,
+      "insn": {
+        "insn_va": 62764759,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0x7c], 0xb090adc",
+        "bytes": "c74584dc0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2352,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62765380,
+      "imm_val": 185141984,
+      "insn": {
+        "insn_va": 62765379,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ae0",
+        "bytes": "68e00a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2356,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62769930,
+      "imm_val": 185143076,
+      "insn": {
+        "insn_va": 62769929,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f24",
+        "bytes": "68240f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3448,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62770858,
+      "imm_val": 185143172,
+      "insn": {
+        "insn_va": 62770857,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f84",
+        "bytes": "68840f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3544,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62771173,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 62771167,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f80",
+        "bytes": "c7855cffffff800f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62771398,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 62771395,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090f80",
+        "bytes": "c74608800f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62771685,
+      "imm_val": 185143168,
+      "insn": {
+        "insn_va": 62771679,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f80",
+        "bytes": "c7855cffffff800f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3540,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62772356,
+      "imm_val": 185143180,
+      "insn": {
+        "insn_va": 62772355,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f8c",
+        "bytes": "688c0f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62776394,
+      "imm_val": 185142944,
+      "insn": {
+        "insn_va": 62776393,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ea0",
+        "bytes": "68a00e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3316,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62777640,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 62777634,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f08",
+        "bytes": "c7855cffffff080f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62777865,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 62777862,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090f08",
+        "bytes": "c74608080f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62778152,
+      "imm_val": 185143048,
+      "insn": {
+        "insn_va": 62778146,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090f08",
+        "bytes": "c7855cffffff080f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3420,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62778820,
+      "imm_val": 185143052,
+      "insn": {
+        "insn_va": 62778819,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f0c",
+        "bytes": "680c0f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3424,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62782282,
+      "imm_val": 185141800,
+      "insn": {
+        "insn_va": 62782281,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090a28",
+        "bytes": "68280a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2172,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62783194,
+      "imm_val": 185141216,
+      "insn": {
+        "insn_va": 62783193,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0907e0",
+        "bytes": "68e007090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1588,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62783961,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 62783955,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb090a5c",
+        "bytes": "c78540ffffff5c0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62784204,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 62784201,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090a5c",
+        "bytes": "c746085c0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62784490,
+      "imm_val": 185141852,
+      "insn": {
+        "insn_va": 62784484,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xc0], 0xb090a5c",
+        "bytes": "c78540ffffff5c0a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2224,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62786405,
+      "imm_val": 185141856,
+      "insn": {
+        "insn_va": 62786404,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090a60",
+        "bytes": "68600a090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2228,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62805854,
+      "imm_val": 185140380,
+      "insn": {
+        "insn_va": 62805853,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09049c",
+        "bytes": "689c04090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 752,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62807493,
+      "imm_val": 185140392,
+      "insn": {
+        "insn_va": 62807492,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904a8",
+        "bytes": "68a804090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 764,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62807898,
+      "imm_val": 185140424,
+      "insn": {
+        "insn_va": 62807897,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904c8",
+        "bytes": "68c804090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62808277,
+      "imm_val": 185140448,
+      "insn": {
+        "insn_va": 62808276,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0904e0",
+        "bytes": "68e004090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 820,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62808949,
+      "imm_val": 185140508,
+      "insn": {
+        "insn_va": 62808948,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09051c",
+        "bytes": "681c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 880,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62839562,
+      "imm_val": 185143444,
+      "insn": {
+        "insn_va": 62839561,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091094",
+        "bytes": "689410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62840981,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 62840975,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xbc], 0xb0910f0",
+        "bytes": "c78544fffffff010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62841218,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 62841215,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0910f0",
+        "bytes": "c74608f010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62841505,
+      "imm_val": 185143536,
+      "insn": {
+        "insn_va": 62841499,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xbc], 0xb0910f0",
+        "bytes": "c78544fffffff010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3908,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62842180,
+      "imm_val": 185143540,
+      "insn": {
+        "insn_va": 62842179,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0910f4",
+        "bytes": "68f410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3912,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62855914,
+      "imm_val": 185139712,
+      "insn": {
+        "insn_va": 62855913,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090200",
+        "bytes": "680002090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 84,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62857317,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 62857311,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090278",
+        "bytes": "c7855cffffff7802090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62857543,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 62857540,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb090278",
+        "bytes": "c746087802090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62857830,
+      "imm_val": 185139832,
+      "insn": {
+        "insn_va": 62857824,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb090278",
+        "bytes": "c7855cffffff7802090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 204,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62858885,
+      "imm_val": 185139836,
+      "insn": {
+        "insn_va": 62858884,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb09027c",
+        "bytes": "687c02090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 208,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62859290,
+      "imm_val": 185139876,
+      "insn": {
+        "insn_va": 62859289,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0902a4",
+        "bytes": "68a402090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 248,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62859783,
+      "imm_val": 185139904,
+      "insn": {
+        "insn_va": 62859782,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb0902c0",
+        "bytes": "68c002090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 276,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62860453,
+      "imm_val": 185139976,
+      "insn": {
+        "insn_va": 62860452,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090308",
+        "bytes": "680803090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 348,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62864842,
+      "imm_val": 185143328,
+      "insn": {
+        "insn_va": 62864841,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091020",
+        "bytes": "682010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3700,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62865770,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 62865769,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62866085,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 62866079,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb09107c",
+        "bytes": "c7855cffffff7c10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62866310,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 62866307,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb09107c",
+        "bytes": "c746087c10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62866597,
+      "imm_val": 185143420,
+      "insn": {
+        "insn_va": 62866591,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb09107c",
+        "bytes": "c7855cffffff7c10090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3792,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62867268,
+      "imm_val": 185143424,
+      "insn": {
+        "insn_va": 62867267,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091080",
+        "bytes": "688010090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62868234,
+      "imm_val": 185143200,
+      "insn": {
+        "insn_va": 62868233,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090fa0",
+        "bytes": "68a00f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3572,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869165,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 62869164,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869480,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 62869474,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb091004",
+        "bytes": "c7855cffffff0410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869705,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 62869702,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb091004",
+        "bytes": "c746080410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62869992,
+      "imm_val": 185143300,
+      "insn": {
+        "insn_va": 62869986,
+        "size": 10,
+        "mnem": "mov",
+        "op_str": "dword ptr [ebp - 0xa4], 0xb091004",
+        "bytes": "c7855cffffff0410090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3672,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 62870660,
+      "imm_val": 185143304,
+      "insn": {
+        "insn_va": 62870659,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb091008",
+        "bytes": "680810090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3676,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63042331,
+      "imm_val": 185140572,
+      "insn": {
+        "insn_va": 63042328,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [eax + 4], 0xb09055c",
+        "bytes": "c740045c05090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 944,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63051643,
+      "imm_val": 185140596,
+      "insn": {
+        "insn_va": 63051640,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [eax + 4], 0xb090574",
+        "bytes": "c740047405090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 968,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63051771,
+      "imm_val": 185140616,
+      "insn": {
+        "insn_va": 63051768,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [eax + 4], 0xb090588",
+        "bytes": "c740048805090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 988,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63090095,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 63090092,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [esi + 8], 0xb0905d0",
+        "bytes": "c74608d005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 63098620,
+      "imm_val": 185140688,
+      "insn": {
+        "insn_va": 63098617,
+        "size": 7,
+        "mnem": "mov",
+        "op_str": "dword ptr [edi + 8], 0xb0905d0",
+        "bytes": "c74708d005090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1060,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 68655151,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 68655150,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 68659110,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 68659109,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81548726,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 81548725,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81637963,
+      "imm_val": 185142056,
+      "insn": {
+        "insn_va": 81637962,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b28",
+        "bytes": "68280b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2428,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81638006,
+      "imm_val": 185142088,
+      "insn": {
+        "insn_va": 81638005,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b48",
+        "bytes": "68480b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2460,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639568,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 81639567,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639673,
+      "imm_val": 185142268,
+      "insn": {
+        "insn_va": 81639672,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bfc",
+        "bytes": "68fc0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639693,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 81639692,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81639713,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 81639712,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640146,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 81640145,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640241,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 81640240,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640266,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 81640265,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640286,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 81640285,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640306,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 81640305,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640326,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 81640325,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640345,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 81640344,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640381,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 81640380,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640426,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 81640425,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640446,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 81640445,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640484,
+      "imm_val": 185142504,
+      "insn": {
+        "insn_va": 81640483,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ce8",
+        "bytes": "68e80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2876,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640504,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 81640503,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640524,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 81640523,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640638,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 81640637,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81640973,
+      "imm_val": 185142456,
+      "insn": {
+        "insn_va": 81640972,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cb8",
+        "bytes": "68b80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2828,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81643492,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 81643491,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81644897,
+      "imm_val": 185142144,
+      "insn": {
+        "insn_va": 81644896,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b80",
+        "bytes": "68800b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2516,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81648091,
+      "imm_val": 185142692,
+      "insn": {
+        "insn_va": 81648090,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090da4",
+        "bytes": "68a40d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3064,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81648130,
+      "imm_val": 185142728,
+      "insn": {
+        "insn_va": 81648129,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090dc8",
+        "bytes": "68c80d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3100,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81649673,
+      "imm_val": 185142252,
+      "insn": {
+        "insn_va": 81649672,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bec",
+        "bytes": "68ec0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2624,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81649778,
+      "imm_val": 185142268,
+      "insn": {
+        "insn_va": 81649777,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090bfc",
+        "bytes": "68fc0b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81649818,
+      "imm_val": 185142296,
+      "insn": {
+        "insn_va": 81649817,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c18",
+        "bytes": "68180c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2668,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650256,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 81650255,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650351,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 81650350,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650376,
+      "imm_val": 185142336,
+      "insn": {
+        "insn_va": 81650375,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c40",
+        "bytes": "68400c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2708,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650396,
+      "imm_val": 185142356,
+      "insn": {
+        "insn_va": 81650395,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c54",
+        "bytes": "68540c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2728,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650416,
+      "imm_val": 185142376,
+      "insn": {
+        "insn_va": 81650415,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c68",
+        "bytes": "68680c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2748,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650436,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 81650435,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650455,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 81650454,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650491,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 81650490,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650536,
+      "imm_val": 185142424,
+      "insn": {
+        "insn_va": 81650535,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c98",
+        "bytes": "68980c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2796,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650556,
+      "imm_val": 185142432,
+      "insn": {
+        "insn_va": 81650555,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ca0",
+        "bytes": "68a00c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2804,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650594,
+      "imm_val": 185142504,
+      "insn": {
+        "insn_va": 81650593,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ce8",
+        "bytes": "68e80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2876,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650614,
+      "imm_val": 185142548,
+      "insn": {
+        "insn_va": 81650613,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d14",
+        "bytes": "68140d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2920,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650634,
+      "imm_val": 185142560,
+      "insn": {
+        "insn_va": 81650633,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090d20",
+        "bytes": "68200d090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2932,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81650750,
+      "imm_val": 185142444,
+      "insn": {
+        "insn_va": 81650749,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cac",
+        "bytes": "68ac0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2816,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81651085,
+      "imm_val": 185142456,
+      "insn": {
+        "insn_va": 81651084,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090cb8",
+        "bytes": "68b80c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2828,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81652355,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 81652354,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81653212,
+      "imm_val": 185142180,
+      "insn": {
+        "insn_va": 81653211,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090ba4",
+        "bytes": "68a40b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2552,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81662743,
+      "imm_val": 185143172,
+      "insn": {
+        "insn_va": 81662742,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090f84",
+        "bytes": "68840f090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3544,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81665791,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 81665790,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81673671,
+      "imm_val": 185142396,
+      "insn": {
+        "insn_va": 81673670,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c7c",
+        "bytes": "687c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2768,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81677415,
+      "imm_val": 185142388,
+      "insn": {
+        "insn_va": 81677414,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c74",
+        "bytes": "68740c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2760,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 81942383,
+      "imm_val": 185142284,
+      "insn": {
+        "insn_va": 81942382,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c0c",
+        "bytes": "680c0c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2656,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 82128450,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 82128449,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 85844862,
+      "imm_val": 185141268,
+      "insn": {
+        "insn_va": 85844861,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090814",
+        "bytes": "681408090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1640,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86142784,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 86142783,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86143105,
+      "imm_val": 185142320,
+      "insn": {
+        "insn_va": 86143104,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c30",
+        "bytes": "68300c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2692,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86653689,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 86653688,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 86747863,
+      "imm_val": 185142408,
+      "insn": {
+        "insn_va": 86747862,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c88",
+        "bytes": "68880c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2780,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 89593889,
+      "imm_val": 185142809,
+      "insn": {
+        "insn_va": 89593886,
+        "size": 7,
+        "mnem": "or",
+        "op_str": "ecx, dword ptr [ecx + 0xb090e19]",
+        "bytes": "0b0c0d190e090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 3181,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 96874462,
+      "imm_val": 185140744,
+      "insn": {
+        "insn_va": 96874461,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090608",
+        "bytes": "680806090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1116,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 96874749,
+      "imm_val": 185140756,
+      "insn": {
+        "insn_va": 96874748,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090614",
+        "bytes": "681406090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1128,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 107344979,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 107344978,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 109828410,
+      "imm_val": 185142120,
+      "insn": {
+        "insn_va": 109828409,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090b68",
+        "bytes": "68680b090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2492,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 130013240,
+      "imm_val": 185140768,
+      "insn": {
+        "insn_va": 130013239,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090620",
+        "bytes": "682006090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 1140,
+      "depth": null,
+      "on_presend_chain": false
+    },
+    {
+      "byte_va": 133652196,
+      "imm_val": 185142308,
+      "insn": {
+        "insn_va": 133652195,
+        "size": 5,
+        "mnem": "push",
+        "op_str": "0xb090c24",
+        "bytes": "68240c090b"
+      },
+      "fn_va": null,
+      "fn_rva": null,
+      "pool_off": 2680,
+      "depth": null,
+      "on_presend_chain": false
+    }
+  ]
+}

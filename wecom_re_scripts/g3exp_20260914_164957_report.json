@@ -1,0 +1,351 @@
+{
+  "ts": "20260914_164957",
+  "lit": {
+    "utf8": [],
+    "utf16": []
+  },
+  "xrefs": {},
+  "presends": [
+    {
+      "phase": "enter",
+      "t": "presend_enter",
+      "sn": 1,
+      "arg1": "0x14b7e318",
+      "u8": -1,
+      "u16": -1,
+      "chased": []
+    },
+    {
+      "phase": "leave",
+      "t": "presend_leave",
+      "sn": 1,
+      "retval": "0x14b7e278",
+      "u8": -1,
+      "u16": -1,
+      "memcpy_hits": 16
+    }
+  ],
+  "memcpy_hits": [
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 10,
+      "enc": "utf8",
+      "off": 2,
+      "dst": "0x2bd30e0e",
+      "src": "0x2bdc44a0",
+      "caller_rva": "0x9933daa",
+      "bt": [
+        "wx+0x9933daa",
+        "wx+0x9937fd3",
+        "wx+0x993806b",
+        "wx+0x15a0e13",
+        "wx+0x99381f3",
+        "wx+0x1589e65"
+      ],
+      "src_head": "0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 10,
+      "enc": "utf8",
+      "off": 2,
+      "dst": "0x2bd30e0e",
+      "src": "0x2bdc44a0",
+      "caller_rva": "0x9933daa",
+      "bt": [
+        "wx+0x9933daa",
+        "wx+0x9937fd3",
+        "wx+0x993806b",
+        "wx+0x15a0e13",
+        "wx+0x99381f3",
+        "wx+0x1589e65"
+      ],
+      "src_head": "0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30e58",
+      "src": "0x2bd30e08",
+      "caller_rva": "0x1e91c7",
+      "bt": [
+        "wx+0x1e91c7",
+        "wx+0x1e923a",
+        "wx+0x7d019fb",
+        "wx+0x2baa0ee",
+        "0x77908244",
+        "0x778c3ef6"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30e58",
+      "src": "0x2bd30e08",
+      "caller_rva": "0x1e91c7",
+      "bt": [
+        "wx+0x1e91c7",
+        "wx+0x1e923a",
+        "wx+0x7d019fb",
+        "wx+0x2baa0ee",
+        "0x77908244",
+        "0x778c3ef6"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 10,
+      "enc": "utf8",
+      "off": 2,
+      "dst": "0x2bd3112e",
+      "src": "0x2bdc44a0",
+      "caller_rva": "0x9933daa",
+      "bt": [
+        "wx+0x9933daa",
+        "wx+0x9937fd3",
+        "wx+0x993806b",
+        "wx+0x15a0e13",
+        "wx+0x99381f3",
+        "wx+0x1589e65"
+      ],
+      "src_head": "0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 10,
+      "enc": "utf8",
+      "off": 2,
+      "dst": "0x2bd3112e",
+      "src": "0x2bdc44a0",
+      "caller_rva": "0x9933daa",
+      "bt": [
+        "wx+0x9933daa",
+        "wx+0x9937fd3",
+        "wx+0x993806b",
+        "wx+0x15a0e13",
+        "wx+0x99381f3",
+        "wx+0x1589e65"
+      ],
+      "src_head": "0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30e58",
+      "src": "0x2bd31128",
+      "caller_rva": "0x1e9222",
+      "bt": [
+        "wx+0x1e9222",
+        "wx+0x7d019fb",
+        "wx+0x2baa238",
+        "0x77908244",
+        "0x778c3ef6",
+        "0x76a93c9b"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30e58",
+      "src": "0x2bd31128",
+      "caller_rva": "0x1e9222",
+      "bt": [
+        "wx+0x1e9222",
+        "wx+0x7d019fb",
+        "wx+0x2baa238",
+        "0x77908244",
+        "0x778c3ef6",
+        "0x76a93c9b"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 17,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd311f0",
+      "src": "0x2bd30e58",
+      "caller_rva": "0x1e966c",
+      "bt": [
+        "wx+0x1e966c",
+        "wx+0x1e96be",
+        "wx+0x8366ead",
+        "0x76a93c68",
+        "wx+0x9ba54e4",
+        "wx+0x84699f8"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d00"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 17,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd311f0",
+      "src": "0x2bd30e58",
+      "caller_rva": "0x1e966c",
+      "bt": [
+        "wx+0x1e966c",
+        "wx+0x1e96be",
+        "wx+0x8366ead",
+        "0x76a93c68",
+        "wx+0x9ba54e4",
+        "wx+0x84699f8"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d00"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd31178",
+      "src": "0x2bd311f0",
+      "caller_rva": "0x2d8014",
+      "bt": [
+        "wx+0x2d8014",
+        "wx+0x38912b",
+        "wx+0x1e966c",
+        "wx+0x8366edb",
+        "0x76a93c68",
+        "wx+0x9ba54e4"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd31178",
+      "src": "0x2bd311f0",
+      "caller_rva": "0x2d8014",
+      "bt": [
+        "wx+0x2d8014",
+        "wx+0x38912b",
+        "wx+0x1e966c",
+        "wx+0x8366edb",
+        "0x76a93c68",
+        "wx+0x9ba54e4"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x25fa744b",
+      "src": "0x2bd31178",
+      "caller_rva": "0x2dbf2d",
+      "bt": [
+        "wx+0x2dbf2d",
+        "wx+0x2e357e",
+        "0x47c28b06",
+        "0x47c28b14",
+        "wx+0x2d8014",
+        "0x47b17fee"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 16,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x25fa744b",
+      "src": "0x2bd31178",
+      "caller_rva": "0x2dbf2d",
+      "bt": [
+        "wx+0x2dbf2d",
+        "wx+0x2e357e",
+        "0x47c28b06",
+        "0x47c28b14",
+        "wx+0x2d8014",
+        "0x47b17fee"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memcpy",
+      "n": 17,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30ef8",
+      "src": "0x2bd30e58",
+      "caller_rva": "0x1e966c",
+      "bt": [
+        "wx+0x1e966c",
+        "wx+0x1e96be",
+        "wx+0x7cf9ed0",
+        "wx+0x2ba9e26",
+        "wx+0x2baa494",
+        "0x77908244"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d00"
+    },
+    {
+      "t": "memcpy_hit",
+      "hook": "vcruntime140.dll!memmove",
+      "n": 17,
+      "enc": "utf8",
+      "off": 8,
+      "dst": "0x2bd30ef8",
+      "src": "0x2bd30e58",
+      "caller_rva": "0x1e966c",
+      "bt": [
+        "wx+0x1e966c",
+        "wx+0x1e96be",
+        "wx+0x7cf9ed0",
+        "wx+0x2ba9e26",
+        "wx+0x2baa494",
+        "0x77908244"
+      ],
+      "src_head": "0a0e0800120a0a085be8afade99fb35d00"
+    }
+  ],
+  "memcpy_hooked": [
+    "msvcrt.dll!memcpy",
+    "msvcrt.dll!memmove",
+    "vcruntime140.dll!memcpy",
+    "vcruntime140.dll!memmove",
+    "ntdll.dll!memmove",
+    "ntdll.dll!memcpy",
+    "ntdll.dll!RtlMoveMemory"
+  ],
+  "callers": {
+    "0x9933daa": 4,
+    "0x1e91c7": 2,
+    "0x1e9222": 2,
+    "0x1e966c": 4,
+    "0x2d8014": 2,
+    "0x2dbf2d": 2
+  }
+}

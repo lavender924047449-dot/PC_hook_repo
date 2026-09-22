@@ -1,0 +1,3221 @@
+{
+  "infile": "d:\\Only internship outputs\\Test-Voice\\runtime\\wecom_re\\logger_trace_9148_180s_bt.json",
+  "db_count": 33,
+  "dbs": [
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\session.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404280,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x2e1058e WXWork.exe!tinyxml2::XMLDocument::ErrorLineNum",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434304,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x2bbde2e WXWork.exe!tinyxml2::XMLDocument::ErrorLineNum",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0xd20309 WXWork.exe!tinyxml2::XMLDocument::ShallowEqual",
+            "0x5460522 WXWork.exe!tinyxml2::XMLPrinter::__autoclassinit2",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494338,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\session.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x2bbde2e WXWork.exe!tinyxml2::XMLDocument::ErrorLineNum",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\message.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404280,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434304,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494338,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\message_lookup.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404280,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434304,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x31156f2 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494338,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\user.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404281,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434304,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494339,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\file.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404282,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434304,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494339,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\forever_store.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404282,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494339,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\forever_store.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\avatar_store_v3.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404282,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\avatar_store_v3.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\avatar_store_v3.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\avatar_store_v3.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\avatar_store_v3.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\index_master.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404283,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464320,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\userdept_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404283,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\userdept_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\userdept_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\userdept_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\userdept_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404283,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\session_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404283,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434305,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\collection_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404283,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494340,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\announce_index_log.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index_log.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\user_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\user_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\user_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464321,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\user_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\user_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\data_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\data_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\data_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\data_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\data_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x311a8fe WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\collection_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\session_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404284,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434306,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x311b4a7 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494341,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\session_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\announce_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404285,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x311baf2 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\company.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404285,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464322,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\company.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\kv.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404285,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\kv.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\kv.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\kv.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\kv.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\user_extend.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404286,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user_extend.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user_extend.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user_extend.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\user_extend.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\sms_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\sms_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\sms_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x311d256 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\sms_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\sms_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\hot_index.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434307,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\crm.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\crm.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\crm.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\crm.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494342,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\crm.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\tencent_doc_list.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\tencent_doc_list.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\tencent_doc_list.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\tencent_doc_list.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494343,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\tencent_doc_list.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\calendar_r7.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x311e9da WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464323,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494343,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\calendar_r7.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\voip_meeting.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404287,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\voip_meeting.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\voip_meeting.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464324,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\voip_meeting.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494343,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\voip_meeting.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\data\\govern.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404288,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\govern.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\govern.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938464324,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\govern.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494343,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\govern.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x7768c21c WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7768c2cb WXWork.exe!RtlQueryPerformanceCounter",
+            "0x7767655f WXWork.exe!RtlAllocateHeap",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8ebb200 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\cachemapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+      "ret_counts": [
+        {
+          "ret": "0xe6b0a4",
+          "count": 4
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404288,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\CacheMapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x8d22ea5 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938434308,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\CacheMapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x54e0524 WXWork.exe!tinyxml2::XMLPrinter::__autoclassinit2",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort"
+          ]
+        },
+        {
+          "ts": 1788938464324,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\CacheMapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x8d22ea5 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938494344,
+          "ret": "0xe6b0a4",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\CacheMapping\\8265c3af1bf3caf03c1ed1207ace4496.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x6d144f7a WXWork.exe!Mtx_unlock",
+            "0x8f34bd6 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8f34be8 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x18602c0 WXWork.exe!tinyxml2::XMLNode::GetLineNum",
+            "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x6d145016 WXWork.exe!Thrd_abort",
+            "0x6d1450d9 WXWork.exe!Thrd_abort"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\users\\lenovo\\documents\\wxwork\\1688855042791155\\index\\message_index_v1_1.db",
+      "ret_counts": [
+        {
+          "ret": "0x2e86445",
+          "count": 2
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938532898,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0x2e86445 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x2e907ee WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x2e97111 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x8e47908 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0xa6754e4 WXWork.exe!nghttp2_rcbuf_is_static",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c68 WXWork.exe!free",
+            "0x2e898eb WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0x8e3e886 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8e2be7a WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8d37a03 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        },
+        {
+          "ts": 1788938533859,
+          "ret": "0x2e86445",
+          "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\message_index_v1_1.db",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0x2e86445 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x2e907ee WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x2e97111 WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x8e47908 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0xa6754e4 WXWork.exe!nghttp2_rcbuf_is_static",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c68 WXWork.exe!free",
+            "0x2e898eb WXWork.exe!boost::archive::codecvt_null<wchar_t>::do_encoding",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0x8e3e886 WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8e2be7a WXWork.exe!tinyxml2::XMLPrinter::Write",
+            "0x8d37a03 WXWork.exe!tinyxml2::XMLPrinter::Write"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\network\\common\\internal\\command\\base\\base_cgi_command.cpp |  |  | 㩃摜癥灯屳慤慴灜攭搶搴〶愶戴㐵㐵愴㡤㈱㜴敡愷攸㜷屦牳屣楷屮敮睴牯屫潣浭湯楜瑮牥慮屬潣浭湡層慢敳扜獡彥杣彩潣浭湡⹤灣p⸸ㄱ9ᛧ役慴ꮼ׮✀耂㩃摜癥灯屳慤慴灜攭搶搴〶愶戴㐵㐵愴㡤㈱㜴敡愷攸㜷屦畳浢摯睜睸牯彫潩屳牳屣潭楢敬晟慲敭潷歲湜瑥潷歲慜祳据獟捯敫⹴灣per.db",
+      "ret_counts": [
+        {
+          "ret": "0xe63712",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938390186,
+          "ret": "0xe63712",
+          "s0": "C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\network\\common\\internal\\command\\base\\base_cgi_command.cpp",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe63712 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xe62f4f WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0xe71884 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf1aa4a WXWork.exe!tinyxml2::XMLText::CData",
+            "0x76b4040a WXWork.exe!GetQueuedCompletionStatus",
+            "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData",
+            "0x7768b0b9 WXWork.exe!RtlSetLastWin32Error"
+          ]
+        }
+      ]
+    },
+    {
+      "db": "c:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\logic\\internal\\collection\\get_all_collect_p2p_file_msg_task.cpp |  |  | 㩃摜癥灯屳慤慴灜攭搶搴〶愶戴㐵㐵愴㡤㈱㜴敡愷攸㜷屦牳屣楷屮潬楧屣湩整湲污捜汯敬瑣潩屮敧彴污彬潣汬捥彴㉰彰楦敬浟杳瑟獡⹫灣pᛧ役慴ꮼ׮✀耂㩃摜癥灯屳慤慴灜攭搶搴〶愶戴㐵㐵愴㡤㈱㜴敡愷攸㜷屦畳浢摯睜睸牯彫潩屳牳屣潭楢敬晟慲敭潷歲湜瑥潷歲慜祳据獟捯敫⹴灣per.db",
+      "ret_counts": [
+        {
+          "ret": "0xe63712",
+          "count": 1
+        }
+      ],
+      "samples": [
+        {
+          "ts": 1788938404332,
+          "ret": "0xe63712",
+          "s0": "C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\src\\win\\logic\\internal\\collection\\get_all_collect_p2p_file_msg_task.cpp",
+          "s1": "",
+          "s2": "",
+          "bt": [
+            "0xe63712 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0xe62f4f WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0x776b8244 WXWork.exe!RtlGetNtGlobalFlags",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x77673ef6 WXWork.exe!RtlFreeHeap",
+            "0x75d23c9b WXWork.exe!free_base",
+            "0xe71884 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf1aa4a WXWork.exe!tinyxml2::XMLText::CData",
+            "0x76b4040a WXWork.exe!GetQueuedCompletionStatus",
+            "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xe60b39 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf193f2 WXWork.exe!tinyxml2::XMLNode::LastChild",
+            "0xf19fa7 WXWork.exe!tinyxml2::XMLText::CData"
+          ]
+        }
+      ]
+    }
+  ]
+}

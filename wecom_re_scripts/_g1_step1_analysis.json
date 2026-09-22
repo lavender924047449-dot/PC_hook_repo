@@ -1,0 +1,132 @@
+{
+  "0b9bccf4": {
+    "label": "voice_id marker ★★★",
+    "entries": [
+      {
+        "file": "voice_recv_20260914_153937_vt0b9bccf4_n1_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0b9bccf4_n2_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0b9bccf4_n3_arg0.bin",
+        "size": 8192,
+        "tail": 8143,
+        "marker_cnt": 20,
+        "proto_fields": 0
+      }
+    ]
+  },
+  "0bdfebb8": {
+    "label": "rtxapp marker",
+    "entries": [
+      {
+        "file": "voice_recv_20260914_153937_vt0bdfebb8_n1_arg0.bin",
+        "size": 8192,
+        "tail": 8191,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0bdfebb8_n2_arg0.bin",
+        "size": 8192,
+        "tail": 8191,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0bdfebb8_n3_arg0.bin",
+        "size": 8192,
+        "tail": 8160,
+        "marker_cnt": 26,
+        "proto_fields": 0
+      }
+    ]
+  },
+  "0ba8edc8": {
+    "label": "known recv-voice §47.15",
+    "entries": [
+      {
+        "file": "voice_recv_20260914_153937_vt0ba8edc8_n1_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 1,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0ba8edc8_n2_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 3,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0ba8edc8_n3_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      }
+    ]
+  },
+  "0ba3e568": {
+    "label": "medium unknown",
+    "entries": [
+      {
+        "file": "voice_recv_20260914_153937_vt0ba3e568_n1_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 1,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0ba3e568_n2_arg0.bin",
+        "size": 8192,
+        "tail": 8188,
+        "marker_cnt": 1,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0ba3e568_n3_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      }
+    ]
+  },
+  "0b986d44": {
+    "label": "medium unknown",
+    "entries": [
+      {
+        "file": "voice_recv_20260914_153937_vt0b986d44_n1_arg0.bin",
+        "size": 8192,
+        "tail": 8157,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0b986d44_n2_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      },
+      {
+        "file": "voice_recv_20260914_153937_vt0b986d44_n3_arg0.bin",
+        "size": 8192,
+        "tail": 8192,
+        "marker_cnt": 0,
+        "proto_fields": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "steps": [
+    "FileService=0x2b75f000",
+    "initCdnUploadParam",
+    "file_type=5 @+0x1c",
+    "CdnUploadFile NativeFunction"
+  ],
+  "file_service_hits": [
+    "0x2b75f000"
+  ],
+  "this_va": "0x2b75f000",
+  "inner_va": "0x2b5983c0",
+  "inner_gate_48": 632597964,
+  "default_param": {
+    "va": "0xb9559f0",
+    "rva": "0xb7959f0",
+    "source": "init_push"
+  },
+  "param_after_init": {
+    "label": "after_init",
+    "va": "0x26ce7e00",
+    "dwords": [
+      "0xb955b58",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x27c8ff38",
+      "0x62",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0"
+    ],
+    "strings": []
+  },
+  "param_final": {
+    "label": "final",
+    "va": "0x26ce7e00",
+    "dwords": [
+      "0xb955b58",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x27c8ff38",
+      "0x62",
+      "0x0",
+      "0x5",
+      "0x0",
+      "0x0",
+      "0x0"
+    ],
+    "strings": []
+  },
+  "fn_va": "0x2659bb0",
+  "param_va": "0x26ce7e00",
+  "cb_done": "0x26cefe60",
+  "cb_prog": "0x35cce490",
+  "probe_before": {
+    "total": 0,
+    "byClass": {
+      "CdnUploadFileTask": 0,
+      "BigCdnUploadFileTask": 0,
+      "DownloadFileTask2": 0,
+      "DownloadFtnFileTask": 0,
+      "CdnCopyFileTask": 0
+    }
+  },
+  "called": true,
+  "watch": {
+    "n_tasks": 0,
+    "dumps": [],
+    "patches": [],
+    "duration_ms": 15089
+  },
+  "probe_after": {
+    "total": 0,
+    "byClass": {
+      "CdnUploadFileTask": 0,
+      "BigCdnUploadFileTask": 0,
+      "DownloadFileTask2": 0,
+      "DownloadFtnFileTask": 0,
+      "CdnCopyFileTask": 0
+    }
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "t": "new",
+    "n": 1,
+    "new_n": 1,
+    "len": 42,
+    "bt": [
+      {
+        "addr": "0xa3b8363",
+        "sym": "0xa3b8363 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x7581dff0",
+        "sym": "0x7581dff0 WXWork.exe!WSASend"
+      },
+      {
+        "addr": "0xa3be75d",
+        "sym": "0xa3be75d WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3be58a",
+        "sym": "0xa3be58a WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3b8a87",
+        "sym": "0xa3b8a87 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3c1279",
+        "sym": "0xa3c1279 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x111114b",
+        "sym": "0x111114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x1110b39",
+        "sym": "0x1110b39 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c93f2",
+        "sym": "0x11c93f2 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c9fa7",
+        "sym": "0x11c9fa7 WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x11caacd",
+        "sym": "0x11caacd WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x75b84f9f",
+        "sym": "0x75b84f9f WXWork.exe!o_iswdigit"
+      }
+    ]
+  },
+  {
+    "t": "new",
+    "n": 2,
+    "new_n": 2,
+    "len": 384,
+    "bt": [
+      {
+        "addr": "0xa3b8363",
+        "sym": "0xa3b8363 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x7581dff0",
+        "sym": "0x7581dff0 WXWork.exe!WSASend"
+      },
+      {
+        "addr": "0xa3be75d",
+        "sym": "0xa3be75d WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3be58a",
+        "sym": "0xa3be58a WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3b8a87",
+        "sym": "0xa3b8a87 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3c1279",
+        "sym": "0xa3c1279 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x111114b",
+        "sym": "0x111114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x1110b39",
+        "sym": "0x1110b39 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c93f2",
+        "sym": "0x11c93f2 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c9fa7",
+        "sym": "0x11c9fa7 WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x11caacd",
+        "sym": "0x11caacd WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x75b84f9f",
+        "sym": "0x75b84f9f WXWork.exe!o_iswdigit"
+      }
+    ]
+  },
+  {
+    "t": "new",
+    "n": 3,
+    "new_n": 3,
+    "len": 42,
+    "bt": [
+      {
+        "addr": "0xa3b8363",
+        "sym": "0xa3b8363 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x7581dff0",
+        "sym": "0x7581dff0 WXWork.exe!WSASend"
+      },
+      {
+        "addr": "0xa3be75d",
+        "sym": "0xa3be75d WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3be58a",
+        "sym": "0xa3be58a WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3b8a87",
+        "sym": "0xa3b8a87 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0xa3c1279",
+        "sym": "0xa3c1279 WXWork.exe!tinyxml2::XMLPrinter::Write"
+      },
+      {
+        "addr": "0x111114b",
+        "sym": "0x111114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x1110b39",
+        "sym": "0x1110b39 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c93f2",
+        "sym": "0x11c93f2 WXWork.exe!tinyxml2::XMLNode::LastChild"
+      },
+      {
+        "addr": "0x11c9fa7",
+        "sym": "0x11c9fa7 WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x11caacd",
+        "sym": "0x11caacd WXWork.exe!tinyxml2::XMLText::CData"
+      },
+      {
+        "addr": "0x75b84f9f",
+        "sym": "0x75b84f9f WXWork.exe!o_iswdigit"
+      }
+    ]
+  }
+]

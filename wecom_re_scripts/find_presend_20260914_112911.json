@@ -1,0 +1,12 @@
+{
+  "ts": "20260914_112911",
+  "pid": 16604,
+  "module": {
+    "t": "mod",
+    "name": "WXWork.exe",
+    "base": "0x5e0000",
+    "size": 270573568
+  },
+  "sections": {},
+  "results": []
+}

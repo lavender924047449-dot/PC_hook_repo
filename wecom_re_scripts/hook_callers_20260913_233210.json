@@ -1,0 +1,19 @@
+{
+  "pid": 28504,
+  "hits": {
+    "0x919c941": {
+      "count": 1,
+      "ctor_rva": 45562018,
+      "ctx_after_call": "eb 02 33 f6 8b 7d 08 8d 46 10 0f 57 c0 66 0f d6 07 c7 47 04 00 00 00 00 89 07 89 77 04 85 c0 0f 84 92 00 00 00 8b 48 08 85 c9 74 0a 83 79 04 00 0f 85 81 00 00 00 85 f6 74 04 f0 ff 46 04 8b 5f 04 33 c9 33 d2 85 db 74 08 8b d3 f0 ff 43 08 8b",
+      "ctx_before_call": "c7 46 08 00 00 00 00 c7 46 04 01 00 00 00 c7 46 08 01 00 00 00 c7 06 bc 7c 66 0b e8 5f 6f 9d f9",
+      "subtype_writes": []
+    },
+    "0x2b7abfd": {
+      "count": 1,
+      "ctor_rva": 45566002,
+      "ctx_after_call": "f6 45 08 01 74 0e 68 98 02 00 00 56 e8 cb a8 02 07 83 c4 08 8b c6 5e 5d c2 04 00 cc cc cc cc cc cc cc cc 66 90 55 8b ec f6 45 08 01 56 8b f1 c7 06 c8 b1 d7 0a 74 0b 6a 04 56 e8 9d a8 02 07 83 c4 08 8b c6 5e 5d c2 04 00 cc cc cc cc cc cc cc",
+      "ctx_before_call": "08 8b c6 5e 5d c2 04 00 cc cc cc cc cc cc cc cc cc cc cc 66 90 55 8b ec 56 8b f1 e8 33 9c ff ff",
+      "subtype_writes": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 39,
+  "src": "SSL_read",
+  "n": 16384,
+  "hits": [
+    {
+      "name": "silk_tag_02_24",
+      "off": 16257
+    }
+  ],
+  "head_hex": "9d84395a6b319e81f7cfa5e52fb48e1f18fb58a6d49547b3d1be497706c3a07e64408b6cc3f8b4c055c3788ba75380569829af6bd25a4454fb3e2a8a8932c963b5d58aa73babf1fb82a6aced668bf34ac7c51c03f9e00a101fb385ffe947e2f35064e15ae685d23e239006b94befd3596ab5ecdddc2af707b6301f463d184e9df3216bf00d53f25d798113c9ca997c4a33083cbb5b7573a1e977a208ee71db90a8df06987f4a602167b4637acb865ebb7b2c0787ed3a41cdc9121cdf25366883ec99488ba51b5f4a6bd05e81c90e093ad23bed27d61eb4ce06af8c9b9f1c55a8f10a94acbf34f54c9d3818a39ae73f8c6e181ebdd724c6027adc8e5de22072eb",
+  "bt": [
+    "0x6273c0f9",
+    "0x613d40f0",
+    "0x6273c0f9",
+    "0x33e0a100",
+    "0x383d2e78"
+  ],
+  "bin": "recv_voice_wire_20260914_203047_seq039_SSL_read.bin"
+}

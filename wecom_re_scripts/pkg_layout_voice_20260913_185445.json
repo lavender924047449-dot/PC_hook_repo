@@ -1,0 +1,25 @@
+{
+  "msg_type": "voice",
+  "pid": 21768,
+  "vtables": [
+    {
+      "name": "PostSendMessageTask2",
+      "rva": "0xabbb210"
+    },
+    {
+      "name": "HandleMessageResourcesTask",
+      "rva": "0xabbacc4"
+    },
+    {
+      "name": "HandleForwardResourcesTask2",
+      "rva": "0xabba8c8"
+    }
+  ],
+  "duration_sec": 60.29700000000048,
+  "scans": 184,
+  "scan_rate_per_sec": 3.05,
+  "task_dump_bytes": 256,
+  "package_dump_bytes": 768,
+  "tasks": [],
+  "events": []
+}

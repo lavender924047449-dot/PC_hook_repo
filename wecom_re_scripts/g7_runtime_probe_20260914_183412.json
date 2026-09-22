@@ -1,0 +1,51 @@
+{
+  "pid": 16604,
+  "seconds": 20,
+  "hits": {},
+  "gate_events": 0,
+  "top_bt": [],
+  "events": [
+    {
+      "t": "hook",
+      "name": "cfg_send_voice_text",
+      "rva": "0x57c9062",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "asr_key_path",
+      "rva": "0x49280",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "voice2text_auto",
+      "rva": "0xf1f9a0",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "offline_update_cmd",
+      "rva": "0xf224f0",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_a",
+      "rva": "0x81e47f2",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_b",
+      "rva": "0x81e6673",
+      "ok": true
+    },
+    {
+      "t": "hook",
+      "name": "aes_path_c",
+      "rva": "0x83c57e2",
+      "ok": true
+    }
+  ]
+}

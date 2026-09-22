@@ -1,0 +1,8 @@
+{
+  "pid": 2288,
+  "addr": "0xa6316d0",
+  "duration_s": 120,
+  "filter": "db|sqlite|wxwork|message|session|user\\.db|crm\\.db|kv\\.db",
+  "event_count": 0,
+  "events": []
+}

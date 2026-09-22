@@ -1,0 +1,370 @@
+{
+  "infile": "d:\\Only internship outputs\\Test-Voice\\runtime\\wecom_re\\logger_trace_9148_75s_hex.json",
+  "event_count": 83,
+  "sql_like_event_count": 15,
+  "findings": [
+    {
+      "ts": 1788938704984,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        },
+        {
+          "src": "h1",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938704998,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+      "fragments": [
+        {
+          "src": "h1",
+          "text": "create index if not exists md5_index_ "
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938705018,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938705080,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938705093,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938705126,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735194,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        },
+        {
+          "src": "h1",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735208,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+      "fragments": [
+        {
+          "src": "h1",
+          "text": "create index if not exists md5_index_ "
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735228,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735295,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\collection_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735308,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\announce_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938735341,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\hot_index.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938765417,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\message_lookup.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        },
+        {
+          "src": "h1",
+          "text": "select sequence, send_time from message_table where message_id = ? limit 1;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938765431,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Data\\file.db",
+      "fragments": [
+        {
+          "src": "h1",
+          "text": "create index if not exists md5_index_ "
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    },
+    {
+      "ts": 1788938765451,
+      "ret": "0xe6b0a4",
+      "s0": "C:\\Users\\LENOVO\\Documents\\WXWork\\1688855042791155\\Index\\index_master.db",
+      "fragments": [
+        {
+          "src": "h0",
+          "text": "select count(1) "
+        },
+        {
+          "src": "h1",
+          "text": "select count(1) from sqlite_master where type='table' and name=?;"
+        }
+      ],
+      "bt_head": [
+        "0xe6b0a4 WXWork.exe!tinyxml2::XMLNode::LastChild",
+        "0xa6316d0 WXWork.exe!nghttp2_rcbuf_is_static",
+        "0x8f38d57 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8f35929 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x8ebb258 WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9719b6c WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0x9e36d9e WXWork.exe!tinyxml2::XMLPrinter::Write",
+        "0xe6114b WXWork.exe!tinyxml2::XMLNode::LastChild"
+      ]
+    }
+  ]
+}

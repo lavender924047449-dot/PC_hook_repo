@@ -1,0 +1,72 @@
+{
+  "ok": false,
+  "steps": [
+    "FileService=0x2b75f000",
+    "initCdnUploadParam (std::string* fields)",
+    "file_type=1 @+0x1c",
+    "CdnUploadFile NativeFunction"
+  ],
+  "file_service_hits": [
+    "0x2b75f000"
+  ],
+  "this_va": "0x2b75f000",
+  "inner_va": "0x2b5983c0",
+  "inner_gate_48": 632597964,
+  "default_param": {
+    "va": "0xb9559f0",
+    "rva": "0xb7959f0",
+    "source": "init_push"
+  },
+  "param_after_init": {
+    "label": "after_init",
+    "va": "0x26ce8e78",
+    "dwords": [
+      "0xb955b58",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x35ccd608",
+      "0x62",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x0"
+    ],
+    "strings": []
+  },
+  "param_final": {
+    "label": "final",
+    "va": "0x26ce8e78",
+    "dwords": [
+      "0xb955b58",
+      "0x0",
+      "0x0",
+      "0x0",
+      "0x35ccd608",
+      "0x62",
+      "0x0",
+      "0x1",
+      "0x0",
+      "0x0",
+      "0x0"
+    ],
+    "strings": []
+  },
+  "fn_va": "0x2659bb0",
+  "param_va": "0x26ce8e78",
+  "cb_done": "0x26ce7ca8",
+  "cb_prog": "0x26ce7de0",
+  "probe_before": {
+    "total": 0,
+    "byClass": {
+      "CdnUploadFileTask": 0,
+      "BigCdnUploadFileTask": 0,
+      "DownloadFileTask2": 0,
+      "DownloadFtnFileTask": 0,
+      "CdnCopyFileTask": 0
+    }
+  },
+  "call_err": "system error",
+  "err": "system error"
+}

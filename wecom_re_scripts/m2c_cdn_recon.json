@@ -1,0 +1,901 @@
+{
+  "wx_base": "0x1c0000",
+  "wx_size": "0x1020a000",
+  "rtti": {
+    ".?AVFileService@@": {
+      "name": ".?AVFileService@@",
+      "td_name_hits": 1,
+      "vtables": []
+    },
+    ".?AVFileServiceWinMember@@": {
+      "name": ".?AVFileServiceWinMember@@",
+      "td_name_hits": 1,
+      "vtables": []
+    },
+    ".?AVFileServiceImpl@logic@wework@@": {
+      "name": ".?AVFileServiceImpl@logic@wework@@",
+      "td_name_hits": 1,
+      "vtables": []
+    },
+    ".?AVFileService@logic@wework@@": {
+      "name": ".?AVFileService@logic@wework@@",
+      "td_name_hits": 1,
+      "vtables": []
+    },
+    ".?AVCdnUploadParam@pb@@": {
+      "name": ".?AVCdnUploadParam@pb@@",
+      "td_name_hits": 1,
+      "vtables": []
+    },
+    ".?AVCdnDownloadParam@pb@@": {
+      "name": ".?AVCdnDownloadParam@pb@@",
+      "td_name_hits": 1,
+      "vtables": []
+    }
+  },
+  "vtables": {
+    "FileService": null,
+    "FileServiceWinMember": null,
+    "FileServiceImpl": null,
+    "FileService_logic_rva": null,
+    "CdnUploadParam_rva": null
+  },
+  "heap": {
+    "FileService": [],
+    "FileServiceWinMember": [],
+    "FileServiceImpl": [],
+    "FileService_logic": []
+  },
+  "param_string_hits": [
+    {
+      "va": "0xb955a07",
+      "rva": "0xb795a07",
+      "cstr": "CdnUploadParam���pb.urlDownloadHeader����pb.urlDownloadHeaderList��������C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\submod\\wxwork_ios\\src\\mobile_framewor",
+      "nearby": [
+        "pb.BusinessContext",
+        "pb.File",
+        "pb.FtnDownloadParam",
+        "pb.FtnDownloadParamFileIdForImage",
+        "pb.CdnDownloadParam",
+        "pb.FtnConcurrentDownloadTask",
+        "pb.FtnConcurrentDownloadCache",
+        "pb.FtnUploadParam",
+        "pb.CdnUploadParam",
+        "pb.urlDownloadHeader",
+        "pb.urlDownloadHeaderList",
+        "C:\\devops\\data\\p-e6d4d606a4b54544ad81247ae7a8e77f\\submod\\wxwork_ios\\src\\mobile_framework\\model\\proto\\ww_file.pb.cc"
+      ]
+    },
+    {
+      "va": "0xce086e7",
+      "rva": "0xcc486e7",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@base@@ABV?$Callback@$$A6AXABV?$basic_string@",
+      "nearby": [
+        "d@@@2@@std@@",
+        ".?AV<lambda_1>@?O@??CdnDownloadFile@FileService@@UAEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AXW4LogicErrorCode@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z$00$00@base@@ABV?$Callback@$$A6AXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@6@@Z@",
+        ".?AV<lambda_1>@?BC@??CdnUploadFile@FileService@@UAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@base@@ABV?$Callback@$$A6AXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@6@@Z@",
+        ".?AV<lambda_1>@?1??FtnUploadFile@FileService@@UAEXABVFtnUploadParam@pb@@ABV?$Callback@$$A6AXW4LogicErrorCode@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D"
+      ]
+    },
+    {
+      "va": "0xce08c57",
+      "rva": "0xcc48c57",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@ABV?$Callback@$$A6AXABV?$basic_string@DU?$",
+      "nearby": [
+        "ServiceWinMember@@QAE?AV?$function@$$A6AXABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@Z@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@8@_KABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@",
+        ".?AV?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@ABV?$Callback@$$A6AXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@3@@Z@@base@@",
+        ".?AV?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_st"
+      ]
+    },
+    {
+      "va": "0xce08daf",
+      "rva": "0xcc48daf",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@���t\u000b����.?AV<lambda_1>@?1??Send",
+      "nearby": [
+        "adCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@ABV?$Callback@$$A6AXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@3@@Z@@base@@",
+        ".?AV?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@",
+        ".?AV<lambda_1>@?1??SendData@GapHubLogicTCP@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_K_NV?$Callback@$$A6A?AU?$pair@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V12@@std@@XZ$00$00@base@@ABV?$Callback@$$A6AXPAVTcpConnect"
+      ]
+    },
+    {
+      "va": "0xdb2f980",
+      "rva": "0xd96f980",
+      "cstr": "CdnUploadParam@pb@@���t\u000b����.?AVFtnUploadParam@pb@@���t\u000b����.?AVFtnConcurrentDownloadCache@pb@@���t\u000b����.?AVFtnConcurrentDownloadTask@pb@@����t\u000b����.?AVCdnDownl",
+      "nearby": [
+        "b@@",
+        ".?AVCheckNumOfPeopleInArchOverLimitRsp@pb@@",
+        ".?AVCheckNumOfPeopleInArchOverLimitReq@pb@@",
+        ".?AVVerifyMobileRsp@pb@@",
+        ".?AV<lambda_1>@?3??HanZiString2PinyinFullWithPoly@utility@wework@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV45@@Z@",
+        ".?AVurlDownloadHeaderList@pb@@",
+        ".?AVurlDownloadHeader@pb@@",
+        ".?AVCdnUploadParam@pb@@",
+        ".?AVFtnUploadParam@pb@@",
+        ".?AVFtnConcurrentDownloadCache@pb@@",
+        ".?AVFtnConcurrentDownloadTask@pb@@",
+        ".?AVCdnDownloadParam@pb@@",
+        ".?AVFtnDownloadParamFileIdForImage@pb@@",
+        ".?AVFtnDownloadParam@pb@@",
+        ".?AVFile@pb@@",
+        ".?AVBusinessContext@pb@@",
+        ".?AV<lambda_1>@?4???R0?1??ConnectInternal@TcpConnection@network@@UAEXX"
+      ]
+    },
+    {
+      "va": "0xdc60c8e",
+      "rva": "0xdaa0c8e",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@ZPAV3",
+      "nearby": [
+        ".?AV?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnDownloadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnDownloadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@",
+        ".?AV?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCdnUploadResult@WeWorkService@@@Z$00$00@base@@@ZPAV345@ABU?$_Ph@$00@2@ABU?$_Ph@$01@2@@std@@",
+        ".?AV?$_Binder@U_Unforced@std@@P8Service@WeWorkRpcService@WeWorkService@@AEXABVVoidValue@wxwork@@ABV?$Callback@$$A6AX_JABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVCor"
+      ]
+    },
+    {
+      "va": "0xde3d16e",
+      "rva": "0xdc7d16e",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@XABV?$shared_ptr@VServiceResult@",
+      "nearby": [
+        "eWinMember@@",
+        ".?AVFileService@@",
+        ".?AVProgressCallbackMobileBridge@?A0xe771a84f@@",
+        ".?AV?$_Ref_count_obj2@VCdnFileInfo@logic@wework@@@std@@",
+        ".?AV?$_Ref_count_obj2@VProgressCallbackMobileBridge@?A0xe771a84f@@@std@@",
+        ".?AV?$_Func_impl_no_alloc@V?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@XABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@std@@",
+        ".?AV?$_Func_impl_no_alloc@V?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_tr"
+      ]
+    },
+    {
+      "va": "0xde3d2b6",
+      "rva": "0xdc7d2b6",
+      "cstr": "CdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@ABV?$Callback@$$A6AXABV?$basic_string@DU?$",
+      "nearby": [
+        "mbda_1>@?1??UploadCdnImage@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@@Z@@base@@XABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@std@@",
+        ".?AV?$_Func_impl_no_alloc@V?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??UploadCdnVideo@FileServiceWinMember@@QAEXABVCdnUploadParam@pb@@ABV?$Callback@$$A6AX_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@11@Z$00$00@3@ABV?$Callback@$$A6AXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z$00$00@3@@Z@@base@@XABV?$shared_ptr@VServiceResult@logic@wework@@@std@@@std@@",
+        ".?AV?$_Func_impl_no_alloc@V?$WeakBind@V_Holder@WeakBindHost@base@@V<lambda_1>@?1??CreateUploadCdnCal"
+      ]
+    }
+  ],
+  "cpp_hits": [],
+  "field_hits": {
+    "file_path": [
+      {
+        "va": "0xac8a26a",
+        "rva": "0xaaca26a",
+        "cstr": "file_path�docurl��robot_name��event_type��data_id�time_cost���extra_info��fw_id���duration_sec����shorturl����fullurl�smart_summary_data��markdownContent�meetin",
+        "nearby": [
+          "ror_message",
+          "room_id",
+          "confirm_button_text",
+          "ext",
+          "from_scene",
+          "local_file_path",
+          "docurl",
+          "robot_name",
+          "event_type",
+          "data_id",
+          "time_cost",
+          "extra_info"
+        ]
+      },
+      {
+        "va": "0xacf429a",
+        "rva": "0xab3429a",
+        "cstr": "file_paths_size:��, image_only:���smartassistant_add_to_input_image���smartassistant_add_to_input_file����[HandleAddWeDocClick] multi_select_doc_callback, docs_",
+        "nearby": [
+          "r_code:",
+          " image_only:",
+          " kC",
+          "[OnSelectFileOrPictureFinish] file_paths_size:",
+          ", image_only:",
+          "smartassistant_add_to_input_image",
+          "sma"
+        ]
+      },
+      {
+        "va": "0xad0b957",
+        "rva": "0xab4b957",
+        "cstr": "file_path=�������ParseMailDocContext: ipc screenshot file not found, fallback to generic capture, qt_window=�, file_path=����ipc failed, status is:��page_type��",
+        "nearby": [
+          "text: ipc screenshot missing and no qt_window, skip screenshot, file_path=",
+          "ParseMailDocContext: ipc screenshot file not found, fall"
+        ]
+      },
+      {
+        "va": "0xad0b9c6",
+        "rva": "0xab4b9c6",
+        "cstr": "file_path=����ipc failed, status is:��page_type���get page context rsp, error_code: ��, page_type: ���email_id����email_title�mail_conv_id����sender_email����av",
+        "nearby": [
+          "nshot file not found, fallback to generic capture, qt_window=",
+          ", file_path=",
+          "ipc failed, status is:",
+          "page_type",
+          "get page context rsp, e"
+        ]
+      }
+    ],
+    "local_path": [
+      {
+        "va": "0xac8962c",
+        "rva": "0xaac962c",
+        "cstr": "local_paths�livingId����disable_report��zoom_level��strid���custom_role�spu�itemname����channel1����channel2����fromid��value2��CategoryInterceptScene��should_i",
+        "nearby": [
+          "msg_list",
+          "isend",
+          "doc_type",
+          "owner_cef_window",
+          "cnt_limit",
+          "local_paths",
+          "livingId",
+          "disable_report",
+          "zoom_level",
+          "strid",
+          "custom_role"
+        ]
+      },
+      {
+        "va": "0xac89948",
+        "rva": "0xaac9948",
+        "cstr": "local_path��aes_key�use_scene���support_types���preview_img_local_path��img_width���img_height��preview_img_blob����fullpath����thumb_file_id���is_hd���forward_",
+        "nearby": [
+          "b_width",
+          "thumb_height",
+          "thumb_url",
+          "file_url",
+          "content_type",
+          "local_path",
+          "aes_key",
+          "use_scene",
+          "support_types",
+          "preview_img_local_path"
+        ]
+      },
+      {
+        "va": "0xac89984",
+        "rva": "0xaac9984",
+        "cstr": "local_path��img_width���img_height��preview_img_blob����fullpath����thumb_file_id���is_hd���forward_info����video_id����video_duration��preview_img_url�thumbnai",
+        "nearby": [
+          "local_path",
+          "aes_key",
+          "use_scene",
+          "support_types",
+          "preview_img_local_path",
+          "img_width",
+          "img_height",
+          "preview_img_blob",
+          "fullpath",
+          "thumb_"
+        ]
+      },
+      {
+        "va": "0xacf3cb1",
+        "rva": "0xab33cb1",
+        "cstr": "local_path:����[ClawEditor] mail file update: bad_any_cast, drop event.��������[ClawEditor] mail file update: empty email_id or payload, drop.�[ClawEditor] mail",
+        "nearby": [
+          "otNotification] save image fail.",
+          "[HandleSnapshotNotification] local_path:",
+          "[ClawEditor] mail file update: bad_any_cast, drop event."
+        ]
+      }
+    ],
+    "file_type": [
+      {
+        "va": "0xacf462e",
+        "rva": "0xab3462e",
+        "cstr": "file_type:����[InsertWedriveFileSelected] create FileCardOle fail.����\r� �����[InsertOleToRichEdit] RichEdit_InsertOleObject fail.����[InsertFileOleToRichEdit] ",
+        "nearby": [
+          "ected_file_list_size:",
+          "[InsertWedriveFileSelected] file_name:",
+          ", file_type:",
+          "[InsertWedriveFileSelected] create FileCardOle fail."
+        ]
+      },
+      {
+        "va": "0xada0e4f",
+        "rva": "0xabe0e4f",
+        "cstr": "file_type: ��[SearchTabFile] find messgaes time: ����, message ids size: ����[SearchTabFile] get messgaes time: �[SearchTabFile] remove messgaes time: ��[Search",
+        "nearby": [
+          "[SearchTabFile] total time: ",
+          "[SearchTabFile] keyword: ",
+          "}, file_type: ",
+          "[SearchTabFile] find messgaes time: ",
+          ", message ids size: "
+        ]
+      },
+      {
+        "va": "0xadc2d9a",
+        "rva": "0xac02d9a",
+        "cstr": "file_type=����, page_start_msg_id=����, disable_next_page=����, total_count_limit=����weclaw_recall_limit_multiplier_file�����WeClawMessageManager destroyed bef",
+        "nearby": [
+          "awSearchFileReq failed",
+          "[WeClaw]ExecuteSearchChatFile req",
+          ", file_type=",
+          ", page_start_msg_id=",
+          ", disable_next_page=",
+          ", total_cou"
+        ]
+      },
+      {
+        "va": "0xb0fe9ad",
+        "rva": "0xaf3e9ad",
+        "cstr": "file_type is ��hide_toast��[IPC] MailForwardFileToWechatCommandHandler Execute req: ���req.file_id: ���req.file_name: �req.file_type:��req.handle��req.file_size",
+        "nearby": [
+          "er Execute",
+          "[IPC] MailForwardFileToWechatCommandHandler Execute. file_type is ",
+          "hide_toast",
+          "[IPC] MailForwardFileToWechatCommandHandler Ex"
+        ]
+      }
+    ],
+    "file_size": [
+      {
+        "va": "0xac8a190",
+        "rva": "0xaaca190",
+        "cstr": "file_size���support_doc_type����directory_id����layout_type�creater_name����creater_vid�use_by_external�create_corp_name����docList�roomsig�error_code��error_me",
+        "nearby": [
+          "depIdRangeLists",
+          "departmentList",
+          "robotid",
+          "max_select_count",
+          "max_file_size",
+          "support_doc_type",
+          "directory_id",
+          "layout_type",
+          "creater_name"
+        ]
+      },
+      {
+        "va": "0xad11742",
+        "rva": "0xab51742",
+        "cstr": "file_size: ���, disk_free_size: ��[MessageIndex] can_auto_migrate: ���, has_enough_space: ����, is_in_onedrive: ��new_global_search_fts_migrate_succ_by_retry�ne",
+        "nearby": [
+          "_search_migrate_available_space_win",
+          "[MessageIndex] message_db_file_size: ",
+          ", disk_free_size: ",
+          "[MessageIndex] can_auto_migrate: ",
+          ", h"
+        ]
+      },
+      {
+        "va": "0xad2b5c3",
+        "rva": "0xab6b5c3",
+        "cstr": "file_size: �� merge_msg_size: ��� merge_msg_counts: � merge_msg_binary_counts: ��[cpm] read convs size: �[cpm] read message size: ���[cpm] merge thread hard sto",
+        "nearby": [
+          "e_id_: ",
+          "[cpm] merge data, merge_total_size: ",
+          " merge_file_size: ",
+          " merge_msg_size: ",
+          " merge_msg_counts: ",
+          " merge_msg_binary_co"
+        ]
+      },
+      {
+        "va": "0xad5b6fb",
+        "rva": "0xab9b6fb",
+        "cstr": "file_size:���[SendFtnLogTask::UploadFileFinish] fail:����[SendFtnLogTask::UploadFileFinish]:�\u00047�\u000b�ۥ\u0002`ܥ\u0002��2\u0002 ݥ\u00020�2\u0002@\u0018V�P7�\u000b�ܥ\u0002�ܥ\u0002��2\u00020ݥ\u00020�2\u0002@\u0018V�����\u0001���\u0002��",
+        "nearby": [
+          ".cpp",
+          "[GenerateZipFileNew] type:",
+          "[GenerateZipFileNew] fail. zip_file_size:",
+          "[SendFtnLogTask::UploadFileFinish] fail:",
+          "[SendFtnLogTask:"
+        ]
+      }
+    ],
+    "aes_key": [
+      {
+        "va": "0xac89954",
+        "rva": "0xaac9954",
+        "cstr": "aes_key�use_scene���support_types���preview_img_local_path��img_width���img_height��preview_img_blob����fullpath����thumb_file_id���is_hd���forward_info����vide",
+        "nearby": [
+          "b_height",
+          "thumb_url",
+          "file_url",
+          "content_type",
+          "local_path",
+          "aes_key",
+          "use_scene",
+          "support_types",
+          "preview_img_local_path",
+          "img_width"
+        ]
+      },
+      {
+        "va": "0xaccd2bf",
+        "rva": "0xab0d2bf",
+        "cstr": "aes_key=[����  active_data_dir=��  workspace_root=���  bugly_pipe=���[WeClawProcessManager][IronBox] IronBox StartSandbox failed�[WeClawProcessManager][IronBox]",
+        "nearby": [
+          " key=",
+          "  container_server_ports=[",
+          " bytes]",
+          "  container_server_aes_key=[",
+          "  active_data_dir=",
+          "  workspace_root=",
+          "  bugly_pipe="
+        ]
+      },
+      {
+        "va": "0xad60665",
+        "rva": "0xaba0665",
+        "cstr": "aes_key_:��[DownloadFtnFileTask3] receive data, length:����DownloadFtnFileTask3::WriteDataCallback downloaded:�, encrpty_buffer:��� total_encrpty:�<d�\u000b�«\u0002Downl",
+        "nearby": [
+          "t: ",
+          "[DownloadFtnFileTask3] AsyncSingleDownloadFileReq md5:",
+          " aes_key_:",
+          "[DownloadFtnFileTask3] receive data, length:",
+          "DownloadFtnF"
+        ]
+      },
+      {
+        "va": "0xad609b6",
+        "rva": "0xaba09b6",
+        "cstr": "aes_key:��AsyncMultiDownloadFileReq. task_���� request id: ���AsyncMultiDownloadFileReq. real_kConcurrentTaskSize:����Cannot open file: ��File MD5 [��Read file ",
+        "nearby": [
+          "le: {ver:",
+          "AsyncMultiDownloadFileReq. range back to [",
+          "], md5:",
+          ", aes_key:",
+          "AsyncMultiDownloadFileReq. task_",
+          " request id: ",
+          "AsyncMult"
+        ]
+      }
+    ],
+    "file_id": [
+      {
+        "va": "0xac899ce",
+        "rva": "0xaac99ce",
+        "cstr": "file_id���is_hd���forward_info����video_id����video_duration��preview_img_url�thumbnail_file_id���appname�pagepath����thumbfileid�thumbmd5����thumbaeskey�thumbs",
+        "nearby": [
+          "img_width",
+          "img_height",
+          "preview_img_blob",
+          "fullpath",
+          "thumb_file_id",
+          "is_hd",
+          "forward_info",
+          "video_id",
+          "video_duration",
+          "preview_i"
+        ]
+      },
+      {
+        "va": "0xac89a26",
+        "rva": "0xaac9a26",
+        "cstr": "file_id���appname�pagepath����thumbfileid�thumbmd5����thumbaeskey�thumbsize���thumbwidth��thumbheight�thumburl����link_url����link_type���doc_extension���app_ex",
+        "nearby": [
+          "d_info",
+          "video_id",
+          "video_duration",
+          "preview_img_url",
+          "thumbnail_file_id",
+          "appname",
+          "pagepath",
+          "thumbfileid",
+          "thumbmd5",
+          "thumbaeskey",
+          "thumb"
+        ]
+      },
+      {
+        "va": "0xacf3f90",
+        "rva": "0xab33f90",
+        "cstr": "file_id empty, �[ClawEditor] RequestMailFileAndInsertWhenReady: parse fileSize fail '���', �[ClawEditor] RequestMailFileAndInsertWhenReady: serialize fail��[Cla",
+        "nearby": [
+          "extend_param",
+          "[ClawEditor] RequestMailFileAndInsertWhenReady: file_id empty, ",
+          "[ClawEditor] RequestMailFileAndInsertWhenReady: parse f"
+        ]
+      },
+      {
+        "va": "0xacf4c00",
+        "rva": "0xab34c00",
+        "cstr": "file_id empty, �request ipc and insert on callback��[ClawEditor] mail location: insert file ole ok, ����content_type=���, file_id=��[ClawEditor] mail location: ",
+        "nearby": [
+          " location: build pic message failed",
+          "[ClawEditor] mail location: file_id empty, ",
+          "request ipc and insert on callback",
+          "[ClawEditor] mail l"
+        ]
+      }
+    ],
+    "fileid": [
+      {
+        "va": "0xac898d2",
+        "rva": "0xaac98d2",
+        "cstr": "fileid����thumb_md5���thumb_aeskey����thumb_size��thumb_width�thumb_height����thumb_url���file_url����content_type����local_path��aes_key�use_scene���support_ty",
+        "nearby": [
+          "p_name",
+          "home_url",
+          "icon_url",
+          "page_path",
+          "user_name",
+          "thumb_fileid",
+          "thumb_md5",
+          "thumb_aeskey",
+          "thumb_size",
+          "thumb_width",
+          "thumb_he"
+        ]
+      },
+      {
+        "va": "0xac89a49",
+        "rva": "0xaac9a49",
+        "cstr": "fileid�thumbmd5����thumbaeskey�thumbsize���thumbwidth��thumbheight�thumburl����link_url����link_type���doc_extension���app_extension���contenttype�text_msg����f",
+        "nearby": [
+          "preview_img_url",
+          "thumbnail_file_id",
+          "appname",
+          "pagepath",
+          "thumbfileid",
+          "thumbmd5",
+          "thumbaeskey",
+          "thumbsize",
+          "thumbwidth",
+          "thumbheight",
+          "thu"
+        ]
+      },
+      {
+        "va": "0xace6eb3",
+        "rva": "0xab26eb3",
+        "cstr": "fileid: ��\u0019�\u000b�4=\u0002c�h�a�t�/�e�x�p�i�r�e�_�i�c�o�n�.�p�n�g�����c�h�a�t�/�n�o�_�p�e�r�m�i�s�s�o�n�_�i�c�o�n�_�e�x�.�s�v�g�������c�h�a�t�/�n�o�_�p�e�r�m�i�s�s�o�n�_",
+        "nearby": [
+          "@5=",
+          "MixedMsgPictureItem::OnDblClick, security image, wwfileid: "
+        ]
+      },
+      {
+        "va": "0xad04514",
+        "rva": "0xab44514",
+        "cstr": "fileid=�l8�\u000b�\rt\u0001�os\u0001��M\u0002�!A��8�\u000b�DN\u0002�DN\u0002\u0010SN\u0002@[N\u0002p�)\u0002\u0010]A�\u00049�\u000b�DN\u0002�DN\u0002`v5\u0002P[N\u0002p�)\u0002\u0010]A�P9�\u000b�DN\u0002�DN\u0002��3\u0002`[N\u0002p�)\u0002\u0010]A��9�\u000b\u0010EN\u0002\u0010EN\u0002\u0010�E\u0002p[N\u0002p�)\u0002\u0010]A��9�\u000b0EN\u00020EN\u0002p�7\u0002�[N\u0002",
+        "nearby": [
+          "wThinkingAttachmentCardView::OpenAttachmentFileWithSecurity] ww_fileid=",
+          "@[N"
+        ]
+      }
+    ],
+    "voice_time": [
+      {
+        "va": "0xb695d62",
+        "rva": "0xb4d5d62",
+        "cstr": "voice_timestamp:�� is_audit_mem:�� audit_type:���� audit_voip:���� is_audi_beep:��[VoipSyncTask] newmember user_id:��� open_video:���� open_audio:����[VoipSyncT",
+        "nearby": [
+          "yncTask] oldmember user_id:",
+          " enter_time:",
+          " insyscall:",
+          " open_voice_timestamp:",
+          " is_audit_mem:",
+          " audit_type:",
+          " audit_voip:",
+          " is_audi"
+        ]
+      },
+      {
+        "va": "0xba096ef",
+        "rva": "0xb8496ef",
+        "cstr": "voice_time: �, hotwords=�, taskid:���UpdateVoiceRecordSpeakerInfo����[LYLRECORD] end fill recent_chat_vids=�� next_time:�CMD_AI_RECORD_UPDATE_OFFLINE����[LYLREC",
+        "nearby": [
+          " taskid:",
+          "file_id: ",
+          " file_size: ",
+          " from_source:",
+          " total_voice_time: ",
+          ", hotwords=",
+          ", taskid:",
+          "UpdateVoiceRecordSpeakerInfo",
+          "[LYLR"
+        ]
+      }
+    ],
+    "play_time": [
+      {
+        "va": "0xb37ac16",
+        "rva": "0xb1bac16",
+        "cstr": "play_time: ���ms load_time: ��ms download_time: ��ms is_download: ���� is_preload: ���, xfile_show_time:��, js pagedata:��window.OnCloseJsUI();���H��\u000b�\rt\u0001�os\u0001��",
+        "nearby": [
+          "iew data report, fileid: ",
+          " filesize: ",
+          "kb, total_time: ",
+          "ms display_time: ",
+          "ms load_time: ",
+          "ms download_time: ",
+          "ms is_download: ",
+          " is"
+        ]
+      }
+    ],
+    "conversation_id": [
+      {
+        "va": "0xacc5cc0",
+        "rva": "0xab05cc0",
+        "cstr": "conversation_id��\u0007�\u000bP�)\u0002�\u0007�\u000b��)\u0002INSERT OR REPLACE INTO %s (%s, %s, %s, %s) VALUES (?, ?, ?, ?);�SELECT %s FROM %s WHERE %s = ? AND %s = ? AND %s = ?;���DELETE F",
+        "nearby": [
+          "branch_reply_draft",
+          "send_time",
+          "app_info",
+          "conversation_id",
+          "INSERT OR REPLACE INTO %s (%s, %s, %s, %s) VALU"
+        ]
+      },
+      {
+        "va": "0xacc60cc",
+        "rva": "0xab060cc",
+        "cstr": "conversation_id. ���ConvId: ��������replace into %1%(%2%, %3%, %4%, %5%, %6%, %7%, %8%, %9%) values(?, ?, ?, ?, ?, ?, ?, ?)�select count(*) from %1% where %2% =",
+        "nearby": [
+          "MessageId: ",
+          "ServerId: ",
+          "SendTime: ",
+          "ParentInfo: ",
+          "Invalid conversation_id. ",
+          "ConvId: ",
+          "replace into %1%(%2%, %3%, %4%, %5%, %6%, %"
+        ]
+      },
+      {
+        "va": "0xacd2892",
+        "rva": "0xab12892",
+        "cstr": "conversation_id: �, err_code: ����, err_msg: �[ClawParser] TaskFinish: parser already destroyed when setting is_task_finished_��������[ClawParser] TaskFinish: i",
+        "nearby": [
+          "[ClawParser] TypeWriter Fail Event. msg: ",
+          ", server_id: ",
+          ", conversation_id: ",
+          ", err_code: ",
+          ", err_msg: ",
+          "[ClawParser] TaskFinish: parser a"
+        ]
+      },
+      {
+        "va": "0xace5ca2",
+        "rva": "0xab25ca2",
+        "cstr": "conversation_id, �BuildScreenDisplayText: scene_type=�BuildScreenDisplayText: SCENE_CONV_LIST group_count=����, single_count=�, conv_list_size=�������BuildScree",
+        "nearby": [
+          "ype=",
+          "BuildScreenDisplayText: ResolveGroupConvDisplayName empty conversation_id, ",
+          "BuildScreenDisplayText: scene_type=",
+          "BuildScreenDisplayText: S"
+        ]
+      }
+    ],
+    "md5": [
+      {
+        "va": "0xac898e2",
+        "rva": "0xaac98e2",
+        "cstr": "md5���thumb_aeskey����thumb_size��thumb_width�thumb_height����thumb_url���file_url����content_type����local_path��aes_key�use_scene���support_types���preview_im",
+        "nearby": [
+          "icon_url",
+          "page_path",
+          "user_name",
+          "thumb_fileid",
+          "thumb_md5",
+          "thumb_aeskey",
+          "thumb_size",
+          "thumb_width",
+          "thumb_height",
+          "thumb"
+        ]
+      },
+      {
+        "va": "0xac89a55",
+        "rva": "0xaac9a55",
+        "cstr": "md5����thumbaeskey�thumbsize���thumbwidth��thumbheight�thumburl����link_url����link_type���doc_extension���app_extension���contenttype�text_msg����file_msg����v",
+        "nearby": [
+          "mg_url",
+          "thumbnail_file_id",
+          "appname",
+          "pagepath",
+          "thumbfileid",
+          "thumbmd5",
+          "thumbaeskey",
+          "thumbsize",
+          "thumbwidth",
+          "thumbheight",
+          "thumburl"
+        ]
+      },
+      {
+        "va": "0xad311aa",
+        "rva": "0xab711aa",
+        "cstr": "md5 cannot be generated���[SilentUpgrader::IsPackageIntegrated] md5 not equal:����[SilentUpgrader::DoUpgrade] new_version:���� update_exe_path:��� install_path:",
+        "nearby": [
+          "grated] size not equal:",
+          "[SilentUpgrader::IsPackageIntegrated] md5 cannot be generated",
+          "[SilentUpgrader::IsPackageIntegrated] md5"
+        ]
+      },
+      {
+        "va": "0xad311ea",
+        "rva": "0xab711ea",
+        "cstr": "md5 not equal:����[SilentUpgrader::DoUpgrade] new_version:���� update_exe_path:��� install_path:��[SilentUpgrader::DoUpgrade] use service mode����[SilentUpgrade",
+        "nearby": [
+          "md5 cannot be generated",
+          "[SilentUpgrader::IsPackageIntegrated] md5 not equal:",
+          "[SilentUpgrader::DoUpgrade] new_version:",
+          " upda"
+        ]
+      }
+    ],
+    "file_key": [
+      {
+        "va": "0xad5d780",
+        "rva": "0xab9d780",
+        "cstr": "file_key: ��InitFile. file_key: ����, host:�uploadinit��InitFile. msginfo: �OnInitFileFinished. use_ip: ����OnInitFileFinished. net failed, curl_error: ����, ht",
+        "nearby": [
+          "match, cmd: ",
+          " msg cmd: ",
+          "Select best router fail",
+          "ReInitFile. file_key: ",
+          "InitFile. file_key: ",
+          ", host:",
+          "uploadinit",
+          "InitFile. msginf"
+        ]
+      },
+      {
+        "va": "0xad5d796",
+        "rva": "0xab9d796",
+        "cstr": "file_key: ����, host:�uploadinit��InitFile. msginfo: �OnInitFileFinished. use_ip: ����OnInitFileFinished. net failed, curl_error: ����, http_status: �OnInitFile",
+        "nearby": [
+          "md: ",
+          "Select best router fail",
+          "ReInitFile. file_key: ",
+          "InitFile. file_key: ",
+          ", host:",
+          "uploadinit",
+          "InitFile. msginfo: ",
+          "OnInitFileFinished"
+        ]
+      },
+      {
+        "va": "0xad5da08",
+        "rva": "0xab9da08",
+        "cstr": "file_key: ��, err part: ����UploadNextPieceFile. read err: �UploadNextPieceFile. read_size: ����, blocksize: ���UploadNextPieceFile. start, partnumber:�, reques",
+        "nearby": [
+          " pieceInfo err,",
+          "uploadpart",
+          "UploadNextPieceFile. sha not found, file_key: ",
+          ", err part: ",
+          "UploadNextPieceFile. read err: ",
+          "UploadNextPi"
+        ]
+      },
+      {
+        "va": "0xad6bda0",
+        "rva": "0xababda0",
+        "cstr": "file_key:���download succeed, rsp pic format: ��, file md5: ����[FinishCdnDownload] decrypt fail����check avif image md5 failed, local file md5 ���� rsp file md",
+        "nearby": [
+          "rmat: ",
+          "cdn download fail ret : ",
+          "CdnDownloadloadComplete ",
+          "file_key:",
+          "download succeed, rsp pic format: ",
+          ", file md5: ",
+          "[FinishC"
+        ]
+      }
+    ],
+    "thumb_path": [
+      {
+        "va": "0xae82ef8",
+        "rva": "0xacc2ef8",
+        "cstr": "thumb_path��thumb url empty.�������\u000bp��\u0003[OpenWedriveAlbum] url_ is empty.���classalbum_school_groupchat_sharecard_click�classalbum_school_groupchat_robotcard_cl",
+        "nearby": [
+          "thumb_path",
+          "thumb url empty.",
+          "[OpenWedriveAlbum] url_ is empty."
+        ]
+      }
+    ],
+    "CdnFileType": [
+      {
+        "va": "0xba0f6f1",
+        "rva": "0xb84f6f1",
+        "cstr": "CdnFileTypeOssLogReq���CRTX_WWK.OssLogReq_mallReport���CRTX_WWK.OssLogReq_bizmail_common_statistics����CRTX_WWK.OssLogReq_ww_school_schedule_course_client�CRTX_",
+        "nearby": [
+          "torage_cost",
+          "CRTX_WWK.OssLogReq_conv_search_report",
+          "CRTX_WWK.CdnFileTypeOssLogReq",
+          "CRTX_WWK.OssLogReq_mallReport",
+          "CRTX_WWK.OssLogReq_b"
+        ]
+      },
+      {
+        "va": "0xdc7c760",
+        "rva": "0xdabc760",
+        "cstr": "CdnFileTypeOssLogReq@CRTX_WWK@@���t\u000b����.?AVOssLogReq_storage_recordmanage@CRTX_WWK@@�����t\u000b����.?AVOssLogReq_scan_storage_cost@CRTX_WWK@@����t\u000b����.?AVOssLogRe",
+        "nearby": [
+          ".?AVOssLogReq_conv_search_report@CRTX_WWK@@",
+          ".?AVCdnFileTypeOssLogReq@CRTX_WWK@@",
+          ".?AVOssLogReq_storage_recordmanage@"
+        ]
+      }
+    ],
+    "kVoice": [
+      {
+        "va": "0xaceecd0",
+        "rva": "0xab2ecd0",
+        "cstr": "kVoiceRoomJumpAndHighlightMessageNotification���v�o�i�c�e�_�r�o�o�m�/�v�o�i�c�e�_�r�o�o�m�_�s�e�a�r�c�h�_�r�e�s�u�l�t�_�l�i�s�t�_�v�i�e�w�.�x�m�l���e�m�p�t�y�_�",
+        "nearby": [
+          "kVoiceRoomJumpAndHighlightMessageNotification"
+        ]
+      },
+      {
+        "va": "0xad21d19",
+        "rva": "0xab61d19",
+        "cstr": "kVoiceInterface] construct this:���save_voice2text_voice���[IlinkVoiceInterface] deconstruct this:�[IlinkVoiceInterface] startTransfer�[IlinkVoiceInterface] sto",
+        "nearby": [
+          "e7a8e77f\\src\\voice\\ilink_voice\\ilinkvoice_interface.cpp",
+          "[IlinkVoiceInterface] construct this:",
+          "save_voice2text_voice",
+          "[IlinkVoice"
+        ]
+      },
+      {
+        "va": "0xad21d59",
+        "rva": "0xab61d59",
+        "cstr": "kVoiceInterface] deconstruct this:�[IlinkVoiceInterface] startTransfer�[IlinkVoiceInterface] stopTransfer��[IlinkVoiceInterface] pauseTransfer pause:��[IlinkVoi",
+        "nearby": [
+          "kVoiceInterface] construct this:",
+          "save_voice2text_voice",
+          "[IlinkVoiceInterface] deconstruct this:",
+          "[IlinkVoiceInterface] startTransfer"
+        ]
+      },
+      {
+        "va": "0xad21d81",
+        "rva": "0xab61d81",
+        "cstr": "kVoiceInterface] startTransfer�[IlinkVoiceInterface] stopTransfer��[IlinkVoiceInterface] pauseTransfer pause:��[IlinkVoiceInterface] ExitRoom reason:��[IlinkVoi",
+        "nearby": [
+          "voice2text_voice",
+          "[IlinkVoiceInterface] deconstruct this:",
+          "[IlinkVoiceInterface] startTransfer",
+          "[IlinkVoiceInterface] stopTransfer",
+          "[Il"
+        ]
+      }
+    ],
+    "VOICE": [
+      {
+        "va": "0xac452c2",
+        "rva": "0xaa852c2",
+        "cstr": "VOICECONTENT_WX_AT����\u000b���\u0006���\u0003���\u0002���\u0004�������\f���\b���\u0001���\r���\t���\u0005���\n���\u0007����\\�\u000b���\u0001`\u0018�\u00010h�\u0001Ph�\u0001 �<��_A�@\r�\u0001�.<�@lt\u0001 \t�\u0001 M�\u0001@��\u0001@n�\u0001�B�\t��A� �<�@<�\tww_richmes",
+        "nearby": [
+          "OCATIONCONTENT_NICK_NAMECONTENT_RECOMMENDAPPCONTENT_TEXTCONTENT_VOICECONTENT_WX_AT"
+        ]
+      },
+      {
+        "va": "0xac45936",
+        "rva": "0xaa85936",
+        "cstr": "VOICEROOM_UNKNOWN_SPEAKER�����\u0001���AI_SUMMARYDOCUMENTMEETINGSCHEDULE���\u0003���\u0002���\u0001�����������FAILTYPE_BLACKLISTFAILTYPE_ERRFAILTYPE_INVALIDFAILTYPE_NEED_VERIFY��\u0001�",
+        "nearby": [
+          "rc\\win\\base_room.pb.cc",
+          "SPECIAL_UIN_TYPE_NONESPECIAL_UIN_TYPE_VOICEROOM_UNKNOWN_SPEAKER",
+          "AI_SUMMARYDOCUMENTMEETINGSCHEDULE"
+        ]
+      },
+      {
+        "va": "0xac510b7",
+        "rva": "0xaa910b7",
+        "cstr": "VOICEWEBAPP��\u0003���\b���\u0001���\u0006���\u0004���\u0002���\u0005���\u0007�������FILTERSROOMIDS��\u0001�������DEFAULTSTUDENTROOM������\u0001���E_OTHER_CORP_FORBIN�����SUB_ADMIN�����������Add_BlackListDe",
+        "nearby": [
+          "m_antispam.pb.cc",
+          "CHAT_HISTORYFILEIMAGELINKPERSON_CARDQRCODEVIDEOVOICEWEBAPP",
+          "FILTERSROOMIDS"
+        ]
+      },
+      {
+        "va": "0xac76cfe",
+        "rva": "0xaab6cfe",
+        "cstr": "VOICE�����\u0001���CT_CLICKCT_READCT_SIGN��\u0001�������\u0002���MSG_STAT_DELETEMSG_STAT_DRAFTMSG_STAT_FAVORITEMSG_STAT_INITEDMSG_STAT_QYH_FAVORITEMSG_STAT_QYH_HISTORYMSG_STAT",
+        "nearby": [
+          "ernal\\protobuf_src\\win\\ftn_cgi.pb.cc",
+          "FILETYPE_FILEFILETYPE_VOICE",
+          "CT_CLICKCT_READCT_SIGN",
+          "MSG_STAT_DELETEMSG_"
+        ]
+      }
+    ]
+  },
+  "param_ctors": [],
+  "proto_desc": []
+}
