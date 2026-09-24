@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "name": "smoke · file only",
+    "note": "Stage 4.5.4 端到端: path 现在是「SAF 最近里可命中的文件名关键字」. 前提: 你已经手动在 PC 端企微把该文件发到「文件传输助手」, Android 端能看到, SAF「最近的文件」里可见."
+  },
+  "intervals": {
+    "file": [2.0, 3.0]
+  },
+  "tasks": [
+    {
+      "label": "smoke-file",
+      "contacts": ["群姐"],
+      "messages": [
+        {
+          "type": "file",
+          "path": "Pupuapp"
+        }
+      ]
+    }
+  ]
+}

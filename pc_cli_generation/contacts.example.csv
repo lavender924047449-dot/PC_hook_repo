@@ -1,0 +1,4 @@
+contact,audio
+# 以 # 开头的行 & 空行会被忽略
+# audio 支持绝对路径或相对本 CSV 的相对路径
+测试语音群,test.wav

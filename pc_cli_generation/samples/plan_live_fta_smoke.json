@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "name": "真机冒烟 · 仅文件传输助手",
+    "note": "只发给文件传输助手。含文字、链接、图片。语音/小程序需额外环境，本计划不强制。"
+  },
+  "intervals": {
+    "text": [3.0, 5.0],
+    "image": [6.0, 8.0]
+  },
+  "tasks": [
+    {
+      "label": "FTA 文字+链接+图片",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {"type": "text", "text": "【打包验收】定制文字 2026-09-08"},
+        {"type": "text", "text": "【打包验收】链接 https://work.weixin.qq.com"},
+        {
+          "type": "image",
+          "path": "C:/Users/LENOVO/Documents/WXWork/1688857496937113/Cache/Image/2026-09/6f29b9ea-43b4-471e-8ab4-dd2ff4caf709.jpg"
+        }
+      ]
+    }
+  ]
+}

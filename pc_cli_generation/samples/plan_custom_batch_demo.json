@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "name": "定制消息 + 间隙 + 群发 演示",
+    "note": "先 dry-run。真发前把 contacts 改成企微里真实存在的名称；建议先只留「文件传输助手」。链接没有独立类型，写成 text 即可。"
+  },
+  "intervals": {
+    "text": [3.0, 6.0],
+    "image": [6.0, 10.0],
+    "video": [10.0, 16.0],
+    "file": [6.0, 10.0],
+    "voice": [8.0, 14.0],
+    "contact_card": [6.0, 10.0],
+    "location": [10.0, 16.0],
+    "sticker": [4.0, 8.0],
+    "miniprogram": [12.0, 20.0],
+    "channel_video": [12.0, 20.0]
+  },
+  "tasks": [
+    {
+      "label": "文件传输助手 · 文字/链接冒烟",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {"type": "text", "text": "【测试】定制文字消息"},
+        {"type": "text", "text": "【测试】链接：https://work.weixin.qq.com"}
+      ]
+    },
+    {
+      "label": "可按需启用 · 图文/文件/语音（请改成真实路径后再加进发送）",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {"type": "text", "text": "下面这条请按实际素材改 path 后再发送"}
+      ]
+    }
+  ]
+}

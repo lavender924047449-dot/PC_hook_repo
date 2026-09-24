@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "name": "smoke · image only",
+    "note": "Stage 4.5.3 端到端: 需要把 path 换成一张你 PC 上真实存在的 jpg/png"
+  },
+  "intervals": {
+    "image": [2.0, 3.0]
+  },
+  "tasks": [
+    {
+      "label": "smoke-image",
+      "contacts": ["群姐"],
+      "messages": [
+        { "type": "image", "path": "C:/Users/LENOVO/Desktop/001.png" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "name": "Stage 4.5.5.4 smoke · forward end-to-end",
+    "note": "验证 ForwardSender 端到端: 用户需先在 AssetLibrary 里 register_forward 好 mp_smoke_test / loc_smoke_test 两个 tag, 且 fta_locator 匹配 FTA 里预置的气泡. 建议先 --refresh-forward-assets --dry-run 观察 tag 收集."
+  },
+  "intervals": {
+    "text": [1.0, 2.0],
+    "image": [1.0, 2.0],
+    "video": [1.0, 2.0],
+    "file": [1.0, 2.0],
+    "voice": [1.0, 2.0],
+    "contact_card": [1.0, 2.0],
+    "location": [2.0, 4.0],
+    "sticker": [1.0, 2.0],
+    "miniprogram": [3.0, 5.0],
+    "channel_video": [3.0, 5.0]
+  },
+  "tasks": [
+    {
+      "label": "smoke · 单人 · 小程序 + 位置",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {"type": "text", "text": "smoke test 开始 (4.5.5.4)"},
+        {"type": "miniprogram", "tag": "mp_smoke_test"},
+        {"type": "location", "tag": "loc_smoke_test"},
+        {"type": "text", "text": "smoke test 结束"}
+      ]
+    }
+  ]
+}

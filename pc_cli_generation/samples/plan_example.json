@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "name": "示例计划 · 春节问候 + 促销",
+    "note": "演示 B 模式: 两组批次, 一批 VIP 客户走定制序列, 一批普通客户群发促销卡片"
+  },
+  "intervals": {
+    "text": [3.0, 6.0],
+    "image": [6.0, 12.0],
+    "video": [10.0, 18.0],
+    "file": [6.0, 12.0],
+    "voice": [8.0, 15.0],
+    "contact_card": [6.0, 12.0],
+    "location": [10.0, 18.0],
+    "sticker": [4.0, 8.0],
+    "miniprogram": [12.0, 22.0],
+    "channel_video": [12.0, 22.0]
+  },
+  "tasks": [
+    {
+      "label": "VIP 客户 · 春节问候",
+      "contacts": ["张三", "李四"],
+      "messages": [
+        {"type": "text", "text": "王总, 春节快乐! 附上一张贺卡～"},
+        {"type": "image", "path": "C:/samples/new_year.jpg"},
+        {"type": "miniprogram", "tag": "mp_公司简介"}
+      ]
+    },
+    {
+      "label": "普通客户 · 促销卡片群发",
+      "contacts": ["群姐", "Lavender", "笑看人生"],
+      "messages": [
+        {"type": "text", "text": "本周促销活动开始了, 扫码进入 👇"},
+        {"type": "miniprogram", "tag": "mp_一键星群"},
+        {"type": "text", "text": "有问题随时找我"}
+      ]
+    }
+  ]
+}

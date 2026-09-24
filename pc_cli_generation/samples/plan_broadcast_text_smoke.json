@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "name": "smoke · 文本群发",
+    "note": "同一条文本发给多人。直发类按人逐条发送；请把 contacts 改成你企微里真实存在的名称。默认只发给「文件传输助手」，避免误伤客户。"
+  },
+  "intervals": {
+    "text": [2.0, 3.0]
+  },
+  "tasks": [
+    {
+      "label": "文本群发 smoke",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {"type": "text", "text": "【群发测试】wecom-voice-blaster 文本群发 smoke"}
+      ]
+    }
+  ]
+}

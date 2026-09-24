@@ -52,3 +52,5 @@
 ## 归档时间
 
 2026-09-22 · 主项目"已打包 exe，进入清理阶段"节点。
+
+| pc_cli_generation/ | Test-Voice 根上的 `main.py` 命令行一代 | 电脑版企业微信 FTA 长按转发的可运行代码：`app/messaging`、`app/pc_wecom`、`app/automation`、`app/orchestrator`、`app/device`、`app/audio` 及对应测试。 |

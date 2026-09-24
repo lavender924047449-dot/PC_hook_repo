@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "name": "smoke · voice only",
+    "note": "Stage 4.5.4 端到端: 复用旧 CablePlayer + AudioPreprocessor。path 指向一段 wav/mp3"
+  },
+  "intervals": {
+    "voice": [3.0, 5.0]
+  },
+  "tasks": [
+    {
+      "label": "smoke-voice",
+      "contacts": ["群姐"],
+      "messages": [
+        {"type": "voice", "path": "test.wav"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "name": "真机冒烟 · FTA 语音",
+    "note": "只发给文件传输助手。依赖 VB-CABLE 虚拟麦克风。"
+  },
+  "intervals": {
+    "voice": [8.0, 10.0]
+  },
+  "tasks": [
+    {
+      "label": "FTA 语音",
+      "contacts": ["文件传输助手"],
+      "messages": [
+        {
+          "type": "voice",
+          "path": "D:/Only internship outputs/Test-Voice/runtime/silk_cache/e53d652cf063eb549c4e8de76c66241ef5d9cfee.wav"
+        }
+      ]
+    }
+  ]
+}

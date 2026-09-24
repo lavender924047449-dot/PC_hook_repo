@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "name": "smoke · text only",
+    "note": "Stage 4.5.2 端到端测试, 只含 TEXT 消息, 发给你的测试联系人"
+  },
+  "intervals": {
+    "text": [2.0, 3.0]
+  },
+  "tasks": [
+    {
+      "label": "smoke",
+      "contacts": ["群姐"],
+      "messages": [
+        {"type": "text", "text": "Stage 4.5.2 自动化测试 消息 1"},
+        {"type": "text", "text": "第二条: 中文 + emoji ✨🎉"}
+      ]
+    }
+  ]
+}

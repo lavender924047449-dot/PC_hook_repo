@@ -1,0 +1,5 @@
+{
+  "meta": {"name": "真机冒烟 · FTA 文件", "note": "SAF 关键字 fta_file_smoke"},
+  "intervals": {"file": [4.0, 5.0]},
+  "tasks": [{"label": "FTA 文件", "contacts": ["文件传输助手"], "messages": [{"type": "file", "path": "fta_file_smoke"}]}]
+}
